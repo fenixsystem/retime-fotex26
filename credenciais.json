@@ -1,9 +1,16 @@
 [
   {
-    "categoria": "[COLORwhite]NOVA VERSÃO 2.0.0 DISPONIVEL NO FICHEIRO https://gifpegtv.github.io[/COLOR]",
+    "categoria": "[COLORwhite]CANAIS[/COLOR]",
     "icon": "https://i.imgur.com/FBK5qFX.png",
     "fanart": "",
     "servidores": [
+      {
+        "nome": "[COLORwhite]https://gifpegtv.github.io[/COLOR]",
+        "dns": "http://kihniki.top",
+        "username": "010639",
+        "password": "674891",
+        "icon": ""
+      },
       {
         "nome": "[COLORwhite]https://gifpegtv.github.io[/COLOR]",
         "dns": "http://kihniki.top",
