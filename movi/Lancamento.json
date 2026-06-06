@@ -3,7 +3,7 @@
     
   {
       "nome": "Iron Lung: Oceano de Sangue (2026)",
-      "url": "plugin://plugin.video.Stream_player?url=https://luluvid.com/e/jmdhk7ie6oy3&subs=https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/vvt/IRON.LUNG.2026.srt",
+      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:654026c745c4fcb2f64070f501c54bd3b31b0bbd&subs=https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/vvt/Agent.Zeta.2026.srt",
       "imagem": "https://image.tmdb.org/t/p/original/nMUcWDevmYy4gM0L5ZAt2OBFACC.jpg",
       "fanart": "https://image.tmdb.org/t/p/original/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/1aNakwExXAc8t4136LD4iBUHgDG.png",
