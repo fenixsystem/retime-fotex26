@@ -11,16 +11,16 @@
       "legenda": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/vvt/Agent.Zeta.2026.srt",
       "tipo": "filme"
     },
-  {
-  "nome": "O Jogo do Predador teste(2026)",
-  "url": "magnet:?xt=urn:btih:c6043ce8774d0506fb678bcb0d5c3669cb4c150e",
-  "imagem": "https://image.tmdb.org/t/p/original/nKLZ5DZSHfUKHx2aZPHLSYAue7K.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/s3sJ6kI3PuaNF3eiaH29HdIWND6.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/bnQl8P74NUBOk7v4Kw2ND8Aqh1s.png",
-  "sinopse": "[COLOR yellow]Ação, Suspense[/COLOR]\nQuando uma viciada em adrenalina se propõe a conquistar um rio ameaçador, ela descobre que a natureza não é a única coisa que procura sangue. ",
-  "legenda": "",
-  "tipo": "filme"
- },  
+    {
+      "nome": "O Sussurro (2026)",
+      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d21d2f2c0d4d9456c5e3dca2380e8e2e818457b7",
+      "imagem": "https://image.tmdb.org/t/p/original/q0bphkSVusohktnIhtXzdimO6xR.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/vD2IsRkXyIzZkT8NHop8FUh4jwv.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/jGteuke59UjQx2dsj0MPxkitI3x.png",
+      "sinopse": "[COLOR yellow]Terror[/COLOR]\nAssombrados pelo legado vampírico do pai, os irmãos Lucía e Adrián se refugiam numa casa isolada na floresta e logo descobrem que uma ameaça ainda mais sangrenta os espreita na casa ao lado.",
+      "legenda": "",
+      "tipo": "filme"
+    },  
   {
   "nome": "Uma Segunda Chance (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ea7c0b5f34911188d992bee1e645cd8998abef6&",
