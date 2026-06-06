@@ -1,5 +1,15 @@
 {
   "episodios": [
+ {
+      "nome": "Cara de Um, Focinho de Outro (2026)",
+      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d87f4856eb70663c85c99a89781185bf7d6cc3d",
+      "imagem": "https://image.tmdb.org/t/p/original/ftPFJBGbldoWiiPrmesW96zBzdH.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/ib7qnSUbm2zACid6oSVgG1kt3ZG.png",
+      "sinopse": "[COLOR yellow]Aventura, Animação, Comédia, Família, Ficção científica[/COLOR]\nMabel é uma jovem amante da natureza que tenta impedir o prefeito Jerry de construir uma rodovia que destruirá suas florestas locais. Graças a um experimento secreto de troca de cérebros, Mabel consegue transferir sua mente para um castor robô e segue para um lago, onde refugiados da industrialização invasora desembarcaram. Lá, ela tenta convencer os animais, liderados pelo castor majestoso Rei George, a se juntarem a ela e impedirem a construção da rodovia.",
+      "legenda": "",
+      "tipo": "filme"
+    },   
 {
   "nome": "Um Cabra Bom de Bola (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdd93ccfd0d235fa290b5b4690b7d792bef362e2&",
