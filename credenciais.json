@@ -1,171 +1,167 @@
 [
   {
-    "categoria": "[COLORwhite]CANAIS[/COLOR]",
-    "icon": "https://i.imgur.com/FBK5qFX.png",
+    "nome": "[COLOR white]CANAIS[/COLOR]",
+    "imagem": "https://i.imgur.com/FBK5qFX.png",
     "fanart": "",
-    "servidores": [
+    "itens": [
       {
-        "nome": "[COLORwhite]SERVIDOR 1[/COLOR]",
-        "dns": "http://kihniki.top",
-        "username": "010639",
-        "password": "674891",
-        "icon": ""
+        "nome": "[COLOR white]SERVIDOR 1[/COLOR]",
+        "url": "http://kihniki.top/get.php?auth=010639:674891",
+        "imagem": "",
+        "tipo": "filme"
       },
       {
-        "nome": "[COLORwhite]SERVIDOR 2[/COLOR]",
-        "dns": "http://ponteproxy.online:80",
-        "username": "carlos1599",
-        "password": "rF7Hj3",
-        "icon": ""
+        "nome": "[COLOR white]SERVIDOR 2[/COLOR]",
+        "url": "http://ponteproxy.online:80/get.php?auth=carlos1599:rF7Hj3",
+        "imagem": "",
+        "tipo": "filme"
       },
       {
-        "nome": "[COLORwhite]SERVIDOR 3[/COLOR]",
-        "dns": "http://shazamplay.top:80",
-        "username": "KeCg6Dfe7123",
-        "password": "Xteste162772hh",
-        "icon": ""
+        "nome": "[COLOR white]SERVIDOR 3[/COLOR]",
+        "url": "http://shazamplay.top:80/get.php?auth=KeCg6Dfe7123:Xteste162772hh",
+        "imagem": "",
+        "tipo": "filme"
       }
-       ]
-    },
+    ]
+  },
+  {
+    "nome": "● [B]Filmes[/B] ●",
+    "imagem": "https://i.postimg.cc/v82f6zVM/movi.jpg",
+    "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
+    "itens": [
       {
-      "nome": "● [B]Filmes[/B] ●",
-      "imagem": "https://i.postimg.cc/v82f6zVM/movi.jpg",
-      "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
-      "itens": [
-        {
-          "nome": "4k",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/4cap.json",
-          "imagem": "https://i.postimg.cc/SQ8t1NWj/Copilot-20260418-160400.png",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Lançamentos",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/main/movi/Lancamento.json",
-          "imagem": "https://i.postimg.cc/ncWGpXHq/Copilot-20260322-011929.png",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Ação",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Acao.json",
-          "imagem": "https://i.postimg.cc/3RbdmDbQ/Copilot_20260322_012230.png",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Animação",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/main/movi/Animacao.json",
-          "imagem": "https://i.postimg.cc/8k97CM6c/Copilot_20260322_012442.png",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Aventura",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/main/movi/Aventura.json",
-          "imagem": "https://i.postimg.cc/BncbNzwT/Copilot_20260322_012900.png",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Comédia",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Comedia.json",
-          "imagem": "https://i.postimg.cc/nMfVGK4Y/Copilot_20260322_013118.png",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Drama",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Drama.json",
-          "imagem": "https://i.postimg.cc/CL84NjTd/Copilot_20260322_013306.png",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Fantasia",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Fantasia.json",
-          "imagem": "https://i.postimg.cc/0yq0HbP3/Copilot_20260322_013457.png",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Ficção Cientifica",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/FiccaoCientifica.json",
-          "imagem": "https://i.postimg.cc/k5JFqzVf/Copilot_20260322_013650.png",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Super-Heróis",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/SuperHerois.json",
-          "imagem": "https://i.postimg.cc/tT16gj9D/Copilot_20260322_014510.png",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Mistério",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Misterio.json",
-          "imagem": "https://i.postimg.cc/zBMnwfxF/Copilot_20260322_013828.png",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Suspense",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Suspense.json",
-          "imagem": "https://i.postimg.cc/mZvYttzD/Copilot_20260322_014037.png",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Terror",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Terror.json",
-          "imagem": "https://i.postimg.cc/523L7gPq/Copilot_20260322_014212.png",
-          "tipo": "serie"
-        }
-      ]
-    },
-    {
-      "nome": "● [B]Séries[/B] ●",
-      "imagem": "https://i.postimg.cc/SK4Mp1wc/SERIESo1.jpg",
-      "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
-      "itens": [
-         {
-          "nome": "Stranger Things: Histórias de 85 (2026)",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Stranger.Things.Tales.from.json",
-          "imagem": "https://image.tmdb.org/t/p/original/b5DNPTXVhiG4hiANRyAvPj21n6I.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
-          "sinopse": "[COLOR yellow]Animação, Aventura, Ficção[/COLOR]\nRetorne a Hawkins com Stranger Things: Histórias de 85, a nova série de animação do showrunner Eric Robles com produção executiva dos irmãos Duffer. No inverno de 1985, a cidade está coberta de neve e se recuperando dos horrores do Mundo Invertido. A vida de Onze, Mike, Will, Dustin, Lucas e Max volta ao normal, com direito a partidas de Dungeons & Dragons, guerras de bolas de neve e dias tranquilos. Contudo, algo terrível despertou sob o gelo. Ninguém sabe se sua origem é o Mundo Invertido, as profundezas do Laboratório de Hawkins ou algum outro lugar. Agora, nossos heróis precisam correr contra o tempo para solucionar esse mistério e salvar a cidade nesta nova história ambientada no universo de Stranger Things. ",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Monarch – Legado de Monstros (2023)",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Monarch.json",
-          "imagem": "https://image.tmdb.org/t/p/original/dxe7rVZdfzIapZVHmAkXCBtb05I.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/7IY4wELVMvtUc78vPiuL8kQV2iA.jpg",
-          "sinopse": "[COLOR yellow]Ação, Aventura, Drama[/COLOR]\nDepois de sobreviver ao ataque do Godzilla em São Francisco, Cate volta a ficar abalada com um segredo chocante. Entre ameaças monstruosas, ela embarca numa aventura pelo mundo para saber a verdade sobre a sua família e sobre a organização misteriosa conhecida como Monarch. ",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Demolidor: Renascido (2025)",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Demolidor.json",
-          "imagem": "https://image.tmdb.org/t/p/original/4qTAho3oy1XqZG8oFJok4LGR9mx.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/1Fsu4SQPQloCSdb3rETMPe8BMXs.jpg",
-          "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nMatt Murdock, um advogado cego com capacidades melhoradas, luta pela justiça através da sua popular firma de advogados, enquanto o antigo líder da máfia Wilson Fisk persegue os seus próprios objetivos políticos em Nova Iorque. Quando as identidades passadas de ambos começam a emergir, os dois homens acabam numa inevitável rota de colisão.",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Pacificador (2022)",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Pacificador.json",
-          "imagem": "https://image.tmdb.org/t/p/original/7OzNhrI8CwMkeTmqdVRPFZK2bkN.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/q7YHckbOAcGplmD3YIH7nMESQ2l.jpg",
-          "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nCriada por James Gunn, esta série dá continuidade à saga do Peacemaker, um herói/anti-herói presunçoso que acredita na paz a qualquer custo — mesmo que isso signifique matar quem for preciso. Depois de uma recuperação milagrosa do seu duelo com Bloodsport, o Peacemaker descobre rapidamente que a sua liberdade tem um preço.",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Origem (2022)",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/From.json",
-          "imagem": "https://image.tmdb.org/t/p/original/dhdZHpabPl7GZEaEtuhBUSerYqd.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
-          "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nDos mesmos produtores de Lost, From acompanha o casal Jim e Tabitha Matthew e seus filhos Julie e Ethan. Durante uma viagem de trailer pelos Estados Unidos, eles acabam entrando em uma pequena cidade interiorana no meio-oeste americano. A princípio, tudo parece normal, mas, então, eles notam que não conseguem sair do vilarejo. Todo caminho que entram leva sempre ao mesmo lugar. Conversando com os outros moradores, eles decobrem que todos também chegaram a cidade da mesma foram e ficaram presos. Para piorar, a noite o lugar é cercado por misteriosas criaturas.",
-          "tipo": "serie"
-        },
-        {
-          "nome": "O Rastreador (2022)",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Tracker.json",
-          "imagem": "https://image.tmdb.org/t/p/original/4HGn3xNtkA8AfC026eJq8BvEYLv.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/rIO4qhgTbCsTFJUp3UZP2ZbwPZF.jpg",
-          "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nColter Shaw viaja pelo país em seu trailer antigo para ajudar a polícia e cidadãos particulares a solucionar crimes e localizar pessoas desaparecidas, até que seu último caso muda tudo.",
-          "tipo": "serie"
-        }
-
+        "nome": "4k",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/4cap.json",
+        "imagem": "https://i.postimg.cc/SQ8t1NWj/Copilot-20260418-160400.png",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Lançamentos",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/main/movi/Lancamento.json",
+        "imagem": "https://i.postimg.cc/ncWGpXHq/Copilot-20260322-011929.png",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Ação",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Acao.json",
+        "imagem": "https://i.postimg.cc/3RbdmDbQ/Copilot_20260322_012230.png",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Animação",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/main/movi/Animacao.json",
+        "imagem": "https://i.postimg.cc/8k97CM6c/Copilot_20260322_012442.png",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Aventura",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/main/movi/Aventura.json",
+        "imagem": "https://i.postimg.cc/BncbNzwT/Copilot_20260322_012900.png",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Comédia",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Comedia.json",
+        "imagem": "https://i.postimg.cc/nMfVGK4Y/Copilot_20260322_013118.png",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Drama",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Drama.json",
+        "imagem": "https://i.postimg.cc/CL84NjTd/Copilot_20260322_013306.png",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Fantasia",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Fantasia.json",
+        "imagem": "https://i.postimg.cc/0yq0HbP3/Copilot_20260322_013457.png",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Ficção Cientifica",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/FiccaoCientifica.json",
+        "imagem": "https://i.postimg.cc/k5JFqzVf/Copilot_20260322_013650.png",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Super-Heróis",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/SuperHerois.json",
+        "imagem": "https://i.postimg.cc/tT16gj9D/Copilot_20260322_014510.png",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Mistério",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Misterio.json",
+        "imagem": "https://i.postimg.cc/zBMnwfxF/Copilot_20260322_013828.png",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Suspense",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Suspense.json",
+        "imagem": "https://i.postimg.cc/mZvYttzD/Copilot_20260322_014037.png",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Terror",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Terror.json",
+        "imagem": "https://i.postimg.cc/523L7gPq/Copilot_20260322_014212.png",
+        "tipo": "serie"
+      }
+    ]
+  },
+  {
+    "nome": "● [B]Séries[/B] ●",
+    "imagem": "https://i.postimg.cc/SK4Mp1wc/SERIESo1.jpg",
+    "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
+    "itens": [
+      {
+        "nome": "Stranger Things: Histórias de 85 (2026)",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Stranger.Things.Tales.from.json",
+        "imagem": "https://image.tmdb.org/t/p/original/b5DNPTXVhiG4hiANRyAvPj21n6I.jpg",
+        "fanart": "https://image.tmdb.org/t/p/original/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
+        "sinopse": "[COLOR yellow]Animação, Aventura, Ficção[/COLOR]\nRetorne a Hawkins com Stranger Things: Histórias de 85, a nova série de animação do showrunner Eric Robles com produção executiva dos irmãos Duffer. No inverno de 1985, a cidade está coberta de neve e se recuperando dos horrores do Mundo Invertido. A vida de Onze, Mike, Will, Dustin, Lucas e Max volta ao normal, com direito a partidas de Dungeons & Dragons, guerras de bolas de neve e dias tranquilos. Contudo, algo terrível despertou sob o gelo. Ninguém sabe se sua origem é o Mundo Invertido, as profundezas do Laboratório de Hawkins ou algum outro lugar. Agora, nossos heróis precisam correr contra o tempo para solucionar esse mystério e salvar a cidade nesta nova história ambientada no universo de Stranger Things.",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Monarch – Legado de Monstros (2023)",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Monarch.json",
+        "imagem": "https://image.tmdb.org/t/p/original/dxe7rVZdfzIapZVHmAkXCBtb05I.jpg",
+        "fanart": "https://image.tmdb.org/t/p/original/7IY4wELVMvtUc78vPiuL8kQV2iA.jpg",
+        "sinopse": "[COLOR yellow]Ação, Aventura, Drama[/COLOR]\nDepois de sobreviver ao ataque do Godzilla em São Francisco, Cate volta a ficar abalada com um segredo chocante. Entre ameaças monstruosas, ela embarca numa aventura pelo mundo para saber a verdade sobre a sua família e sobre a organização misteriosa conhecida como Monarch.",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Demolidor: Renascido (2025)",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Demolidor.json",
+        "imagem": "https://image.tmdb.org/t/p/original/4qTAho3oy1XqZG8oFJok4LGR9mx.jpg",
+        "fanart": "https://image.tmdb.org/t/p/original/1Fsu4SQPQloCSdb3rETMPe8BMXs.jpg",
+        "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nMatt Murdock, um advogado cego com capacidades melhoradas, luta pela justiça através da sua popular firma de advogados, enquanto o antigo líder da máfia Wilson Fisk persegue os seus próprios objetivos políticos em Nova Iorque. Quando as identidades passadas de ambos começam a emergir, os dois homens acabam numa inevitável rota de colisão.",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Pacificador (2022)",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Pacificador.json",
+        "imagem": "https://image.tmdb.org/t/p/original/7OzNhrI8CwMkeTmqdVRPFZK2bkN.jpg",
+        "fanart": "https://image.tmdb.org/t/p/original/q7YHckbOAcGplmD3YIH7nMESQ2l.jpg",
+        "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nCriada por James Gunn, esta série dá continuidade à saga do Peacemaker, um herói/anti-herói presunçoso que acredita na paz a qualquer custo — mesmo que isso signifique matar quem for preciso. Depois de uma recuperação milagrosa do seu duelo com Bloodsport, o Peacemaker descobre rapidamente que a sua liberdade tem um preço.",
+        "tipo": "serie"
+      },
+      {
+        "nome": "Origem (2022)",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/From.json",
+        "imagem": "https://image.tmdb.org/t/p/original/dhdZHpabPl7GZEaEtuhBUSerYqd.jpg",
+        "fanart": "https://image.tmdb.org/t/p/original/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+        "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nDos mesmos produtores de Lost, From acompanha o casal Jim e Tabitha Matthew e seus filhos Julie e Ethan. Durante uma viagem de trailer pelos Estados Unidos, eles acabam entrando em uma pequena cidade interiorana no meio-oeste americano. A princípio, tudo parece normal, mas, então, eles notam que não conseguem sair do vilarejo. Todo caminho que entram leva sempre ao mesmo lugar. Conversando com os outros moradores, eles descobrem que todos também chegaram à cidade da mesma forma e ficaram presos. Para piorar, à noite o lugar é cercado por misteriosas criaturas.",
+        "tipo": "serie"
+      },
+      {
+        "nome": "O Rastreador (2022)",
+        "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Tracker.json",
+        "imagem": "https://image.tmdb.org/t/p/original/4HGn3xNtkA8AfC026eJq8BvEYLv.jpg",
+        "fanart": "https://image.tmdb.org/t/p/original/rIO4qhgTbCsTFJUp3UZP2ZbwPZF.jpg",
+        "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nColter Shaw viaja pelo país em seu trailer antigo para ajudar a polícia e cidadãos particulares a solucionar crimes e localizar pessoas desaparecidas, até que seu último caso muda tudo.",
+        "tipo": "serie"
+      }
     ]
   }
 ]
