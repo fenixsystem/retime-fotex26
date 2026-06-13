@@ -1,21 +1,13 @@
 {
   "episodios": [
 {
-  "nome": "Caminhos do Crime (2026)",
-  "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjAwNWQxYjY5MDJiZWVkMjRkOTljNzgzNDY3ZmM0YWQ4OTM5Yjg1NDMm",
-  "imagem": "https://image.tmdb.org/t/p/original/3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/sl2649wlcocfFU7HKxQgNUEBMnT.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/biJM58Ih5jxjKN9Wiwp4NHXohks.png",
-  "sinopse": "[COLOR yellow]Crime, Drama, Suspense[/COLOR]\nUm ladrão prestes a realizar seu último grande golpe cruza o caminho de uma corretora de seguros desiludida. Enquanto os dois se envolvem, um detetive implacável os persegue para impedir o assalto milionário que estão planejando.",
-  "legenda": "",
-  "tipo": "filme"
- },
-
-    {
-      "nome": "1x02 - Nome do Episódio 2",
-      "url": "plugin://plugin.video.elementum/play?uri=LINK_TORRENT_EP2",
-      "imagem": "https://thumb-do-episodio.jpg",
-      "sinopse": "Resumo do episódio 2.",
+      "nome": "Mortal Kombat 2 (2026)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOmFjYWZmMWFhZGMxM2YxMjlhZjYzZDEwZDRlZDRhZWRhZTc4Mjc3NDg=",
+      "imagem": "https://image.tmdb.org/t/p/original/iILiJSRViTEcF23MHhGCbVm3mfW.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/g3Ieoiiyfa0FOJR7LcoJZgh2Arf.png",
+      "sinopse": "[COLOR yellow]Ação, Fantasia, Aventura[/COLOR]\nOs campeões favoritos dos fãs – agora acompanhados pelo próprio Johnny Cage – são colocados uns contra os outros numa sangrenta e derradeira batalha, sem regras ou limites, para derrotar o governo sombrio de Shao Kahn.",
+      "legenda": "",
       "tipo": "filme"
     }
   ]
