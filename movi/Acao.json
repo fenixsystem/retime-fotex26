@@ -1,5 +1,25 @@
 {
   "episodios": [
+     {
+      "nome": "Mortal Kombat 2 (2026)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjk2OTgzOGY5ZGY1OWQ2ZjE4MDBmNmZlMmE3NjhhZTA4NjQyZWIzMTE=",
+      "imagem": "https://image.tmdb.org/t/p/original/iILiJSRViTEcF23MHhGCbVm3mfW.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/g3Ieoiiyfa0FOJR7LcoJZgh2Arf.png",
+      "sinopse": "[COLOR yellow]Ação, Fantasia, Aventura[/COLOR]\nOs campeões favoritos dos fãs – agora acompanhados pelo próprio Johnny Cage – são colocados uns contra os outros numa sangrenta e derradeira batalha, sem regras ou limites, para derrotar o governo sombrio de Shao Kahn.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+   {
+      "nome": "Dhurandhar: A Vingança (2026)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOmRmMDc0ODlmNmMwNThmMWRhZGJjNGYxNWU5MDBiN2ZiMDBjODdmMDI=",
+      "imagem": "https://image.tmdb.org/t/p/original/75u9zAPjWQ8zKMJOzWsATaUdM7x.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/gRoZG3Z0zJxgElmTsVHOl2dNYXe.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/s7VHVLsGZgmafbsqkJ5jFsZPhyo.png",
+      "sinopse": "[COLOR yellow]Ação, Crime, Thriller[/COLOR]\nMovido por uma tragédia pessoal, Hamza mergulha ainda mais fundo na missão de acabar com o submundo do crime do Paquistão nesta sequência inédita de Dhurandhar.",
+      "legenda": "",
+      "tipo": "filme"
+    },   
  {
   "nome": "O Jogo do Predador (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59340c166ce5b1f763a0f0d5f316d28c748900ed&",
