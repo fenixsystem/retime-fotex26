@@ -11,11 +11,14 @@
   "tipo": "filme"
  },
 
-    {
-      "nome": "1x02 - Nome do Episódio 2",
-      "url": "plugin://plugin.video.elementum/play?uri=LINK_TORRENT_EP2",
-      "imagem": "https://thumb-do-episodio.jpg",
-      "sinopse": "Resumo do episódio 2.",
+   {
+      "nome": "Devoradores de Estrelas (2026)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjJhOWM5NDQ4ODBlZDA2NTZhYzU1MGM5ZGU0OTc0NWY5ZmQxZDM4ZGE=",
+      "imagem": "https://image.tmdb.org/t/p/original/7pIgFNoX07z7alHt73TSsKRtYye.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/wxmXmN6o0gskcBFw9KOMjmPc420.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Aventura[/COLOR]\nProfessor de ciências do ensino fundamental acorda em espaçonave a anos-luz da Terra sem memória de como foi parar ali. Aos poucos, lembra que foi recrutado para uma missão na qual precisa investigar o motivo pelo qual o Sol está morrendo.",
+      "legenda": "",
       "tipo": "filme"
     }
   ]
