@@ -1,5 +1,15 @@
 {
   "episodios": [
+   {
+      "nome": "Michael (2026)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjk1YmJhZjI1ZDUyYzYxY2JhMTM0NTRlNTczOWU2YzVlMTBiZmNhN2E=",
+      "imagem": "https://image.tmdb.org/t/p/original/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/zEMrTq3hkBW70iPcGDozW44taIz.png",
+      "sinopse": "[COLOR yellow]Música, Drama[/COLOR]\nA história da vida de Michael Jackson além da música, traçando sua jornada desde a descoberta de seu talento extraordinário como líder dos Jackson Five até o artista visionário cuja ambição criativa impulsionou uma busca implacável para se tornar o maior artista do mundo.",
+      "legenda": "",
+      "tipo": "filme"
+    }, 
 {
   "nome": "One Chicago Crossover (2025)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a0901cb17672796d7dcd0bccadf4a3d34cccd49&",
