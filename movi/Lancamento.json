@@ -1,6 +1,16 @@
 {
   "episodios": [
     {
+      "nome": "Projeto Internato (2026)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjE1N2VkZjVlNjMyNTk2NzQyOTdhYmQ0MGE0MzhhNTE3YWNkOWJiNGY=",
+      "imagem": "https://image.tmdb.org/t/p/original/7Fpse7kK9AmNYHczkhQs2aQ7mUS.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/nTGW7x8BpQNk6QeqBHCj7bc37OV.png",
+      "sinopse": "[COLOR yellow]Ação[/COLOR]\nUma assassina treinada pela CIA recruta outros graduados de seu programa secreto de infância, conhecido como “O Estágio”, para destruir violentamente a própria organização. Em resposta, a CIA reage com força letal.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
       "nome": "Devoradores de Estrelas (2026)",
       "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjJhOWM5NDQ4ODBlZDA2NTZhYzU1MGM5ZGU0OTc0NWY5ZmQxZDM4ZGE=",
       "imagem": "https://image.tmdb.org/t/p/original/7pIgFNoX07z7alHt73TSsKRtYye.jpg",
