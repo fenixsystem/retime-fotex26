@@ -6,6 +6,13 @@
     "servidores": [
       {
         "nome": "[COLORwhite]SERVIDOR 1[/COLOR]",
+        "dns": "http://fbld.in",
+        "username": "olavogeraldo",
+        "password": "geraldo1530",
+        "icon": ""
+      },
+      {
+        "nome": "[COLORwhite]SERVIDOR 1[/COLOR]",
         "dns": "http://777up.online:80",
         "username": "ven4w3nvn502",
         "password": "11995551727",
