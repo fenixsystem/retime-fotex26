@@ -1,6 +1,16 @@
 {
   "episodios": [
  {
+      "nome": "Um Pai em Apuros (2026)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjdiZjI0OGZjNzIxNTIwOTgxY2FlMWFiNjc1MTVmZjU0Mzk0Mzc0MmE=",
+      "imagem": "https://image.tmdb.org/t/p/original/s99RBLQXE0GaqrlprP1HwV5HOQO.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/pt9wLsvNywyPT3485P30CPRICU.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/7mp8iVBEnprdmEqHzjKXZqwIpZm.png",
+      "sinopse": "[COLOR yellow]Comédia[/COLOR]\nRoberta está cansada de cuidar da casa e dos filhos sozinha, e decide tirar férias, enquanto deixa o marido cuidando dos filhos. O resultado é que a casa fica de pernas para o ar, já que Fred tenta conciliar as demandas familiares e as responsabilidades no trabalho. Entre risadas e confusões, o filme mostra como a família pode superar desafios quando estão juntos.",
+      "legenda": "",
+      "tipo": "filme"
+    },   
+ {
   "nome": "Alerta Apocalipse (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:011c4859efcb735bd5b535b23e7ac08b41c766f2&",
   "imagem": "https://image.tmdb.org/t/p/original/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg",
