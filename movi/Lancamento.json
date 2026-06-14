@@ -1,6 +1,16 @@
 {
   "episodios": [
     {
+      "nome": "Eu sou Frankelda (2025)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjIxNWMyNTExMTYxMjlkMzY3Y2RjMzVhMTcyMDhmZDc5ZTA4MWRjZDQ=",
+      "imagem": "https://image.tmdb.org/t/p/original/d7BsXPE4vv6UFaD52J4rlQq5pWU.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/pme7D46PxaOdNWika46q5VUS2CR.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/oCePwThPypIbP9xwrf4QoWzrFJz.png",
+      "sinopse": "[COLOR yellow]Animação, Família, Fantasia, Terror, Aventura[/COLOR]\nUma jovem e talentosa escritora do México do século XIX viaja para o seu subconsciente e se depara com personagens de suas próprias histórias assustadoras.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
       "nome": "Projeto Internato (2026)",
       "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjE1N2VkZjVlNjMyNTk2NzQyOTdhYmQ0MGE0MzhhNTE3YWNkOWJiNGY=",
       "imagem": "https://image.tmdb.org/t/p/original/7Fpse7kK9AmNYHczkhQs2aQ7mUS.jpg",
