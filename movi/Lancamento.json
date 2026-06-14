@@ -1,6 +1,16 @@
 {
   "episodios": [
     {
+      "nome": "Michael (2026)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjk1YmJhZjI1ZDUyYzYxY2JhMTM0NTRlNTczOWU2YzVlMTBiZmNhN2E=",
+      "imagem": "https://image.tmdb.org/t/p/original/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/zEMrTq3hkBW70iPcGDozW44taIz.png",
+      "sinopse": "[COLOR yellow]Música, Drama[/COLOR]\nA história da vida de Michael Jackson além da música, traçando sua jornada desde a descoberta de seu talento extraordinário como líder dos Jackson Five até o artista visionário cuja ambição criativa impulsionou uma busca implacável para se tornar o maior artista do mundo.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
       "nome": "Um Pai em Apuros (2026)",
       "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjdiZjI0OGZjNzIxNTIwOTgxY2FlMWFiNjc1MTVmZjU0Mzk0Mzc0MmE=",
       "imagem": "https://image.tmdb.org/t/p/original/s99RBLQXE0GaqrlprP1HwV5HOQO.jpg",
