@@ -1,0 +1,7403 @@
+1
+00:04:08,958 --> 00:04:10,167
+Estou a ver o animal.
+
+2
+00:04:42,867 --> 00:04:44,994
+O quê?
+
+3
+00:04:46,328 --> 00:04:48,914
+Deixa-me sair!
+
+4
+00:04:58,048 --> 00:04:59,049
+Mantém-no estável!
+
+5
+00:05:11,854 --> 00:05:14,356
+Caramba, não o vejo.
+Consegues vê-lo?
+
+6
+00:05:14,440 --> 00:05:17,067
+Acalma-te, miúdo.
+Ela não pode fugir eternamente.
+
+7
+00:05:34,877 --> 00:05:37,213
+<i>Os dinossauros estão no nosso mundo.</i>
+
+8
+00:05:37,296 --> 00:05:41,050
+<i>E, com cada confrontação, aprendemos
+mais sobre esta nova realidade assustadora.</i>
+
+9
+00:05:43,886 --> 00:05:45,346
+<i>Como é que chegámos aqui?</i>
+
+10
+00:05:45,429 --> 00:05:47,056
+<i>Meu Deus!</i>
+
+11
+00:05:47,139 --> 00:05:50,643
+<i>Já passaram três décadas desde os
+acontecimentos mortais no Parque Jurássico,</i>
+
+12
+00:05:50,726 --> 00:05:53,896
+<i>e ainda não conseguimos encontrar uma
+forma de eles viverem em segurança entre nós.</i>
+
+13
+00:05:54,730 --> 00:05:58,442
+<i>Após a devastadora erupção do há muito
+adormecido vulcão da Ilha Nublar,</i>
+
+14
+00:05:58,526 --> 00:06:01,737
+<i>aqueles que sobreviveram foram
+transportados para o continente.</i>
+
+15
+00:06:01,820 --> 00:06:04,698
+<i>Muitos dos grandes predadores
+foram capturados...</i>
+
+16
+00:06:04,782 --> 00:06:06,867
+<i>mas, as restantes criaturas
+espalharam-se por aqui...</i>
+
+17
+00:06:06,951 --> 00:06:09,537
+<i>no Parque Nacional "Big Rock".</i>
+
+18
+00:06:09,620 --> 00:06:13,165
+<i>Embora a maioria tenha permanecido em
+estado selvagem, aqueles que chegaram à civilização...</i>
+
+19
+00:06:13,249 --> 00:06:16,193
+<i>tiveram enormes dificuldades para
+se adaptarem a condições desconhecidas.</i>
+
+20
+00:06:17,086 --> 00:06:19,797
+<i>As autoridades locais alertaram para
+o facto de os animais serem imprevisíveis...</i>
+
+21
+00:06:19,880 --> 00:06:22,716
+<i>e, quando com fome,
+extremamente violentos.</i>
+
+22
+00:06:22,800 --> 00:06:26,720
+<i>À medida que os dinossauros se espalham pelas
+nossas fronteiras, um mercado negro global surgiu...</i>
+
+23
+00:06:26,804 --> 00:06:30,849
+- <i>Eles não são nossos.
+- Força, seus falhados patéticos!</i>
+
+24
+00:06:30,933 --> 00:06:33,978
+<i>Para combater a crescente ameaça
+da caça ilegal,</i>
+
+25
+00:06:34,061 --> 00:06:36,021
+<i>o Congresso dos EUA concedeu
+todos os direitos de apreensão...</i>
+
+26
+00:06:36,105 --> 00:06:39,275
+<i>ao gigante global "Biosyn Genetics".</i>
+
+27
+00:06:39,358 --> 00:06:41,986
+<i>Na "Biosyn", dedicamo-nos à ideia...</i>
+
+28
+00:06:42,069 --> 00:06:46,115
+<i>de que os dinossauros nos podem
+ensinar mais sobre nós próprios.</i>
+
+29
+00:06:46,699 --> 00:06:51,787
+<i>O CEO Lewis Dodgson criou um
+santuário nas Montanhas Dolomitas, em Itália...</i>
+
+30
+00:06:51,870 --> 00:06:54,707
+<i>onde ele espera poder estudar os antigos
+sistemas imunológicos dos dinossauros...</i>
+
+31
+00:06:54,790 --> 00:06:56,917
+<i>em busca de propriedades
+farmacêuticas únicas.</i>
+
+32
+00:06:57,001 --> 00:07:00,546
+<i>Embora a "Biosyn" acredite que podemos
+utilizar o poder genético com responsabilidade,</i>
+
+33
+00:07:00,629 --> 00:07:02,339
+<i>a opinião pública mantém-se séptica.</i>
+
+34
+00:07:03,090 --> 00:07:08,512
+<i>Alguns afirmam que estes acordos governamentais
+trouxeram enormes lucros à "Biosyn".</i>
+
+35
+00:07:08,596 --> 00:07:13,265
+<i>E persistem os rumores de que um
+clone humano desapareceu misteriosamente,</i>
+
+36
+00:07:13,310 --> 00:07:14,810
+<i>levando a uma busca a nível mundial.</i>
+
+37
+00:07:15,394 --> 00:07:18,397
+<i>Algumas pessoas acreditam que ela é
+geneticamente idêntica a Charlotte Lockwood,</i>
+
+38
+00:07:18,480 --> 00:07:22,151
+<i>a falecida filha do co-fundador
+do Parque Jurássico, Benjamin Lockwood.</i>
+
+39
+00:07:22,234 --> 00:07:25,529
+<i>Agora que trouxemos estes
+animais de volta da extinção,</i>
+
+40
+00:07:25,613 --> 00:07:27,406
+<i>conseguiremos enfrentar
+as consequências?</i>
+
+41
+00:07:28,115 --> 00:07:29,575
+<i>Somos responsáveis por eles...</i>
+
+42
+00:07:29,658 --> 00:07:32,161
+<i>ou eles devem ser deixados
+à sua própria sorte?</i>
+
+43
+00:07:32,870 --> 00:07:35,539
+<i>À medida que nos adaptamos
+a um mundo em constante mudança...</i>
+
+44
+00:07:35,623 --> 00:07:38,000
+<i>temos de encontrar respostas
+para estas perguntas...</i>
+
+45
+00:07:38,083 --> 00:07:40,502
+<i>para segurança deles
+assim como para a nossa.</i>
+
+46
+00:07:46,300 --> 00:07:47,718
+Larga!
+
+47
+00:07:49,094 --> 00:07:50,262
+Segurem-se!
+
+48
+00:07:59,465 --> 00:08:02,025
+<b><i>CRIAÇÃO DE GADO "SAW RIDGE"
+NEVADA</b></i>
+
+49
+00:08:25,923 --> 00:08:30,052
+Estamos no interior
+do centro de reprodução ilegal.
+
+50
+00:08:30,844 --> 00:08:34,139
+Os juvenis são mantidos em jaulas
+para redução de custos.
+
+51
+00:08:34,848 --> 00:08:36,475
+É medieval.
+
+52
+00:08:40,646 --> 00:08:41,646
+Claire.
+
+53
+00:08:46,151 --> 00:08:48,237
+Porque é que achas que
+ele está separado dos restantes?
+
+54
+00:08:50,322 --> 00:08:52,408
+Não me parece que ele vá resistir.
+
+55
+00:08:57,871 --> 00:09:00,624
+Não. O que é que estás a fazer?
+Podemos denunciar isto.
+
+56
+00:09:00,708 --> 00:09:03,710
+O Departamento de Pescas e Vida Selvagem
+(DFW) demora vários dias a investigar.
+
+57
+00:09:03,836 --> 00:09:05,713
+Podemos salvar este agora.
+
+58
+00:09:05,796 --> 00:09:08,257
+Está tudo bem.
+Está tudo bem, companheiro.
+
+59
+00:09:11,802 --> 00:09:12,886
+Está bem. Aqui vamos nós.
+
+60
+00:09:18,100 --> 00:09:19,768
+Não. Não!
+
+61
+00:09:19,852 --> 00:09:21,937
+- Levanta.
+- Está bem.
+
+62
+00:09:22,521 --> 00:09:23,939
+- Segura a cabeça.
+- Sim.
+
+63
+00:09:24,022 --> 00:09:25,691
+Está bem. Sim.
+
+64
+00:09:25,774 --> 00:09:27,669
+- Despacha-te!
+- Verifica o lado direito.
+
+65
+00:09:27,693 --> 00:09:29,528
+- Comigo.
+- Vai, vai, vai.
+
+66
+00:09:29,611 --> 00:09:31,113
+Está bem, vamos.
+Vamos, vamos.
+
+67
+00:09:36,243 --> 00:09:38,162
+- Agarrem-se!
+- A quê?!
+
+68
+00:09:51,445 --> 00:09:53,065
+<i><b>AVISO: NÃO TRESPASSAR
+OS VIOLADORES SERÃO ACUSADOS</b></i>
+
+69
+00:09:55,179 --> 00:09:56,680
+Merda!
+
+70
+00:10:02,227 --> 00:10:04,146
+Claire, vamos ser alvejados!
+
+71
+00:10:09,985 --> 00:10:12,571
+- Não! Claire! Não, não, Claire!
+- Meu Deus!
+
+72
+00:10:21,955 --> 00:10:22,955
+Merda!
+
+73
+00:10:26,627 --> 00:10:27,961
+Estão todos bem?
+
+74
+00:10:28,462 --> 00:10:29,755
+- Não!
+- Não!
+
+75
+00:10:40,766 --> 00:10:43,685
+Está bem. Está bem, então, acho que
+devíamos enviar este para o DFW,
+
+76
+00:10:43,769 --> 00:10:45,521
+e, depois, voltamos a atacá-los.
+
+77
+00:10:45,604 --> 00:10:48,106
+Sim. Sim, vocês viram
+o centro de reprodução, certo?
+
+78
+00:10:48,774 --> 00:10:50,145
+Acabamos por aqui.
+
+79
+00:10:51,902 --> 00:10:53,292
+Recebi uma chamada na semana passada.
+
+80
+00:10:53,362 --> 00:10:56,990
+É um emprego verdadeiro, algo que eu
+posso fazer para mudar as coisas.
+
+81
+00:10:57,074 --> 00:10:59,201
+- Tenho de aceitar.
+- Eles precisam de nós.
+
+82
+00:10:59,284 --> 00:11:02,246
+Estás a salvar estes dinossauros
+porque eles precisam de nós...
+
+83
+00:11:02,329 --> 00:11:04,581
+ou estás a salvá-los
+para que te possas perdoar?
+
+84
+00:11:04,665 --> 00:11:06,667
+- Claire.
+- Quer dizer, isto é uma loucura.
+
+85
+00:11:07,501 --> 00:11:08,985
+Claire...
+
+86
+00:11:09,211 --> 00:11:10,587
+estás a fazer o correcto.
+
+87
+00:11:10,671 --> 00:11:14,091
+Mas esta... esta já não é
+a forma de fazê-lo.
+
+88
+00:11:15,717 --> 00:11:18,112
+Honestamente, precisas de alguém
+que seja bom a ser alvejado.
+
+89
+00:11:18,136 --> 00:11:21,974
+Tu e o Owen ainda são,
+tipo... uma coisa estranha?
+
+90
+00:11:22,057 --> 00:11:24,017
+- Não é assim tão estranho.
+- Ele não quis dizer "estranho".
+
+91
+00:11:24,101 --> 00:11:25,644
+Não.
+
+92
+00:11:25,727 --> 00:11:28,021
+Ele quis dizer... surpreendente.
+
+93
+00:11:38,865 --> 00:11:42,019
+<b>MONTANHAS DA SIERRA NEVADA</b>
+
+94
+00:12:06,852 --> 00:12:07,978
+Vamos levá-los para casa!
+
+95
+00:12:59,279 --> 00:13:00,280
+Não.
+
+96
+00:13:12,793 --> 00:13:14,461
+Está bem, anda cá.
+
+97
+00:13:18,256 --> 00:13:20,050
+Está bem.
+
+98
+00:13:21,385 --> 00:13:22,928
+Então, então.
+
+99
+00:13:32,813 --> 00:13:34,815
+Vamos levar-te para um
+local seguro algures.
+
+100
+00:13:38,443 --> 00:13:41,196
+Então.
+
+101
+00:13:44,032 --> 00:13:45,283
+Aí está.
+
+102
+00:13:45,951 --> 00:13:47,160
+Aí está.
+
+103
+00:13:48,245 --> 00:13:49,246
+Sim.
+
+104
+00:14:27,743 --> 00:14:28,910
+Merda.
+
+105
+00:14:37,753 --> 00:14:41,224
+Caça ilegal dá três a cinco anos de prisão.
+Todos vocês sabem disso.
+
+106
+00:14:41,757 --> 00:14:44,593
+Parece que iremos retirar
+esse animal das vossas mãos.
+
+107
+00:14:44,676 --> 00:14:45,677
+Isso é que era bom.
+
+108
+00:14:46,261 --> 00:14:48,935
+Está bem. Parece que o nosso amigo
+não reconhece o distintivo.
+
+109
+00:14:51,475 --> 00:14:54,100
+Departamento de Pescas e Vida Selvagem.
+
+110
+00:14:55,645 --> 00:14:58,565
+Iremos recolher esse dinossauro
+para sua própria segurança.
+
+111
+00:15:00,484 --> 00:15:01,875
+Engraçado.
+
+112
+00:15:02,611 --> 00:15:06,915
+Porque aqui os meus amigos, tipicamente
+costumam conhecer todos os novos recrutas.
+
+113
+00:15:06,950 --> 00:15:09,765
+Shep, lembras-te de conhecer
+estes tipos na orientação ou não?
+
+114
+00:15:10,035 --> 00:15:11,445
+Não.
+
+115
+00:15:13,121 --> 00:15:17,335
+Pó de ossos de dinossauro vale o quê?
+3000 dólares cada 28 gramas (1 onça)?
+
+116
+00:15:17,459 --> 00:15:19,127
+Faz com que este animal aqui
+valha o quê?
+
+117
+00:15:20,629 --> 00:15:22,875
+Caramba! 500 000 dólares?
+
+118
+00:15:24,382 --> 00:15:26,565
+Como é que querem que isto se processe?
+
+119
+00:15:28,595 --> 00:15:30,765
+Os teus ossos não valem nada para mim.
+
+120
+00:15:31,431 --> 00:15:32,800
+Ouve, companheiro...
+
+121
+00:15:34,434 --> 00:15:35,435
+Ele não está a mentir.
+
+122
+00:15:53,954 --> 00:15:54,955
+Vemo-nos por aí.
+
+123
+00:16:03,213 --> 00:16:05,298
+Nunca te tinha visto
+virar costas a uma luta antes.
+
+124
+00:16:10,595 --> 00:16:11,875
+Pois.
+
+125
+00:16:12,514 --> 00:16:14,565
+Eu tenho obrigações.
+
+126
+00:17:19,748 --> 00:17:21,225
+Não devias estar na escola?
+
+127
+00:17:21,541 --> 00:17:23,225
+Sou educada em casa.
+
+128
+00:17:25,003 --> 00:17:26,565
+A sério?
+
+129
+00:17:27,172 --> 00:17:29,335
+E onde é que fica a tua casa?
+
+130
+00:17:36,181 --> 00:17:37,910
+<i>Não sei!</i>
+
+131
+00:17:39,935 --> 00:17:42,875
+<i>É melhor não ficares aí, meu.</i>
+
+132
+00:17:45,065 --> 00:17:46,942
+<i>Grande merda.</i>
+
+133
+00:17:51,655 --> 00:17:53,875
+<i>Que diabo, meu?!</i>
+
+134
+00:18:16,179 --> 00:18:18,223
+Então, os dinossauros...
+
+135
+00:19:28,835 --> 00:19:29,878
+Então!
+
+136
+00:19:32,047 --> 00:19:33,048
+Onde é que estiveste?
+
+137
+00:19:33,798 --> 00:19:35,884
+Em lado nenhum.
+O que é que estás a queimar?
+
+138
+00:19:36,926 --> 00:19:39,804
+Nada. Apenas alguns cobertores velhos.
+
+139
+00:19:42,140 --> 00:19:43,725
+Tens a certeza de que não passaste a ponte?
+
+140
+00:19:44,601 --> 00:19:46,537
+Esse é o olhar que fazes
+quando achas que estou a mentir.
+
+141
+00:19:46,561 --> 00:19:47,729
+- Bem... estás?
+- Não.
+
+142
+00:19:47,812 --> 00:19:50,065
+Maisie, estás literalmente a olhar
+para todo o lado menos para aqui.
+
+143
+00:19:50,148 --> 00:19:52,275
+Eu já disse que não passei a ponte.
+
+144
+00:19:56,613 --> 00:19:57,900
+Maisie...
+
+145
+00:19:58,156 --> 00:19:59,282
+podemos recomeçar?
+
+146
+00:19:59,365 --> 00:20:02,225
+Eu sei, Claire. Há pessoas lá fora que
+farão qualquer coisa para me encontrar.
+
+147
+00:20:02,265 --> 00:20:04,165
+Não estou zangada.
+
+148
+00:20:04,200 --> 00:20:06,030
+Isso significa que tu também
+não precisas de ficar zangada.
+
+149
+00:20:06,100 --> 00:20:07,207
+Eu não estou zangada.
+
+150
+00:20:07,957 --> 00:20:10,502
+- Eu sei tomar conta de mim.
+- Então!
+
+151
+00:20:10,585 --> 00:20:14,589
+Não há problema em dependermos
+uns dos outros. É isso que as pessoas fazem.
+
+152
+00:20:14,672 --> 00:20:16,900
+Como é que eu poderei saber
+o que é que as pessoas fazem?!
+
+153
+00:20:17,467 --> 00:20:21,225
+As únicas pessoas com quem falei
+nos últimos quatro anos foram vocês os dois.
+
+154
+00:20:22,514 --> 00:20:24,975
+Além disso, eu nem sequer sou
+uma pessoa verdadeira.
+
+155
+00:20:25,600 --> 00:20:28,225
+- O quê?!
+- Fui feita a partir de outra pessoa.
+
+156
+00:20:28,770 --> 00:20:30,140
+Eu não sou eu.
+
+157
+00:20:37,904 --> 00:20:40,532
+És a única tu que alguma vez existiu.
+
+158
+00:20:42,826 --> 00:20:43,910
+O quê?
+
+159
+00:20:43,993 --> 00:20:46,454
+- Não.
+- Foi mesmo muito foleiro?
+
+160
+00:20:46,538 --> 00:20:47,705
+Foi tão foleiro.
+
+161
+00:20:47,789 --> 00:20:50,500
+- Podemos manter isto entre nós?
+- Não posso prometer nada.
+
+162
+00:20:56,673 --> 00:20:58,466
+- Olá, miúda.
+- Olá.
+
+163
+00:20:58,550 --> 00:20:59,634
+Peço desculpa pelo atraso.
+
+164
+00:21:03,972 --> 00:21:05,598
+Cheiras a cavalos.
+
+165
+00:21:05,682 --> 00:21:07,892
+Gostas disso?
+
+166
+00:21:07,976 --> 00:21:09,144
+Gosto. Sim.
+
+167
+00:21:09,227 --> 00:21:11,896
+Está bem.
+
+168
+00:21:11,980 --> 00:21:14,566
+Vou fazer o jantar.
+
+169
+00:21:15,316 --> 00:21:16,568
+Está tudo bem?
+
+170
+00:21:17,152 --> 00:21:18,945
+Ela foi outra vez à cidade.
+
+171
+00:21:21,698 --> 00:21:24,117
+Esta miúda!
+Falaste com ela?
+
+172
+00:21:24,826 --> 00:21:25,869
+Tentei.
+
+173
+00:21:27,370 --> 00:21:29,831
+Eu falo com ela.
+
+174
+00:22:59,295 --> 00:23:01,673
+Respirações lentas.
+Demora o tempo que precisares.
+
+175
+00:23:28,616 --> 00:23:31,869
+Então! Corta na direcção oposta.
+
+176
+00:23:38,835 --> 00:23:40,420
+Queres saber como ganhar
+uma luta com facas?
+
+177
+00:23:41,296 --> 00:23:42,922
+Tens de permitir que te cortem.
+
+178
+00:23:43,006 --> 00:23:45,300
+Certifica-te de que eles estão a cortar
+algo dispensável...
+
+179
+00:23:45,383 --> 00:23:46,884
+enquanto tu cortas algo vital.
+
+180
+00:23:47,677 --> 00:23:49,137
+E, depois, diz algo fixe tipo...
+
+181
+00:23:49,220 --> 00:23:52,390
+"Rapariga errada, momento errado."
+
+182
+00:23:52,890 --> 00:23:54,684
+Rapariga errada, momento errado.
+
+183
+00:23:56,477 --> 00:23:57,937
+- Sem emoção.
+- É, não é?
+
+184
+00:23:58,021 --> 00:24:01,000
+- Eu não me metia com ela.
+- Nem eu.
+
+185
+00:24:07,196 --> 00:24:09,645
+Ouve, provavelmente, devíamos falar
+sobre a tua ida à cidade.
+
+186
+00:24:09,699 --> 00:24:10,900
+Eu não...
+
+187
+00:24:10,950 --> 00:24:13,390
+Acho que vocês não percebem
+quão mau é estar presa aqui.
+
+188
+00:24:13,453 --> 00:24:16,581
+Tu não estás presa aqui.
+Apenas, não confiamos nas pessoas.
+
+189
+00:24:16,664 --> 00:24:18,082
+Não, apenas não confiam em mim.
+
+190
+00:24:18,916 --> 00:24:20,626
+E, depois, esperam que eu confie em vocês.
+
+191
+00:24:20,710 --> 00:24:23,046
+- Porque é que eu não posso ser livre?
+- Porque não podes.
+
+192
+00:24:28,926 --> 00:24:30,145
+Aquilo correu muito bem.
+
+193
+00:24:30,553 --> 00:24:32,200
+O que é que se passa?
+
+194
+00:24:33,014 --> 00:24:34,975
+- Ela tem 14 anos.
+- Pois.
+
+195
+00:24:35,016 --> 00:24:36,534
+Lembras-te quando tinhas essa idade?
+
+196
+00:24:37,685 --> 00:24:39,000
+Lembro.
+
+197
+00:24:40,855 --> 00:24:42,565
+Não podemos mantê-la aqui
+para sempre.
+
+198
+00:24:42,648 --> 00:24:46,152
+Se não fizermos alguma coisa,
+ela irá muito além da ponte.
+
+199
+00:24:46,235 --> 00:24:48,196
+Se eles a encontrarem,
+nunca mais a veremos.
+
+200
+00:24:48,279 --> 00:24:50,865
+Temos de protegê-la.
+É o nosso trabalho. É o que iremos fazer.
+
+201
+00:24:50,948 --> 00:24:52,275
+Protegê-la como?
+
+202
+00:24:52,658 --> 00:24:53,993
+Mantendo-a presa ali dentro?
+
+203
+00:24:55,787 --> 00:24:57,565
+<i>Ela tem perguntas.</i>
+
+204
+00:24:58,998 --> 00:25:01,225
+<i>Sabes? Perguntas às quais
+não podemos responder.</i>
+
+205
+00:25:03,044 --> 00:25:05,275
+<i>Ela quer saber quem é.</i>
+
+206
+00:25:07,590 --> 00:25:10,975
+<i>Quem era a Charlotte Lockwood.</i>
+
+207
+00:25:15,681 --> 00:25:17,975
+Segui o Grady até casa dele.
+
+208
+00:25:18,059 --> 00:25:21,220
+Tinha razão.
+A "Raptor" tem uma cria.
+
+209
+00:25:22,897 --> 00:25:24,607
+Mas, ouça, há outra coisa.
+
+210
+00:25:25,983 --> 00:25:28,225
+Encontrei aquela rapariga
+que vocês têm andado à procura.
+
+211
+00:25:31,675 --> 00:25:34,565
+<b>OESTE DO TEXAS</b>
+
+212
+00:25:42,875 --> 00:25:43,876
+Aqui tem.
+
+213
+00:26:56,866 --> 00:26:58,242
+Obrigada por vir.
+
+214
+00:26:58,826 --> 00:27:00,544
+Não tinha a certeza
+de quem deveria chamar.
+
+215
+00:27:00,953 --> 00:27:04,248
+O Departamento de Pesca e Vida Selvagem nem
+quis saber, uma vez que não era um dinossauro.
+
+216
+00:27:04,332 --> 00:27:06,626
+Pois, bem, eles obtêm toda a atenção.
+
+217
+00:27:06,709 --> 00:27:08,500
+Pessoal, podem recolher várias amostras
+
+218
+00:27:08,544 --> 00:27:09,745
+a cada cem metros de terreno?
+
+219
+00:27:10,129 --> 00:27:11,422
+São seus alunos?
+
+220
+00:27:11,506 --> 00:27:15,718
+Sim. Temos andado a estudar o impacto
+da agricultura industrial no meio ambiente.
+
+221
+00:27:15,801 --> 00:27:18,262
+Então, isto é mesmo à nossa medida.
+
+222
+00:27:18,346 --> 00:27:20,675
+Eles já atacaram 60 campos
+de cultivo na região.
+
+223
+00:27:21,098 --> 00:27:23,017
+Alguma vez viu algo assim?
+
+224
+00:27:23,100 --> 00:27:25,269
+Não. Não como isto.
+
+225
+00:27:25,353 --> 00:27:28,356
+Eles têm deixado um rasto de destruição
+em campos por todo o Centro-Oeste.
+
+226
+00:27:28,439 --> 00:27:33,110
+Primeiro, estas grandes empresas
+tentam matar todos os insectos, agora isto.
+
+227
+00:27:43,746 --> 00:27:45,081
+Aquela terra é sua?
+
+228
+00:27:45,164 --> 00:27:48,000
+Aquele é o milho dos Bennetts.
+Os gafanhotos não o comeram.
+
+229
+00:27:48,084 --> 00:27:50,445
+<i>Semeiam as mesmas sementes
+que os Bennetts?</i>
+
+230
+00:27:50,503 --> 00:27:51,900
+Não.
+
+231
+00:27:52,380 --> 00:27:53,800
+Somos independentes.
+
+232
+00:27:55,258 --> 00:27:57,565
+Eles usam sementes da "Biosyn".
+
+233
+00:27:59,512 --> 00:28:01,550
+Pois, aposto que sim.
+
+234
+00:28:02,390 --> 00:28:04,350
+Disse que apanharam um vivo?
+
+235
+00:28:07,270 --> 00:28:09,772
+Crianças, esta é a Dra. Ellie Sattler.
+
+236
+00:28:09,855 --> 00:28:11,899
+Ela é um cientista da Universidade.
+
+237
+00:28:11,983 --> 00:28:13,442
+Uma cientista de insectos?
+
+238
+00:28:13,526 --> 00:28:15,575
+Mais ou menos.
+
+239
+00:28:15,611 --> 00:28:18,020
+Eu estudo plantas muito antigas...
+
+240
+00:28:18,072 --> 00:28:21,993
+e isso ajuda-me a perceber como é que
+devo proteger as plantas e os solos agora.
+
+241
+00:28:22,076 --> 00:28:25,121
+Olhem para isso.
+
+242
+00:28:29,041 --> 00:28:30,668
+Muito fixe, não?
+
+243
+00:28:30,751 --> 00:28:33,575
+Chama-se sequenciador de campo,
+
+244
+00:28:33,629 --> 00:28:37,133
+e ajuda-me a ler o ADN
+onde quer que eu esteja.
+
+245
+00:28:37,675 --> 00:28:41,429
+Vou colocar esta zaragatoa na boca dele.
+
+246
+00:28:43,055 --> 00:28:44,432
+Bom trabalho.
+
+247
+00:28:45,349 --> 00:28:49,353
+E, agora, preciso de levar o vosso
+amiguinho numa viagem.
+
+248
+00:28:49,700 --> 00:28:50,896
+Para onde é que vai levá-lo?
+
+249
+00:28:52,523 --> 00:28:54,525
+Preciso de uma segunda opinião.
+
+250
+00:28:59,280 --> 00:29:01,365
+- <i>Madeline?
+- Sim?</i>
+
+251
+00:29:01,449 --> 00:29:03,993
+<i>Apenas temos de limpar
+este pequeno cilindro.</i>
+
+252
+00:29:04,076 --> 00:29:05,911
+<i>Está bem. Deixa-a sair devagar.</i>
+
+253
+00:29:07,705 --> 00:29:09,540
+- <i>Conseguiste?
+- Sim.</i>
+
+254
+00:29:09,623 --> 00:29:11,000
+<i>Calma.</i>
+
+255
+00:29:11,083 --> 00:29:13,711
+<i>Vamos começar a preencher
+esse outro lado.</i>
+
+256
+00:29:13,794 --> 00:29:16,130
+Mais ou menos por aí.
+Estou a tratar disso.
+
+257
+00:29:17,465 --> 00:29:18,966
+Porque é que escavamos?
+
+258
+00:29:19,050 --> 00:29:24,805
+Porque a Paleontologia é ciência.
+E a ciência é sobre a verdade.
+
+259
+00:29:24,889 --> 00:29:26,849
+E há verdade nestas rochas.
+
+260
+00:29:29,810 --> 00:29:31,020
+Pára.
+
+261
+00:29:31,937 --> 00:29:35,024
+Aqui diz que o T. Rex
+tinha um cérebro pequenino.
+
+262
+00:29:35,566 --> 00:29:38,861
+Bem, acontece que o T. Rex
+era muito mais esperto do que pensávamos.
+
+263
+00:29:38,944 --> 00:29:41,280
+Capaz de ter memória,
+demonstrar lealdade.
+
+264
+00:29:41,364 --> 00:29:43,115
+Isso é um T. Rex.
+
+265
+00:29:43,657 --> 00:29:45,659
+Eles andam por aqui desde os anos 90.
+
+266
+00:29:45,743 --> 00:29:47,745
+Não entendo porque é que
+estamos aqui a desenterrar ossos.
+
+267
+00:29:47,828 --> 00:29:51,040
+Parece-me algo aleatório.
+
+268
+00:29:51,123 --> 00:29:52,249
+Pois.
+
+269
+00:29:52,333 --> 00:29:53,667
+Grant!
+
+270
+00:29:54,752 --> 00:29:56,295
+Vai querer ver isto.
+
+271
+00:29:56,962 --> 00:29:58,381
+<i>Pessoal, podem ajudar-me?</i>
+
+272
+00:29:58,464 --> 00:30:01,384
+<i>Vou embalar tudo. Vou-me
+certificar de que ninguém a atravesse.</i>
+
+273
+00:30:08,974 --> 00:30:10,142
+Ellie Sattler.
+
+274
+00:30:11,852 --> 00:30:13,104
+Alan Grant.
+
+275
+00:30:13,813 --> 00:30:15,189
+Estás igual.
+
+276
+00:30:17,775 --> 00:30:20,800
+E este sítio, é tão...
+
+277
+00:30:21,445 --> 00:30:23,614
+tão... igual a ti.
+
+278
+00:30:25,449 --> 00:30:28,536
+Peço desculpa. Se soubesse
+que vinhas, eu teria...
+
+279
+00:30:35,418 --> 00:30:37,168
+Posso oferecer-te alguma coisa?
+Uma cerveja ou...
+
+280
+00:30:37,211 --> 00:30:42,258
+Bem, talvez não às 10:00 da manhã,
+mas um chá gelado ou...
+
+281
+00:30:42,341 --> 00:30:43,759
+Chá. Sim.
+
+282
+00:30:43,843 --> 00:30:45,010
+Chá. Posso fazer isso.
+
+283
+00:30:46,929 --> 00:30:49,223
+Vi muitos turistas à vinda para cá.
+
+284
+00:30:50,933 --> 00:30:55,104
+Bem, os financiamentos acabaram,
+então, alguém tem de pagar tudo isto.
+
+285
+00:30:55,187 --> 00:30:56,605
+Pois. Obrigada.
+
+286
+00:30:59,066 --> 00:31:02,987
+Li os teus artigos sobre ciência dos solos
+e agricultura regenerativa.
+
+287
+00:31:03,070 --> 00:31:04,280
+Óptimo.
+
+288
+00:31:04,363 --> 00:31:05,400
+Obrigada.
+
+289
+00:31:05,448 --> 00:31:07,691
+Deram-me uma base para
+ter alguma esperança, para variar.
+
+290
+00:31:08,033 --> 00:31:09,952
+E aquele sobre o cultivo de algas.
+
+291
+00:31:10,035 --> 00:31:12,580
+Alan, é incrível.
+
+292
+00:31:12,663 --> 00:31:15,374
+É um combustível neutro em carbono
+totalmente viável.
+
+293
+00:31:15,458 --> 00:31:19,336
+É incrível. As nossas respostas
+estão nos nossos oceanos e solos.
+
+294
+00:31:19,420 --> 00:31:21,980
+É claro que irá dar trabalho,
+mas estamos à beira da extinção.
+
+295
+00:31:22,047 --> 00:31:23,912
+Meu Deus. O que é que vamos fazer?
+Apenas, ficar sentados à espera?
+
+296
+00:31:23,966 --> 00:31:25,593
+Não enquanto eu puder evitar.
+
+297
+00:31:26,510 --> 00:31:27,761
+O quê?
+
+298
+00:31:28,637 --> 00:31:30,473
+Não, nada. Eu, apenas...
+
+299
+00:31:31,807 --> 00:31:33,976
+Apenas gosto de te ouvir, só isso.
+
+300
+00:31:36,312 --> 00:31:37,771
+Então, estás aqui sozinha?
+
+301
+00:31:37,855 --> 00:31:39,815
+Sim, sim. Por minha conta.
+
+302
+00:31:41,817 --> 00:31:43,202
+Como é que estão os teus miúdos?
+
+303
+00:31:44,820 --> 00:31:47,781
+Incríveis! Crescidos.
+É impressionante!
+
+304
+00:31:47,865 --> 00:31:50,242
+Estão ambos na faculdade.
+Consegues acreditar?
+
+305
+00:31:50,326 --> 00:31:51,900
+E o Mark?
+
+306
+00:31:53,704 --> 00:31:54,975
+Acabou.
+
+307
+00:31:58,876 --> 00:32:00,544
+Lamento ouvir isso.
+
+308
+00:32:00,628 --> 00:32:02,046
+Não há problema.
+
+309
+00:32:02,129 --> 00:32:03,881
+Voltei a ser eu mesma.
+
+310
+00:32:03,964 --> 00:32:06,008
+E ao meu trabalho. Sabes, é...
+
+311
+00:32:06,095 --> 00:32:07,110
+Isso é óptimo.
+
+312
+00:32:07,176 --> 00:32:10,262
+É bom. É. Estou sozinha, finalmente.
+
+313
+00:32:10,346 --> 00:32:11,847
+Tempos entusiasmantes.
+
+314
+00:32:11,931 --> 00:32:14,475
+Sim, estou a viver a vida
+à moda do Alan Grant.
+
+315
+00:32:14,517 --> 00:32:16,175
+- Apenas...
+- Pode ser solitário.
+
+316
+00:32:16,227 --> 00:32:17,478
+Tão libertador.
+
+317
+00:32:20,564 --> 00:32:21,985
+Ellie.
+
+318
+00:32:23,442 --> 00:32:27,613
+Não vieste de tão longe até aqui
+apenas para matar saudades, pois não?
+
+319
+00:32:31,700 --> 00:32:33,035
+Bem, isso é um gafanhoto.
+
+320
+00:32:33,118 --> 00:32:35,829
+Mandíbulas, asas, tórax, mas...
+
+321
+00:32:36,747 --> 00:32:38,624
+Meu Deus, o tamanho dele é brutal.
+
+322
+00:32:40,543 --> 00:32:43,671
+Tem genes que estão extintos
+desde o Período Cretáceo.
+
+323
+00:32:43,754 --> 00:32:47,132
+E enxames deles estão a dizimar colheitas
+desde o Iowa até ao Texas.
+
+324
+00:32:48,092 --> 00:32:49,134
+Assustador, não é?
+
+325
+00:32:50,344 --> 00:32:51,720
+Começaram como algumas centenas.
+
+326
+00:32:51,804 --> 00:32:53,889
+Podem ser milhões, no final do Verão.
+
+327
+00:32:53,973 --> 00:32:58,435
+Se eles continuarem, não haverá cereais
+para alimentar galinhas, gado...
+
+328
+00:32:58,519 --> 00:33:00,688
+Toda a cadeia alimentar
+entraria em colapso.
+
+329
+00:33:00,771 --> 00:33:04,858
+Bem, foi claramente pensado,
+mas porque é que alguém o faria?
+
+330
+00:33:05,818 --> 00:33:09,875
+Nenhuma das colheitas que eles andam a comer
+são provenientes das sementes da "Biosyn".
+
+331
+00:33:09,947 --> 00:33:11,565
+"Biosyn"?
+
+332
+00:33:12,116 --> 00:33:13,701
+Estás a dizer que a "Biosyn" fez isto?
+
+333
+00:33:13,784 --> 00:33:18,175
+Não me chocaria que eles quisessem controlar
+o fornecimento mundial de alimentos.
+
+334
+00:33:18,497 --> 00:33:20,162
+Não antes de alguns milhões
+morrerem de fome.
+
+335
+00:33:20,207 --> 00:33:24,503
+Pois. Qual é aquele ditado?
+Estamos a três refeições da anarquia?
+
+336
+00:33:24,587 --> 00:33:27,965
+Se não os impedirmos, podes escolher
+as tuas três últimas refeições.
+
+337
+00:33:29,758 --> 00:33:31,760
+Então, porque é que me trouxeste isto?
+
+338
+00:33:32,595 --> 00:33:35,681
+Preciso de provas concretas de que
+a "Biosyn" é a responsável por tudo isto.
+
+339
+00:33:35,764 --> 00:33:39,685
+Preciso de ir ao santuário deles
+e recolher ADN de outro gafanhoto lá.
+
+340
+00:33:41,687 --> 00:33:42,955
+Mas preciso de uma testemunha.
+
+341
+00:33:44,064 --> 00:33:45,107
+Alan!
+
+342
+00:33:46,442 --> 00:33:48,485
+Tu impões respeito.
+As pessoas acreditam em ti.
+
+343
+00:33:48,569 --> 00:33:50,529
+Ellie.
+
+344
+00:33:50,613 --> 00:33:53,866
+Sabes porque é que eu estou aqui.
+É tranquilo. Já não quero saber disso.
+
+345
+00:33:53,949 --> 00:33:55,159
+A sério? Está bem.
+
+346
+00:33:56,118 --> 00:33:57,786
+Bem, lamento, Alan.
+
+347
+00:33:57,870 --> 00:34:01,498
+Já ninguém se pode dar a esse luxo,
+nem sequer tu.
+
+348
+00:34:01,582 --> 00:34:02,583
+E sabes uma coisa?
+
+349
+00:34:04,043 --> 00:34:05,127
+É em ti que eu confio.
+
+350
+00:34:09,548 --> 00:34:13,385
+Este santuário da "Biosyn" fica a,
+o quê... 150 km de qualquer sítio?
+
+351
+00:34:13,469 --> 00:34:14,803
+Como é que sequer se entra lá?
+
+352
+00:34:14,887 --> 00:34:18,641
+Recebi um convite do filósofo
+residente deles.
+
+353
+00:34:20,017 --> 00:34:22,895
+Parece que ser um teórico do caos
+está a dar muito dinheiro actualmente.
+
+354
+00:34:22,978 --> 00:34:26,398
+E ele, simplesmente, convidou-te do nada?
+
+355
+00:34:27,358 --> 00:34:29,526
+Ele disse que haveria coisas
+que eu iria gostar de ver.
+
+356
+00:34:36,283 --> 00:34:37,576
+Vens ou não?
+
+357
+00:34:41,659 --> 00:34:44,460
+<b><i>CENTRO DE REALOJAMENTO
+DE VIDA SELVAGEM DOS EUA</i></b>
+
+358
+00:34:46,085 --> 00:34:47,211
+<i>Está desimpedido!</i>
+
+359
+00:34:49,171 --> 00:34:51,298
+<i>Prossigam. Está bom.</i>
+
+360
+00:34:52,466 --> 00:34:55,010
+Cada animal capturado no continente
+passa por aqui...
+
+361
+00:34:55,094 --> 00:34:57,805
+antes de serem enviados para o santuário
+da "Biosyn", nas Montanhas Dolomitas.
+
+362
+00:34:57,888 --> 00:35:00,849
+Prestamos assistência médica e
+certificamo-nos que eles saem de lá saudáveis.
+
+363
+00:35:01,350 --> 00:35:03,100
+Tanta segurança.
+
+364
+00:35:03,143 --> 00:35:04,895
+Esses são, apenas, aqueles que vês.
+
+365
+00:35:04,978 --> 00:35:07,189
+Muitas pessoas de credibilidade duvidosa
+querem estes animais.
+
+366
+00:35:09,692 --> 00:35:11,743
+- Então!
+- O seu avião está a acabar de abastecer.
+
+367
+00:35:12,695 --> 00:35:15,197
+É difícil ser convidado da "Biosyn".
+Devem ter bons contactos.
+
+368
+00:35:15,280 --> 00:35:17,032
+- Importa-se que eu...?
+- Claro.
+
+369
+00:35:19,284 --> 00:35:20,577
+Olá.
+
+370
+00:35:20,661 --> 00:35:23,455
+Estás-me a ver?
+Segue o meu dedo.
+
+371
+00:35:23,539 --> 00:35:26,125
+Resgatámo-los de uma quinta
+de reprodução ilegal...
+
+372
+00:35:26,165 --> 00:35:27,710
+no Nevada, há algumas semanas.
+
+373
+00:35:27,793 --> 00:35:30,879
+Desactivamos o sítio completamente.
+Uma dica anónima.
+
+374
+00:35:30,963 --> 00:35:34,717
+Linda menina. Sim. Sim.
+
+375
+00:35:36,009 --> 00:35:38,595
+Alan. Nunca nos habituamos.
+
+376
+00:35:38,679 --> 00:35:40,389
+Está bem. Estamos bem.
+Fechem!
+
+377
+00:35:40,472 --> 00:35:41,932
+- Cuidem-se.
+- Obrigada. Adeus.
+
+378
+00:35:42,015 --> 00:35:43,016
+Está bem.
+
+379
+00:36:19,344 --> 00:36:20,721
+Então!
+
+380
+00:36:23,015 --> 00:36:24,475
+És igualzinha à Blue.
+
+381
+00:36:27,644 --> 00:36:29,665
+Isto?
+
+382
+00:36:29,975 --> 00:36:31,523
+Queres provar?
+
+383
+00:36:32,399 --> 00:36:33,650
+Está bem.
+
+384
+00:36:47,915 --> 00:36:49,291
+Maisie, não te mexas!
+
+385
+00:36:53,337 --> 00:36:54,338
+Olá, miúda.
+
+386
+00:36:55,422 --> 00:36:56,965
+Tens-te mantido afastada de problemas?
+
+387
+00:36:57,424 --> 00:36:59,051
+Ela teve um bebé. É impossível.
+
+388
+00:37:02,346 --> 00:37:04,765
+- Recua.
+- Ela não nos fará mal, pois não?
+
+389
+00:37:04,848 --> 00:37:06,308
+Podes crer que fará.
+
+390
+00:37:06,391 --> 00:37:07,851
+Apenas... respira.
+
+391
+00:37:07,935 --> 00:37:10,565
+- Caso contrário, ela pensará que tens medo.
+- Eu tenho medo.
+
+392
+00:37:11,730 --> 00:37:14,565
+Não. Ela não precisa de saber isso.
+
+393
+00:37:21,573 --> 00:37:24,576
+O ninho dela deve estar próximo.
+Maisie, entra.
+
+394
+00:37:24,700 --> 00:37:26,975
+- Eu vou contigo.
+- O que é que eu acabei de dizer?
+
+395
+00:37:37,005 --> 00:37:39,424
+- Temos de ir.
+- <i>Ainda não. Precisamos da rapariga.</i>
+
+396
+00:37:41,677 --> 00:37:42,975
+Então? O que é que se passa?
+
+397
+00:37:47,057 --> 00:37:48,565
+Maisie?
+
+398
+00:37:49,101 --> 00:37:50,565
+Maisie?
+
+399
+00:37:56,692 --> 00:37:57,776
+Onde é que vais?
+
+400
+00:37:57,860 --> 00:37:59,695
+Não me podes prender aqui.
+Não és a minha mãe.
+
+401
+00:38:06,493 --> 00:38:07,911
+Ela está a sair da casa.
+
+402
+00:38:31,310 --> 00:38:33,395
+<i>Entra no camião!
+Vamos! Vamos embora!</i>
+
+403
+00:38:33,478 --> 00:38:34,646
+Consegui!
+
+404
+00:38:34,730 --> 00:38:35,874
+- Amarrem-na!
+- Um momento.
+
+405
+00:38:35,898 --> 00:38:36,899
+Vamos. Vamos!
+
+406
+00:38:38,901 --> 00:38:40,360
+- Entra!
+- Vamos!
+
+407
+00:38:42,321 --> 00:38:43,322
+Vamos sair daqui.
+
+408
+00:39:02,549 --> 00:39:03,550
+Quem são vocês?
+
+409
+00:39:25,364 --> 00:39:26,365
+Claire!
+
+410
+00:39:27,240 --> 00:39:28,241
+Eles encontraram-na!
+
+411
+00:39:28,325 --> 00:39:29,785
+O quê? Quem são eles?
+
+412
+00:39:29,868 --> 00:39:31,703
+Caçadores furtivos.
+Tenho-os visto por aqui.
+
+413
+00:39:32,412 --> 00:39:33,745
+O líder é um verdadeiro idiota.
+
+414
+00:39:33,800 --> 00:39:35,791
+Ele deve-me ter reconhecido
+e seguiu-me até aqui.
+
+415
+00:39:36,500 --> 00:39:37,960
+- Onde é que ela está?
+- Vai buscar o camião.
+
+416
+00:39:38,043 --> 00:39:39,127
+Meu Deus.
+
+417
+00:39:42,214 --> 00:39:43,882
+Meu Deus.
+
+418
+00:39:47,094 --> 00:39:49,304
+- Owen!
+- Então! Não.
+
+419
+00:39:54,226 --> 00:39:55,652
+Eles também levaram a cria dela.
+
+420
+00:39:59,481 --> 00:40:01,483
+Vou trazê-la de volta.
+
+421
+00:40:01,566 --> 00:40:03,568
+Prometo-te.
+
+422
+00:40:14,079 --> 00:40:15,122
+Vamos.
+
+423
+00:40:15,205 --> 00:40:16,331
+Eu sei a quem ligar.
+
+424
+00:40:26,578 --> 00:40:29,279
+<i><b>AGÊNCIA CENTRAL DE INTELIGÊNCIA
+DIVISÃO DE ESPÉCIES PERIGOSAS</b></i>
+
+425
+00:40:30,679 --> 00:40:32,475
+<i>Por favor, por favor! Não, não!</i>
+
+426
+00:40:32,545 --> 00:40:34,225
+<b><i>NOVO INCIDENTE REPORTADO</i></b>
+
+427
+00:40:35,851 --> 00:40:37,728
+Este ano, meu.
+O que é que se segue?
+
+428
+00:40:37,915 --> 00:40:38,979
+Historicamente?
+
+429
+00:40:39,062 --> 00:40:42,357
+Trevas, sangue, chuva de fogo.
+Penso que sapos.
+
+430
+00:40:42,441 --> 00:40:44,293
+Não iremos andar por aqui
+durante muito mais tempo, afinal.
+
+431
+00:40:44,317 --> 00:40:46,319
+Estes gafanhotos no Nebraska
+estão prestes a comer tudo.
+
+432
+00:40:46,403 --> 00:40:47,728
+Eles andam a comer o milho, o trigo...
+
+433
+00:40:47,779 --> 00:40:49,823
+Basicamente, toda a nossa comida
+e a comida da nossa comida.
+
+434
+00:40:49,906 --> 00:40:51,742
+Então, podemos dizer adeus a isto.
+
+435
+00:40:54,828 --> 00:40:55,875
+Estou?
+
+436
+00:40:55,912 --> 00:40:58,185
+<i>Franklin. Sou eu. Estás a trabalhar?</i>
+
+437
+00:40:58,248 --> 00:41:00,455
+Está bem, tu és uma espécie de
+pessoa de interesse por estas bandas,
+
+438
+00:41:00,500 --> 00:41:02,210
+então, não posso mesmo
+estar a falar contigo.
+
+439
+00:41:02,294 --> 00:41:04,965
+<i>Anda lá. Estou metida em problemas.
+Preciso mesmo da tua ajuda. Por favor.</i>
+
+440
+00:41:05,015 --> 00:41:06,300
+Pois. E eu posso perder o emprego.
+
+441
+00:41:06,339 --> 00:41:08,341
+E sabes que não tenho qualificações
+para fazer mais nada.
+
+442
+00:41:08,425 --> 00:41:09,551
+<i>Estamos cá fora.</i>
+
+443
+00:41:11,678 --> 00:41:12,846
+<i>Deixa-me falar com ele.</i>
+
+444
+00:41:14,665 --> 00:41:16,415
+<b><i>PROCURADO PELA CIA</i></b>
+
+445
+00:41:17,100 --> 00:41:18,935
+- É ele?
+- É ele.
+
+446
+00:41:19,019 --> 00:41:23,106
+O nome é Rainn Delacourt.
+É uma bela peça.
+
+447
+00:41:23,190 --> 00:41:24,191
+O que é que ele levou?
+
+448
+00:41:25,317 --> 00:41:27,486
+Algo muito importante para nós.
+
+449
+00:41:27,700 --> 00:41:31,156
+Merda! Eu disse-te que alguém
+viria à procura dela.
+
+450
+00:41:31,239 --> 00:41:33,075
+Não podes, simplesmente,
+levar uma pessoa, Claire.
+
+451
+00:41:33,158 --> 00:41:35,118
+- Não tivemos alternativa.
+- Não aos olhos da lei.
+
+452
+00:41:35,265 --> 00:41:38,038
+Este tipo não é a "lei".
+Diz-nos como é que o encontramos.
+
+453
+00:41:39,539 --> 00:41:40,707
+De onde é que me ligaram?
+
+454
+00:41:43,335 --> 00:41:45,670
+Temos um homem infiltrado
+na operação do Delacourt.
+
+455
+00:41:45,754 --> 00:41:48,381
+Irá ocorrer uma troca em Malta
+algures amanhã. Dinheiro por mercadoria.
+
+456
+00:41:48,465 --> 00:41:49,883
+Ela estava com ele?
+
+457
+00:41:50,509 --> 00:41:54,012
+Não há menção disso, mas
+já temos operacionais no terreno.
+
+458
+00:41:54,096 --> 00:41:55,472
+Um deles tu conheces.
+
+459
+00:41:55,555 --> 00:41:58,100
+Muitos de nós foram recrutados pela CIA
+após o encerramento do parque.
+
+460
+00:41:59,935 --> 00:42:02,175
+O Barry trabalha, agora, para os
+Serviços de Inteligência Franceses.
+
+461
+00:42:03,522 --> 00:42:04,689
+Preciso de falar com ele.
+
+462
+00:42:04,773 --> 00:42:06,858
+Não podes, simplesmente, ligar-lhe.
+Ele está infiltrado.
+
+463
+00:42:06,942 --> 00:42:08,693
+Ouve, assim que façamos
+a apreensão em Malta...
+
+464
+00:42:08,777 --> 00:42:10,987
+o nosso pessoal verá se o Delacourt
+sabe onde é que ela está.
+
+465
+00:42:11,571 --> 00:42:14,157
+O nosso pessoal, não vocês.
+
+466
+00:42:14,241 --> 00:42:18,745
+Promete-me que não irás até lá
+com o teu colete estragar tudo.
+
+467
+00:42:19,830 --> 00:42:21,039
+Porque é que eu faria isso?
+
+468
+00:42:22,374 --> 00:42:24,543
+Vocês são ambos loucos...
+
+469
+00:42:24,626 --> 00:42:29,089
+mas parecem ser bons pais ou
+o que quer que estejam a tentar ser.
+
+470
+00:42:29,673 --> 00:42:31,133
+Ela tem sorte em vos ter.
+
+471
+00:42:32,634 --> 00:42:34,469
+Não sejam mortos, está bem?
+
+472
+00:42:52,404 --> 00:42:54,156
+Acho que estamos quase lá.
+
+473
+00:42:55,157 --> 00:42:56,445
+Sim.
+
+474
+00:42:57,995 --> 00:43:01,165
+<i><b>SANTUÁRIO "BIOSYN"
+MONTANHAS DOLOMITAS, ITÁLIA</b></i>
+
+475
+00:43:09,838 --> 00:43:11,810
+Dra. Sattler. Dr. Grant.
+
+476
+00:43:11,910 --> 00:43:14,176
+- Ramsay Cole, Comunicações.
+- Olá.
+
+477
+00:43:14,275 --> 00:43:16,511
+Devo avisá-los, todas as pessoas estão
+muito entusiasmadas por recebê-los aqui.
+
+478
+00:43:16,625 --> 00:43:19,139
+Vocês são lendas absolutas por aqui.
+
+479
+00:43:19,265 --> 00:43:21,975
+Devem estar a confundir-nos
+com outras pessoas.
+
+480
+00:43:22,058 --> 00:43:25,020
+Sabem, é óptimo que ainda sejam
+assim tão chegados ao Dr. Malcolm.
+
+481
+00:43:25,103 --> 00:43:27,939
+Quer dizer, às vezes, conhecemos os
+nossos heróis e eles desiludem-nos,
+
+482
+00:43:28,023 --> 00:43:30,192
+mas ele é exactamente aquilo
+que imaginamos que seria.
+
+483
+00:43:30,275 --> 00:43:32,694
+Quer dizer, tamanha motilidade
+de pensamentos. É incrível.
+
+484
+00:43:32,777 --> 00:43:34,571
+Quanto tempo é que passou com ele?
+
+485
+00:43:35,822 --> 00:43:38,825
+Bom, eu sei que isso foi sarcástico,
+mas, honestamente, não o suficiente.
+
+486
+00:43:38,909 --> 00:43:41,119
+Por favor. Depois de vocês.
+E tenham cuidado com a cabeça.
+
+487
+00:43:48,460 --> 00:43:51,314
+A "Biosyn" comprou estas terras
+pelos depósitos de âmbar nos anos 90.
+
+488
+00:43:51,338 --> 00:43:53,381
+Mas conseguimos transformá-las
+no refúgio seguro...
+
+489
+00:43:53,465 --> 00:43:54,983
+para cerca de 20 espécies deslocadas.
+
+490
+00:43:55,155 --> 00:43:56,725
+A primeira geração veio da Ilha Sorna.
+
+491
+00:43:56,765 --> 00:43:58,920
+A maioria dos dinossauros
+da Ilha Nublar também estão aqui.
+
+492
+00:43:58,970 --> 00:44:02,225
+O Departamento de Pesca e Vida Selvagem
+demorou três anos a apanhar o T. Rex.
+
+493
+00:44:02,432 --> 00:44:04,392
+- O...
+- O T. Rex está aqui?
+
+494
+00:44:04,476 --> 00:44:06,269
+Sim. Sim.
+
+495
+00:44:07,145 --> 00:44:09,773
+Chegou mesmo antes de vocês.
+
+496
+00:44:26,498 --> 00:44:29,000
+<i>Sistema de dissuasão aérea activado.</i>
+
+497
+00:44:29,501 --> 00:44:32,379
+Espaço aéreo restrito.
+Protege os animais voadores.
+
+498
+00:44:32,462 --> 00:44:34,798
+Mantém o "Pterossaurus"
+abaixo dos 150 metros.
+
+499
+00:44:34,881 --> 00:44:35,882
+Voadores?
+
+500
+00:44:38,510 --> 00:44:40,053
+Aquilo é um "Dreadnoughtus"?
+
+501
+00:44:40,136 --> 00:44:41,554
+O quê?
+
+502
+00:44:49,229 --> 00:44:50,563
+Lindo, não é?
+
+503
+00:44:51,147 --> 00:44:55,026
+O nome significa "destemido".
+Bem, suponho que saibam isso.
+
+504
+00:44:55,110 --> 00:44:57,529
+- O que é que eles pastam?
+- Espinheiros e fetos.
+
+505
+00:44:57,612 --> 00:45:00,949
+Todos indígenas. Nada foi aqui colocado,
+excepto a população de veados.
+
+506
+00:45:01,032 --> 00:45:03,868
+Uma óptima espécie de presa
+para o superpredador.
+
+507
+00:45:04,494 --> 00:45:06,246
+Superpredador?
+
+508
+00:45:06,329 --> 00:45:07,872
+"Giganotosaurus".
+
+509
+00:45:08,707 --> 00:45:10,041
+Pelo menos, por agora.
+
+510
+00:45:20,218 --> 00:45:22,925
+Não deixam entrar pessoas
+ali dentro, pois não?
+
+511
+00:45:22,971 --> 00:45:25,682
+Não. Os nossos centros...
+
+512
+00:45:25,765 --> 00:45:28,700
+Os nossos postos avançados de investigação
+estão ligados completamente pelo subsolo.
+
+513
+00:45:28,765 --> 00:45:31,771
+Se for necessário, podemos
+conduzir os animais remotamente...
+
+514
+00:45:31,855 --> 00:45:36,109
+recorrendo a um neuro-implante que envia
+sinais eléctricos directamente para o cérebro.
+
+515
+00:45:36,192 --> 00:45:37,610
+Tipo choques?
+
+516
+00:45:37,694 --> 00:45:40,196
+Não, tipo sinais.
+
+517
+00:45:40,780 --> 00:45:43,158
+Não lhe parece algo...
+
+518
+00:45:43,241 --> 00:45:44,617
+- Cruel?
+- Cruel.
+
+519
+00:45:45,201 --> 00:45:48,830
+Sabe qual era a voltagem das
+vedações eléctricas do Parque Jurássico?
+
+520
+00:45:49,789 --> 00:45:51,090
+Sim.
+
+521
+00:45:56,880 --> 00:45:59,725
+<i>Por favor, juntem-se ao Dr. Ian Malcolm
+ao meio-dia, no Salão das Palestras...</i>
+
+522
+00:45:59,795 --> 00:46:01,593
+<i>para a palestra sobre a
+"Ética do Poder Genético".</i>
+
+523
+00:46:01,676 --> 00:46:03,780
+Meu Deus, são todos tão jovens.
+
+524
+00:46:03,845 --> 00:46:07,182
+Bem, faz parte dos nossos ideais
+atrair os melhores e mais brilhantes.
+
+525
+00:46:07,766 --> 00:46:08,975
+Doutores.
+
+526
+00:46:09,267 --> 00:46:13,938
+Respeitados e reconhecidos
+Dra. Sattler e Dr. Grant. Olá.
+
+527
+00:46:14,022 --> 00:46:16,175
+Isto é uma grande honra.
+Sou o Lewis.
+
+528
+00:46:16,232 --> 00:46:18,193
+- Dodgson. Sim.
+- Olá.
+
+529
+00:46:18,276 --> 00:46:20,046
+- É o Lewis Dodgson?
+- Sou. Como está?
+
+530
+00:46:20,070 --> 00:46:21,988
+Não esperávamos vê-lo aqui.
+
+531
+00:46:22,072 --> 00:46:24,282
+Bem, eu não estaria em nenhum outro sítio.
+
+532
+00:46:24,366 --> 00:46:26,117
+- Estaria?
+- Não.
+
+533
+00:46:26,201 --> 00:46:29,329
+Quer dizer, as pessoas que vêem aqui
+estão a mudar o mundo.
+
+534
+00:46:29,412 --> 00:46:30,830
+Não se importam que nós...
+
+535
+00:46:31,623 --> 00:46:33,750
+Apenas... seria uma honra.
+
+536
+00:46:33,833 --> 00:46:35,919
+Queres...
+
+537
+00:46:36,002 --> 00:46:37,837
+Óptimo. Muito obrigado.
+
+538
+00:46:37,921 --> 00:46:40,340
+- Está bom. Está bom. Obrigado.
+- Está bem.
+
+539
+00:46:40,423 --> 00:46:44,765
+Então, hoje irão ver algumas coisas
+verdadeiramente impressionantes.
+
+540
+00:46:44,810 --> 00:46:48,515
+Estamos a desvendar
+o verdadeiro poder do genoma.
+
+541
+00:46:48,610 --> 00:46:49,985
+Estamos mesmo muito perto.
+Acreditem em mim.
+
+542
+00:46:50,016 --> 00:46:51,768
+Irão fazer uma fortuna com isso.
+
+543
+00:46:51,851 --> 00:46:53,978
+Não, não se trata de dinheiro.
+
+544
+00:46:54,062 --> 00:46:57,357
+Não, já identificamos dezenas de
+aplicações para o ADN paleolítico.
+
+545
+00:46:57,440 --> 00:47:00,985
+Estamos a falar de cancro,
+Alzheimer, doenças autoimunes.
+
+546
+00:47:01,069 --> 00:47:02,612
+Iremos salvar vidas.
+
+547
+00:47:02,695 --> 00:47:04,572
+- Mas...
+- Aposto que sim.
+
+548
+00:47:04,656 --> 00:47:08,743
+Enfim, gostava de ser eu a mostrar-vos
+tudo pessoalmente, mas sabem como é...
+
+549
+00:47:08,827 --> 00:47:11,996
+Então, estão em muito boas mãos
+com o Ramsay.
+
+550
+00:47:12,580 --> 00:47:15,208
+Ele é, basicamente,
+a minha versão mais jovem.
+
+551
+00:47:15,291 --> 00:47:19,921
+Apenas mais inteligente... e mais alto.
+
+552
+00:47:20,004 --> 00:47:21,214
+Tens comida?
+
+553
+00:47:21,965 --> 00:47:24,300
+- Tipo... uma das minhas barras?
+- Perdão?
+
+554
+00:47:24,384 --> 00:47:26,386
+Não, esquece.
+Eu arranjarei qualquer coisa.
+
+555
+00:47:26,469 --> 00:47:30,765
+Então, gostaria de voltar a estar
+convosco mais tarde, se pudéssemos...
+
+556
+00:47:30,849 --> 00:47:33,059
+Reservamos-vos uma cápsula privada...
+
+557
+00:47:33,143 --> 00:47:34,644
+- Certo.
+- ... para a viagem, então...
+
+558
+00:47:34,727 --> 00:47:37,480
+É lindo. Irão adorar.
+Pelas cavernas e tudo.
+
+559
+00:47:37,564 --> 00:47:39,274
+É melhor despacharem-se.
+O Malcolm vai começar a falar.
+
+560
+00:47:39,315 --> 00:47:41,151
+Ele é um bocado do contra,
+mas eu gosto dele.
+
+561
+00:47:41,234 --> 00:47:43,194
+Mantém-nos alerta. Enfim.
+
+562
+00:47:43,778 --> 00:47:45,488
+Obrigado por estarem aqui. É...
+
+563
+00:47:48,241 --> 00:47:50,452
+Está bem.
+Sigam-me, por favor.
+
+564
+00:47:52,662 --> 00:47:53,663
+O quê?
+
+565
+00:47:53,913 --> 00:47:59,461
+Os seres humanos não têm mais direito
+à segurança ou liberdade...
+
+566
+00:47:59,544 --> 00:48:02,464
+do que qualquer outra criatura
+neste planeta.
+
+567
+00:48:04,424 --> 00:48:08,428
+Não só nos falta domínio sobre a Natureza,
+
+568
+00:48:09,387 --> 00:48:10,972
+como estamos subordinados a ela.
+
+569
+00:48:11,890 --> 00:48:13,641
+E, agora, aqui estamos...
+
+570
+00:48:13,725 --> 00:48:16,895
+com a oportunidade de reescrever
+a vida na ponta dos dedos.
+
+571
+00:48:16,978 --> 00:48:19,022
+E, tal como o poder nuclear...
+
+572
+00:48:19,105 --> 00:48:21,900
+ninguém sabia o que esperar
+da engenharia genética,
+
+573
+00:48:21,983 --> 00:48:25,820
+mas arriscamos e esperamos pelo melhor...
+
+574
+00:48:26,988 --> 00:48:29,782
+tal como estão a fazer agora.
+
+575
+00:48:30,742 --> 00:48:32,911
+Sim, vocês.
+
+576
+00:48:34,204 --> 00:48:39,792
+Vocês controlam o futuro da
+nossa sobrevivência no planeta Terra.
+
+577
+00:48:39,876 --> 00:48:42,545
+De acordo convosco,
+a solução é o poder da genética.
+
+578
+00:48:42,629 --> 00:48:46,007
+Mas esse mesmo poder pode
+devastar as nossas fontes de alimento,
+
+579
+00:48:46,090 --> 00:48:50,720
+criar novas doenças
+e alterar ainda mais o clima.
+
+580
+00:48:51,304 --> 00:48:54,599
+Consequências imprevisíveis
+acontecem.
+
+581
+00:48:55,391 --> 00:49:00,146
+E, sempre...
+sempre que isso acontece...
+
+582
+00:49:01,648 --> 00:49:03,608
+todos fingimos estar admirados?
+
+583
+00:49:03,691 --> 00:49:05,355
+Porque, lá no fundo...
+
+584
+00:49:05,401 --> 00:49:10,224
+não acho que nenhum de nós, realmente,
+acredite que estes perigos sejam reais.
+
+585
+00:49:17,205 --> 00:49:19,874
+Com o objectivo de instigar
+a mudança revolucionária,
+
+586
+00:49:20,875 --> 00:49:26,839
+devemos transformar
+a consciência humana.
+
+587
+00:49:32,095 --> 00:49:33,429
+<i>Sim!</i>
+
+588
+00:49:34,430 --> 00:49:35,974
+- Maia?
+- Dr. Malcolm?
+
+589
+00:49:37,000 --> 00:49:38,893
+Muito bem. Aqui tem.
+
+590
+00:49:38,977 --> 00:49:40,746
+Não quero ser malcriado
+com os meus amigos. Obrigado.
+
+591
+00:49:40,770 --> 00:49:42,939
+Falamos à saída.
+Obrigado a todos.
+
+592
+00:49:43,898 --> 00:49:44,899
+Olhem para vocês.
+
+593
+00:49:45,483 --> 00:49:48,778
+E olhem para mim.
+E olhem para vocês.
+
+594
+00:49:48,861 --> 00:49:50,530
+Isto é tão alucinado.
+
+595
+00:49:51,197 --> 00:49:52,782
+Pareces estar muito bem.
+
+596
+00:49:52,865 --> 00:49:56,411
+Bem, tenho cinco filhos que, sabes,
+adoro mais do que a própria vida, então...
+
+597
+00:49:56,494 --> 00:49:57,745
+As despesas acumulam-se.
+
+598
+00:49:57,829 --> 00:50:01,874
+Tu? Alan, estás...
+Tens família ou...
+
+599
+00:50:03,126 --> 00:50:05,336
+- Não.
+- Então, preciso de falar contigo.
+
+600
+00:50:05,420 --> 00:50:08,381
+Pois, eu também preciso de falar contigo.
+Em privado.
+
+601
+00:50:08,464 --> 00:50:10,049
+Vocês falam muito?
+
+602
+00:50:10,133 --> 00:50:12,302
+- Ele enviou-me mensagens privadas.
+- Ele fez o quê?
+
+603
+00:50:12,385 --> 00:50:14,220
+- É urgente, Ian.
+- O que é que tu fizeste?
+
+604
+00:50:14,304 --> 00:50:16,055
+Sete minutos para as coisas da meia-noite.
+
+605
+00:50:16,139 --> 00:50:18,558
+O Relógio do Juízo Final
+pode estar quase sem tempo,
+
+606
+00:50:18,641 --> 00:50:23,438
+mas, como dizem, é sempre mais escuro
+mesmo antes do nada eterno.
+
+607
+00:50:24,480 --> 00:50:25,885
+O quê?
+
+608
+00:50:27,442 --> 00:50:30,945
+Gafanhotos alterados com
+ADN do Período Cretáceo.
+
+609
+00:50:31,029 --> 00:50:33,990
+- Essa não é a minha área.
+- Pois, mas, se estas coisas continuarem 
+
+610
+00:50:34,073 --> 00:50:37,243
+a multiplicar-se, estamos a falar de um
+efeito cascata sobre todo o sistema, Ian.
+
+611
+00:50:37,327 --> 00:50:38,786
+Caramba, isso é uma bosta.
+
+612
+00:50:38,870 --> 00:50:41,039
+- O que é que se passa contigo?
+- "Bosta"?
+
+613
+00:50:41,122 --> 00:50:43,162
+Há alguma coisa específica
+que querem que eu faça?
+
+614
+00:50:43,207 --> 00:50:45,585
+- E que tal importares-te?
+- Sabes demasiado para não te importares.
+
+615
+00:50:45,668 --> 00:50:48,838
+Então! Dei a minha opinião sincera
+e robusta durante anos.
+
+616
+00:50:48,921 --> 00:50:52,634
+Conforme esperado, a soma dos nossos
+esforços levou à nossa aniquilação,
+
+617
+00:50:52,717 --> 00:50:56,888
+e a única coisa a fazer agora
+é aproveitar o tempo que nos resta e...
+
+618
+00:50:57,472 --> 00:50:59,515
+sabem, tal como sempre fazemos,
+desperdiçá-lo.
+
+619
+00:50:59,599 --> 00:51:02,685
+Honestamente, Ian, isso é uma treta!
+
+620
+00:51:02,769 --> 00:51:05,480
+Posso pagar-vos um café?
+
+621
+00:51:05,563 --> 00:51:08,941
+Tyler, por favor, dois "cappuccinos".
+
+622
+00:51:09,025 --> 00:51:10,360
+Eu não quero um "cappuccino".
+
+623
+00:51:10,443 --> 00:51:12,278
+Posso fazer-lhe um café cortado
+ou um "macchiato"...
+
+624
+00:51:12,362 --> 00:51:15,323
+Acredita em mim, é muito difícil, o "jet lag".
+Isto vai arrebitar-te num instante.
+
+625
+00:51:20,286 --> 00:51:23,245
+Os gafanhotos fazem parte de um
+projecto maior chamado "Hexapod Allies".
+
+626
+00:51:23,365 --> 00:51:24,999
+- Eu...
+- Tens razão sobre a intenção deles.
+
+627
+00:51:25,083 --> 00:51:27,001
+Comecei a ouvir rumores
+há seis semanas.
+
+628
+00:51:27,085 --> 00:51:29,587
+Li o teu artigo sobre decadência
+e juntei as peças.
+
+629
+00:51:29,671 --> 00:51:32,840
+- Eu não estava a levantar a voz.
+- Estás a começar a fazê-lo. Em crescendo.
+
+630
+00:51:32,924 --> 00:51:34,217
+Eles estão a proliferar descontroladamente.
+
+631
+00:51:34,300 --> 00:51:36,803
+Vivem três a quatro vezes
+mais do que deviam.
+
+632
+00:51:36,886 --> 00:51:40,473
+E todos os meus modelos indicam
+um colapso na ecologia global, Ian.
+
+633
+00:51:40,556 --> 00:51:42,225
+Lá em baixo, sub-nível 6.
+
+634
+00:51:42,308 --> 00:51:44,268
+É onde eles mantêm os gafanhotos.
+
+635
+00:51:44,352 --> 00:51:46,688
+Procura um laboratório
+marcado como "L4".
+
+636
+00:51:46,771 --> 00:51:48,606
+Mas, espera, como é que
+podemos ir lá abaixo?
+
+637
+00:51:48,690 --> 00:51:51,359
+Tem um aspecto tão macio.
+Posso tocar nesta blusa, por acaso?
+
+638
+00:51:51,442 --> 00:51:52,465
+Claro.
+
+639
+00:51:52,527 --> 00:51:54,445
+- Sabes o que é?
+- Não me digas. Isto é...
+
+640
+00:51:54,529 --> 00:51:57,031
+- Nunca irás adivinhar.
+- Bambu sustentável.
+
+641
+00:51:57,115 --> 00:51:59,367
+- É bambu sustentável.
+- Foi isso que eu disse...
+
+642
+00:51:59,450 --> 00:52:00,785
+- Como é que sabias?
+- Apenas sei.
+
+643
+00:52:00,827 --> 00:52:02,161
+- É incrível.
+- Deveras incrível.
+
+644
+00:52:02,245 --> 00:52:03,246
+Tenho cominhos, canela.
+
+645
+00:52:03,329 --> 00:52:05,123
+Tenho pimenta da Jamaica,
+que não é muito popular.
+
+646
+00:52:05,206 --> 00:52:06,526
+- Tenho cinco especiarias...
+- Doutor.
+
+647
+00:52:06,582 --> 00:52:08,251
+se for essa a sua "onda".
+
+648
+00:52:08,334 --> 00:52:10,753
+- E vamos falar sobre leite.
+- Sim.
+
+649
+00:52:10,837 --> 00:52:12,839
+Está bem, leite de soja, sim?
+
+650
+00:52:14,424 --> 00:52:16,008
+- Não.
+- O que é que acabou de acontecer?
+
+651
+00:52:17,135 --> 00:52:18,428
+Entramos.
+
+652
+00:52:32,525 --> 00:52:34,652
+<i>Sub-nível 6. Restrito.</i>
+
+653
+00:52:41,534 --> 00:52:43,536
+Lewis, não me estás a ouvir.
+
+654
+00:52:43,619 --> 00:52:47,540
+O ADN pré-histórico dos gafanhotos
+tornou-os mais fortes do que deviam.
+
+655
+00:52:47,623 --> 00:52:50,418
+Eles estão-se a multiplicar loucamente
+e não estão a morrer.
+
+656
+00:52:50,501 --> 00:52:53,004
+- Que parte disto é que não compreendeste?
+- Eu compreendo.
+
+657
+00:52:53,087 --> 00:52:54,839
+Isto vai provocar uma fome global.
+
+658
+00:52:54,922 --> 00:52:57,300
+Não podemos antecipar tudo.
+
+659
+00:52:57,383 --> 00:52:59,260
+Temos de erradicar aqueles que libertamos.
+
+660
+00:52:59,343 --> 00:53:01,220
+- O quê?
+- Todos.
+
+661
+00:53:01,304 --> 00:53:02,555
+- Não. Não.
+- Tipo...
+
+662
+00:53:02,638 --> 00:53:04,932
+- Henry, não queremos causar pânico.
+- Tipo ontem.
+
+663
+00:53:05,016 --> 00:53:06,684
+Nós queremos controlo.
+
+664
+00:53:07,351 --> 00:53:08,811
+Isso não existe.
+
+665
+00:53:21,282 --> 00:53:22,617
+Quando temos medo...
+
+666
+00:53:23,367 --> 00:53:24,786
+o que é que fazemos?
+
+667
+00:53:24,869 --> 00:53:26,454
+O que é que fizemos antes?
+
+668
+00:53:27,288 --> 00:53:28,615
+Prosseguimos.
+
+669
+00:53:29,791 --> 00:53:31,210
+É isso que fazemos.
+
+670
+00:53:31,292 --> 00:53:32,765
+Certo?
+
+671
+00:53:35,129 --> 00:53:36,565
+Certo.
+
+672
+00:53:39,258 --> 00:53:40,968
+Encontramos a rapariga.
+
+673
+00:53:41,052 --> 00:53:42,428
+Ela vem a caminho daqui.
+
+674
+00:53:42,512 --> 00:53:44,680
+- Custou-me uma fortuna.
+- O quê?
+
+675
+00:53:45,264 --> 00:53:47,266
+- Espera. Encontraram-na?
+- Sim. Encontrei ambas.
+
+676
+00:53:47,350 --> 00:53:48,643
+Ela e a pequena "raptor".
+
+677
+00:53:49,852 --> 00:53:53,815
+A Blue conseguiu reproduzir-se sozinha,
+tal como disseste.
+
+678
+00:53:53,898 --> 00:53:55,024
+És tão inteligente, Henry.
+
+679
+00:53:57,944 --> 00:53:59,111
+É por isso que isto funciona.
+
+680
+00:53:59,779 --> 00:54:01,989
+Compreendes o valor destas criaturas.
+
+681
+00:54:02,073 --> 00:54:03,491
+Sempre compreendeste.
+E eu também.
+
+682
+00:54:03,574 --> 00:54:07,453
+E não paramos por causa de quê?
+De um pequeno projecto colateral que correu mal?
+
+683
+00:54:08,913 --> 00:54:13,167
+Se eles conseguirem localizar-nos
+através dos gafanhotos,
+
+684
+00:54:13,251 --> 00:54:14,669
+virão buscar os dinossauros.
+
+685
+00:54:14,752 --> 00:54:16,087
+Todo o teu trabalho desaparecerá.
+
+686
+00:54:17,171 --> 00:54:20,007
+Biliões de dólares em recursos
+desaparecerão.
+
+687
+00:54:21,676 --> 00:54:24,095
+Diamantes sem ninguém
+para os extrair das minas.
+
+688
+00:54:25,346 --> 00:54:27,557
+Achas mesmo que ela é a solução?
+
+689
+00:54:30,768 --> 00:54:31,769
+Está bem.
+
+690
+00:54:33,604 --> 00:54:35,982
+Tudo aquilo que envolva a rapariga
+passa por mim, certo?
+
+691
+00:54:38,317 --> 00:54:39,652
+Ela está bem?
+
+692
+00:54:39,735 --> 00:54:41,028
+É melhor que esteja.
+
+693
+00:54:42,530 --> 00:54:45,283
+Ela é a propriedade intelectual
+mais valiosa do planeta.
+
+694
+00:54:55,501 --> 00:54:57,044
+Eu disse que lhe ligava.
+
+695
+00:54:57,128 --> 00:54:58,421
+Eles já aterraram?
+
+696
+00:54:58,504 --> 00:55:00,047
+<i>O segundo avião está a chegar.</i>
+
+697
+00:55:00,131 --> 00:55:02,884
+- Quem é que falou num segundo avião?
+- Elas viajaram em aviões separados.
+
+698
+00:55:02,967 --> 00:55:04,760
+Não quero correr quaisquer riscos.
+
+699
+00:55:04,844 --> 00:55:06,679
+<i>E queremos o pagamento
+antes da entrega.</i>
+
+700
+00:55:06,762 --> 00:55:08,806
+Não gostei daquilo que aconteceu
+da última vez.
+
+701
+00:55:08,890 --> 00:55:12,101
+Está bem. Está bem, apenas,
+liga-me quando estiver feito.
+
+702
+00:55:21,777 --> 00:55:23,654
+Disse que eu ia
+para um lugar seguro.
+
+703
+00:55:24,739 --> 00:55:26,145
+E vais.
+
+704
+00:55:33,539 --> 00:55:36,500
+- Caminha em direcção ao carro.
+- Não.
+
+705
+00:55:37,126 --> 00:55:38,445
+Não é opção.
+
+706
+00:55:51,182 --> 00:55:54,345
+50 mil dólares para transportar
+por um pequeno "Raptor" de avião.
+
+707
+00:55:54,425 --> 00:55:55,765
+Nada mau.
+
+708
+00:56:01,901 --> 00:56:03,152
+Quem é a rapariga?
+
+709
+00:56:05,446 --> 00:56:07,239
+Não é um problema seu.
+
+710
+00:56:15,414 --> 00:56:16,624
+Prazer em fazer negócio.
+
+711
+00:56:20,836 --> 00:56:22,171
+<i>Estamos prontos. Vamos.</i>
+
+712
+00:56:29,053 --> 00:56:30,429
+Owen.
+
+713
+00:56:35,184 --> 00:56:36,185
+Olá, Claire.
+
+714
+00:56:37,061 --> 00:56:39,438
+Pensei que tinhas escolhido
+um trabalho mais tranquilo.
+
+715
+00:56:39,522 --> 00:56:43,275
+Eu tentei. O meu primo e eu abrimos um café.
+Durou três semanas.
+
+716
+00:56:43,985 --> 00:56:46,362
+Da forma como o mundo está,
+é difícil afastarmo-nos.
+
+717
+00:56:47,238 --> 00:56:49,281
+O Delacourt foi contratado
+pela Soyona Santos...
+
+718
+00:56:49,365 --> 00:56:51,415
+uma intermediária no mundo do
+tráfico ilegal de dinossauros.
+
+719
+00:56:51,485 --> 00:56:53,661
+Não temos qualquer informação
+sobre a carga...
+
+720
+00:56:53,744 --> 00:56:57,289
+mas, logo que eles façam a troca, veremos
+o que eles sabem sobre a vossa rapariga.
+
+721
+00:56:57,373 --> 00:57:00,751
+Podem ouvir, mas, têm de me prometer
+que não irão estabelecer contacto.
+
+722
+00:57:00,835 --> 00:57:01,836
+Não.
+
+723
+00:57:06,048 --> 00:57:08,408
+Há um enorme mercado clandestino
+para os dinossauros neste momento.
+
+724
+00:57:08,467 --> 00:57:12,263
+Europa, Médio Oriente, Norte de África.
+Tudo passa por aqui.
+
+725
+00:57:23,065 --> 00:57:25,192
+Não olhem para ninguém.
+Não falem com ninguém.
+
+726
+00:57:25,776 --> 00:57:27,111
+Apenas... tentem "misturar-se".
+
+727
+00:58:03,022 --> 00:58:05,335
+Eu estou bem.
+
+728
+00:58:17,244 --> 00:58:19,413
+Ainda voas para a Santos?
+
+729
+00:58:19,525 --> 00:58:20,675
+Deves estar a precisar do dinheiro.
+
+730
+00:58:20,715 --> 00:58:21,790
+O que é que tens a ver com isso?
+
+731
+00:58:21,815 --> 00:58:23,815
+Tenho uma carga.
+
+732
+00:58:23,925 --> 00:58:26,921
+1000 kg de dinossauro para Palermo.
+
+733
+00:58:30,049 --> 00:58:32,760
+"Lystrosaurus". Muito raro.
+
+734
+00:58:32,843 --> 00:58:36,388
+Dou-te 2000.
+
+735
+00:58:37,056 --> 00:58:38,057
+Oito mil.
+
+736
+00:58:39,975 --> 00:58:42,311
+Ele pode ser feio, mas tem coragem.
+
+737
+00:58:46,982 --> 00:58:50,528
+- O que é que vais fazer com ele?
+- Ele é meu, agora. O que é que te importa?
+
+738
+00:59:00,371 --> 00:59:01,789
+Sim! Vamos, meu!
+
+739
+00:59:07,002 --> 00:59:09,839
+Sim!
+
+740
+00:59:19,098 --> 00:59:20,765
+Estás perdida?
+
+741
+00:59:21,267 --> 00:59:22,565
+És americana.
+
+742
+00:59:23,936 --> 00:59:25,229
+Isso torna-nos amigas?
+
+743
+00:59:25,365 --> 00:59:28,399
+- Ouve, acabei de cá chegar e...
+- Não!
+
+744
+00:59:28,482 --> 00:59:30,401
+Isto não foi um convite. Toma.
+
+745
+00:59:32,695 --> 00:59:33,821
+Recordação.
+
+746
+00:59:33,904 --> 00:59:37,199
+Volta para o teu hotel.
+Pões alguns sais de banho numa banheira.
+
+747
+00:59:37,283 --> 00:59:40,119
+Este sítio... não é para ti.
+
+748
+00:59:40,202 --> 00:59:41,203
+Espera.
+
+749
+00:59:41,912 --> 00:59:43,581
+- Ouve...
+- Claire.
+
+750
+00:59:44,456 --> 00:59:45,457
+Claire.
+
+751
+00:59:45,541 --> 00:59:47,334
+Eu sei que isto te deve parecer exótico,
+
+752
+00:59:47,418 --> 00:59:50,838
+mas, se te meteres com a
+pessoa errada aqui, vais desaparecer.
+
+753
+00:59:50,921 --> 00:59:51,922
+Percebeste?
+
+754
+00:59:52,631 --> 00:59:54,008
+Boa sorte. está bem?
+
+755
+00:59:54,091 --> 00:59:55,384
+Espera.
+
+756
+00:59:57,970 --> 00:59:59,263
+- Espera.
+- O que é isto?
+
+757
+00:59:59,346 --> 01:00:01,348
+- Preciso da tua ajuda.
+- Eu não te conheço.
+
+758
+01:00:01,432 --> 01:00:03,642
+- Ando à procura de alguém.
+- Não faças isso.
+
+759
+01:00:03,726 --> 01:00:05,644
+Ela está completamente sozinha.
+Por favor.
+
+760
+01:00:11,442 --> 01:00:13,777
+- É a tua filha?
+- Sim.
+
+761
+01:00:16,572 --> 01:00:17,990
+Lamento, não me posso envolver.
+
+762
+01:00:37,885 --> 01:00:39,803
+- Acho que o encontrei.
+- Alvo em movimento.
+
+763
+01:00:40,846 --> 01:00:43,015
+É o nosso agente disfarçado com ele.
+
+764
+01:00:43,098 --> 01:00:44,975
+Claire, ele vai para o subsolo.
+
+765
+01:00:45,059 --> 01:00:46,459
+- <i>Estás a vê-lo?</i>
+- Sim, já o vi.
+
+766
+01:00:48,646 --> 01:00:49,939
+Está bem, vamos.
+
+767
+01:00:50,022 --> 01:00:52,365
+<i>Equipa 4, preciso que comecem
+a verificar tudo em direcção a Sul.</i>
+
+768
+01:00:52,465 --> 01:00:53,734
+Vamos!
+
+769
+01:00:56,800 --> 01:00:58,865
+<i>Todas as unidades, ocupem
+as vossas posições.</i>
+
+770
+01:01:00,945 --> 01:01:02,201
+Daqui "Bravo One".
+
+771
+01:01:02,284 --> 01:01:04,662
+<i>Alvo primário à vista.
+Não há sinal da rapariga.</i>
+
+772
+01:01:04,745 --> 01:01:06,538
+<i>Equipa "Alpha", afastem-se.</i>
+
+773
+01:01:17,258 --> 01:01:20,135
+O meu pessoal disse que a "Raptor"
+chegou em boas condições.
+
+774
+01:01:20,844 --> 01:01:22,900
+Vocês não fizeram asneira.
+
+775
+01:01:23,000 --> 01:01:24,875
+Estou impressionada.
+
+776
+01:01:25,266 --> 01:01:28,060
+Tenho outro trabalho para vocês.
+É fácil, pago o dobro.
+
+777
+01:01:28,215 --> 01:01:29,520
+Qual é a carga?
+
+778
+01:01:32,022 --> 01:01:33,274
+Atrociraptors.
+
+779
+01:01:34,066 --> 01:01:35,234
+Puros-sangues.
+
+780
+01:01:35,317 --> 01:01:36,568
+Treinados para matar.
+
+781
+01:01:37,111 --> 01:01:39,321
+- Matar quem?
+- Quem quer que lhes for indicado.
+
+782
+01:01:39,405 --> 01:01:42,658
+Marcadores laser "activam" o alvo, eles captam
+o cheiro e não param até o alvo estar morto.
+
+783
+01:01:42,741 --> 01:01:44,145
+Impossível de escapar.
+
+784
+01:01:44,201 --> 01:01:46,412
+Aqueles idiotas que fazem híbridos
+perceberam tudo mal.
+
+785
+01:01:46,996 --> 01:01:50,332
+Não podemos "criar" a lealdade.
+Temos de estimulá-la.
+
+786
+01:01:50,416 --> 01:01:52,710
+50 000 dólares para
+levá-los de avião até Riade.
+
+787
+01:01:52,785 --> 01:01:54,900
+Aceitam ou não?
+
+788
+01:01:55,713 --> 01:01:57,100
+Ela não está aqui.
+
+789
+01:02:01,218 --> 01:02:02,303
+Para onde é que vamos?
+
+790
+01:02:03,470 --> 01:02:04,638
+Quase lá.
+
+791
+01:02:10,102 --> 01:02:12,205
+- <i>A troca foi feita. Vamos!</i>
+- Preciso que vigiem...</i>
+
+792
+01:02:12,229 --> 01:02:14,398
+Baixem as armas! Olhos neles!
+
+793
+01:02:14,481 --> 01:02:15,858
+Mãos no ar! Contacto efectuado!
+
+794
+01:02:15,941 --> 01:02:18,319
+Delacourt, no chão, agora!
+
+795
+01:02:18,402 --> 01:02:19,403
+No chão!
+
+796
+01:02:19,486 --> 01:02:21,196
+Delacourt! Fica com ele!
+
+797
+01:02:21,280 --> 01:02:22,565
+Merda.
+
+798
+01:02:24,158 --> 01:02:25,534
+Tira esse camião daqui!
+
+799
+01:02:25,617 --> 01:02:27,161
+Lá vai a Santos!
+
+800
+01:02:33,459 --> 01:02:34,918
+<i>Caramba, perdemos o Delacourt.</i>
+
+801
+01:02:47,639 --> 01:02:50,434
+Daqui "Bravo One".
+O camião está a aproximar-se do túnel.
+
+802
+01:02:52,227 --> 01:02:53,565
+<i>Vai.</i>
+
+803
+01:04:09,138 --> 01:04:10,931
+Meu, então! Vamos!
+
+804
+01:04:25,320 --> 01:04:27,698
+A rapariga. Onde é que ela está?
+Para onde é que eles a levaram?
+
+805
+01:04:27,781 --> 01:04:29,199
+- Tira-me isso!
+- Onde é que ela está?
+
+806
+01:04:29,283 --> 01:04:32,161
+Não sei! Entregamo-la à Santos.
+
+807
+01:04:32,244 --> 01:04:34,371
+Não sei para onde é que eles
+a levaram depois disso.
+
+808
+01:04:47,634 --> 01:04:49,970
+Claire. É a Santos.
+<i>A mulher de branco.</i>
+
+809
+01:04:50,053 --> 01:04:51,053
+Vou encontrá-la.
+
+810
+01:04:51,180 --> 01:04:54,016
+- Espalhem-se.
+- Equipa "Bravo", tenham cuidado.
+
+811
+01:04:56,310 --> 01:04:58,687
+- Então, então! Então!
+- Parado!
+
+812
+01:04:59,688 --> 01:05:01,565
+- Liberta-os.
+- O quê?
+
+813
+01:05:02,232 --> 01:05:03,442
+Ouviste-me.
+
+814
+01:05:28,967 --> 01:05:29,968
+<i>Merda!</i>
+
+815
+01:05:47,903 --> 01:05:49,321
+<i>Claire, encontraste-a?</i>
+
+816
+01:06:03,210 --> 01:06:05,337
+- Tivemos alguns problemas.
+- De que tipo?
+
+817
+01:06:05,420 --> 01:06:08,715
+<i>Os pais, Grady e Dearing.
+Eles estão aqui.</i>
+
+818
+01:06:13,178 --> 01:06:15,681
+- Consegues tratar disso?
+- De graça, não.
+
+819
+01:06:15,764 --> 01:06:18,058
+Bem... trata disso.
+
+820
+01:06:31,415 --> 01:06:33,407
+Está bem, está bem. Ouça.
+
+821
+01:06:34,950 --> 01:06:35,951
+Não, não, não!
+
+822
+01:06:49,047 --> 01:06:50,757
+Isso não se usa em pessoas.
+
+823
+01:06:50,841 --> 01:06:52,167
+Onde é que está a minha filha?
+
+824
+01:06:52,676 --> 01:06:54,386
+Ela nunca foi tua filha.
+
+825
+01:06:56,565 --> 01:06:58,056
+Diz-me.
+
+826
+01:06:59,808 --> 01:07:00,976
+"Biosyn".
+
+827
+01:07:01,059 --> 01:07:03,061
+Eles vão levá-la para a "Biosyn".
+
+828
+01:07:10,027 --> 01:07:11,611
+Desencontrou-se com ela.
+
+829
+01:07:11,695 --> 01:07:13,113
+Ela desapareceu.
+
+830
+01:08:11,963 --> 01:08:13,090
+Agarra a minha mão. Vamos!
+
+831
+01:08:43,787 --> 01:08:45,247
+Agarra-te bem.
+
+832
+01:08:45,831 --> 01:08:46,957
+O quê?
+
+833
+01:08:57,843 --> 01:09:00,071
+Lembras-te como costumávamos
+colocar os "Raptors" no camião?
+
+834
+01:09:00,095 --> 01:09:01,565
+- Sim.
+- Sim.
+
+835
+01:09:03,200 --> 01:09:04,349
+- É a tua vez.
+- Não.
+
+836
+01:09:06,165 --> 01:09:07,435
+No último instante, salta.
+
+837
+01:09:08,145 --> 01:09:10,371
+- Eu não consigo fazer isso.
+- Vais sair-te lindamente.
+
+838
+01:09:10,605 --> 01:09:12,315
+Nunca consigo acertar no tempo.
+
+839
+01:09:14,151 --> 01:09:16,194
+- Agora?
+- A qualquer momento. A qualquer momento.
+
+840
+01:09:17,237 --> 01:09:18,864
+- Agora?
+- Não.
+
+841
+01:09:21,158 --> 01:09:22,576
+Agora!
+
+842
+01:09:26,288 --> 01:09:27,914
+Sim. Sim, sim!
+
+843
+01:09:29,207 --> 01:09:30,375
+Pára!
+
+844
+01:09:37,716 --> 01:09:40,594
+Vou tirar-nos daqui de avião.
+Diz-me onde queres que te "largue".
+
+845
+01:09:40,677 --> 01:09:42,212
+Alguma vez voaste para a "Biosyn"?
+
+846
+01:09:43,680 --> 01:09:45,473
+<i>Owen! Eles levaram-na para a "Biosyn".</i>
+
+847
+01:09:45,557 --> 01:09:47,597
+<i>Há um aeródromo
+na parte norte da ilha.</i>
+
+848
+01:09:47,625 --> 01:09:48,810
+Vai.
+
+849
+01:09:48,894 --> 01:09:51,313
+Estás presa!
+Fica onde estás.
+
+850
+01:10:17,964 --> 01:10:19,341
+Certo!
+
+851
+01:10:24,137 --> 01:10:25,305
+Atenção!
+
+852
+01:12:03,820 --> 01:12:05,947
+Fizemos muitos inimigos hoje.
+Temos de ir.
+
+853
+01:12:06,031 --> 01:12:07,245
+Ele virá.
+
+854
+01:12:11,578 --> 01:12:13,288
+Estamos a ficar sem tempo.
+
+855
+01:12:15,665 --> 01:12:16,666
+Ali está ele.
+
+856
+01:12:19,044 --> 01:12:21,129
+- Encosta.
+- Não é assim que os aviões funcionam.
+
+857
+01:12:27,552 --> 01:12:28,762
+Abre a parte de trás.
+
+858
+01:12:47,655 --> 01:12:48,823
+Vamos!
+
+859
+01:12:54,245 --> 01:12:55,975
+Agarra-te bem!
+
+860
+01:13:26,194 --> 01:13:28,075
+Ainda tenho jeito.
+
+861
+01:13:35,537 --> 01:13:36,996
+Estás... ferida?
+
+862
+01:13:37,080 --> 01:13:38,748
+- Estás bem? Estás ferida?
+- Sim, sim.
+
+863
+01:13:38,832 --> 01:13:40,792
+- Onde? Onde é que estás ferida?
+- Pois.
+
+864
+01:13:40,875 --> 01:13:43,503
+- Onde é que estás ferida?
+- Não, não. Estou bem. Estou bem.
+
+865
+01:13:44,212 --> 01:13:45,338
+Estás bem? O que é...?
+
+866
+01:13:46,214 --> 01:13:49,050
+- Dói-me muito o braço. Está a sangrar?
+- Estás bem?
+
+867
+01:13:50,009 --> 01:13:51,177
+Não sei.
+
+868
+01:13:51,261 --> 01:13:52,595
+Estou? Estou?
+
+869
+01:13:54,013 --> 01:13:55,014
+Deixa-me ver.
+
+870
+01:13:57,142 --> 01:13:59,102
+- Está... está cortado?
+- Não. Não.
+
+871
+01:13:59,185 --> 01:14:00,186
+Não, estás bem.
+
+872
+01:14:00,270 --> 01:14:01,271
+- Está bem.
+- Estás bem.
+
+873
+01:14:16,911 --> 01:14:18,329
+Kayla Watts.
+
+874
+01:14:19,539 --> 01:14:20,540
+De nada.
+
+875
+01:14:21,082 --> 01:14:23,001
+Não tens aspecto de quem
+voa para a "Biosyn".
+
+876
+01:14:23,084 --> 01:14:26,754
+Vou interpretar isso conforme o disseste
+e não conforme soou.
+
+877
+01:14:26,838 --> 01:14:29,549
+Voo para quem quer que me pague bem,
+mas podemos considerar isto um favor.
+
+878
+01:14:29,632 --> 01:14:31,926
+Esses não funcionam.
+Estão avariados.
+
+879
+01:14:33,678 --> 01:14:36,723
+Vou levar-vos à "Biosyn", mas
+não posso prometer que não será perigoso.
+
+880
+01:14:37,307 --> 01:14:39,809
+Estás disposta a arriscar a tua vida
+por pessoas que nem sequer conheces?
+
+881
+01:14:41,436 --> 01:14:43,354
+Querem fazer perguntas
+ou querem boleia?
+
+882
+01:14:47,692 --> 01:14:49,225
+Aceitamos a boleia.
+
+883
+01:14:56,201 --> 01:14:58,244
+Então... este é o nosso Laboratório
+de Desenvolvimento de Habitats.
+
+884
+01:14:58,328 --> 01:15:00,955
+Muitas descobertas excitantes
+desde há muito tempo.
+
+885
+01:15:01,039 --> 01:15:03,500
+Trouxemos de volta inúmeras espécies
+na sua forma mais pura.
+
+886
+01:15:03,610 --> 01:15:07,655
+E refiro-me a genomas totalmente intactos.
+Como o <i>"Moros intrepidus"</i>.
+
+887
+01:15:07,745 --> 01:15:08,963
+- O quê?
+- Sim.
+
+888
+01:15:15,303 --> 01:15:17,305
+E "splicing" de ADN?
+
+889
+01:15:17,388 --> 01:15:19,140
+Sabe, criar novas espécies?
+
+890
+01:15:19,224 --> 01:15:22,060
+Não, Dra. Sattler,
+não fazemos isso aqui.
+
+891
+01:15:22,143 --> 01:15:23,983
+Gostamos de pensar
+que somos mais evoluídos.
+
+892
+01:15:28,525 --> 01:15:30,965
+Parece que ainda temos algum
+tempo antes do nosso passeio.
+
+893
+01:15:31,402 --> 01:15:34,197
+Gostariam de visitar
+as instalações sozinhos?
+
+894
+01:15:34,864 --> 01:15:38,451
+Quer dizer, podíamos.
+
+895
+01:15:38,535 --> 01:15:39,845
+- Sim, porque não?
+- Óptimo.
+
+896
+01:15:39,869 --> 01:15:44,374
+Encontrar-me-ei convosco na estação
+de "hyperloop" nº 3, daqui a 30 minutos.
+
+897
+01:15:44,916 --> 01:15:47,143
+Os elevadores são ao fundo
+deste corredor, não daqueles.
+
+898
+01:15:47,919 --> 01:15:49,587
+Aqueles levam aos sub-níveis.
+
+899
+01:15:50,088 --> 01:15:51,815
+Precisam de uma autorização especial
+para lá chegar.
+
+900
+01:15:51,839 --> 01:15:53,299
+- Está bem.
+- 30 minutos.
+
+901
+01:16:03,059 --> 01:16:04,936
+Aqui. Fica com isto.
+
+902
+01:16:06,938 --> 01:16:08,273
+Está bem?
+
+903
+01:16:08,356 --> 01:16:09,357
+Sim.
+
+904
+01:16:18,825 --> 01:16:20,910
+Lamento imenso que
+tenha acontecido desta forma.
+
+905
+01:16:22,120 --> 01:16:24,038
+Sim, é isso que os raptores dizem.
+
+906
+01:16:25,206 --> 01:16:27,355
+A Claire nunca te devia
+ter escondido.
+
+907
+01:16:27,417 --> 01:16:29,565
+És demasiado importante, Maisie.
+
+908
+01:16:34,674 --> 01:16:35,975
+Também a apanharam?
+
+909
+01:16:36,718 --> 01:16:37,975
+Sim.
+
+910
+01:16:38,636 --> 01:16:41,055
+Precisávamos dela
+para nos ajudar a entender-te.
+
+911
+01:16:46,144 --> 01:16:48,021
+Olá, "Beta".
+
+912
+01:16:49,564 --> 01:16:50,857
+Estás bem?
+
+913
+01:16:50,940 --> 01:16:53,735
+Disseste "Beta"?
+É esse o nome dela?
+
+914
+01:16:54,611 --> 01:16:55,612
+Fui eu quem lho deu.
+
+915
+01:16:56,571 --> 01:16:57,655
+A "Beta" é muito especial.
+
+916
+01:16:58,364 --> 01:16:59,565
+Sabes, quando fizemos a "Blue"...
+
+917
+01:16:59,616 --> 01:17:02,975
+utilizamos o ADN do varano para
+preencher as lacunas no genoma dela.
+
+918
+01:17:03,786 --> 01:17:06,775
+Os varanos conseguem
+reproduzir-se sem um parceiro.
+
+919
+01:17:06,831 --> 01:17:10,752
+Então, a "Beta" e a "Blue"
+são geneticamente idênticas,
+
+920
+01:17:10,835 --> 01:17:12,800
+e é isso que elas têm
+em comum contigo e a...
+
+921
+01:17:12,865 --> 01:17:14,422
+Charlotte.
+
+922
+01:17:17,175 --> 01:17:18,840
+O que é que sabes sobre a Charlotte?
+
+923
+01:17:18,945 --> 01:17:20,386
+Ela morreu.
+
+924
+01:17:21,512 --> 01:17:22,972
+Há muito tempo.
+
+925
+01:17:23,931 --> 01:17:25,725
+Destroçou o coração do meu avô.
+
+926
+01:17:27,602 --> 01:17:28,978
+Então, ele "fez-me".
+
+927
+01:17:30,730 --> 01:17:32,732
+Não, Maisie.
+Não verdade, não fez.
+
+928
+01:17:35,318 --> 01:17:37,320
+Foi a Charlotte que te "fez".
+
+929
+01:17:40,156 --> 01:17:43,225
+<i>Estou tão entusiasmada que todos vejam
+aquilo que temos andado aqui a fazer.</i>
+
+930
+01:17:43,701 --> 01:17:48,200
+<i>Estão a ser criadas novas tecnologias,
+novas ciências, tipo... quase todos os dias.</i>
+
+931
+01:17:48,265 --> 01:17:52,565
+<i>E é óptimo estar no centro...
+no centro de tudo isso.</i>
+
+932
+01:17:53,211 --> 01:17:58,591
+A Charlotte viveu no "Local B"
+com todos nós até à tempestade.
+
+933
+01:17:59,926 --> 01:18:01,803
+Ela adorava os dinossauros.
+
+934
+01:18:01,886 --> 01:18:04,097
+- <i>Charlotte, tem cuidado.
+- Sim, terei.</i>
+
+935
+01:18:04,180 --> 01:18:06,140
+Ela cresceu rodeada de cientistas.
+
+936
+01:18:07,308 --> 01:18:08,675
+E, eventualmente...
+
+937
+01:18:10,478 --> 01:18:11,938
+tornou-se uma.
+
+938
+01:18:12,021 --> 01:18:14,232
+<i>Uma borboleta entrou
+no meu escritório hoje de manhã.</i>
+
+939
+01:18:14,816 --> 01:18:18,611
+<i>Dizem que as coisas pequenas têm
+um enorme impacto, e eu acredito piamente.</i>
+
+940
+01:18:18,695 --> 01:18:19,696
+Ela era brilhante.
+
+941
+01:18:19,779 --> 01:18:22,475
+<i>Por todo o meu trabalho
+com criaturas, asas a bater...</i>
+
+942
+01:18:22,532 --> 01:18:24,158
+De uma forma que eu nunca serei.
+
+943
+01:18:24,242 --> 01:18:28,037
+<i>Na identidade metafísica, uma réplica
+pode ser tão verdadeira como a original?</i>
+
+944
+01:18:28,621 --> 01:18:31,582
+<i>E se isso for possível, porque será?</i>
+
+945
+01:18:36,963 --> 01:18:38,256
+<i>Perdi a minha caneta.</i>
+
+946
+01:18:41,884 --> 01:18:43,302
+Aquela sou eu?
+
+947
+01:18:43,386 --> 01:18:45,805
+Sim.
+
+948
+01:18:45,920 --> 01:18:49,517
+Tal como a "Blue", a Charlotte foi capaz
+de ter uma filha sozinha.
+
+949
+01:18:50,601 --> 01:18:54,105
+Ela criou-te a partir do seu próprio ADN.
+
+950
+01:18:55,314 --> 01:18:57,442
+Então, eu sempre tenho uma mãe.
+
+951
+01:18:57,525 --> 01:19:00,695
+O teu avô não queria que
+ninguém soubesse a verdade.
+
+952
+01:19:00,778 --> 01:19:03,322
+Ele estava a protegê-la e a ti.
+
+953
+01:19:04,741 --> 01:19:05,992
+E nós somos iguais?
+
+954
+01:19:07,869 --> 01:19:09,203
+Eram.
+
+955
+01:19:09,954 --> 01:19:13,458
+Quando eras bebé, a Charlotte começou a
+manifestar sintomas de uma doença genética.
+
+956
+01:19:14,208 --> 01:19:16,210
+Foi assim que ela morreu.
+
+957
+01:19:16,294 --> 01:19:18,921
+Ela não sabia que a tinha
+até depois de tu nasceres.
+
+958
+01:19:20,131 --> 01:19:21,632
+- Eu também a tenho?
+- Não.
+
+959
+01:19:23,092 --> 01:19:25,386
+Ela mudou o teu ADN.
+
+960
+01:19:25,970 --> 01:19:30,016
+Ela alterou cada célula no teu corpo
+para erradicar essa doença.
+
+961
+01:19:30,600 --> 01:19:33,269
+Nunca ninguém na Terra
+soube como fazer isso.
+
+962
+01:19:34,061 --> 01:19:35,646
+Ela curou-me.
+
+963
+01:19:35,730 --> 01:19:38,232
+A descoberta da Charlotte
+faz parte de ti, agora.
+
+964
+01:19:40,359 --> 01:19:43,029
+O teu ADN pode mudar o mundo.
+
+965
+01:19:43,863 --> 01:19:48,117
+E tenho de saber como é que ela o fez,
+mas eu não consigo replicar o trabalho dela.
+
+966
+01:19:48,201 --> 01:19:53,039
+Se eu pudesse estudar-te e à "Beta",
+cujo ADN nunca foi alterado, eu poderia...
+
+967
+01:19:55,708 --> 01:19:58,586
+corrigir um terrível erro que cometi.
+
+968
+01:19:58,669 --> 01:20:00,463
+Que tipo de erro?
+
+969
+01:20:08,805 --> 01:20:11,173
+<i>Sub-nível 6. Restrito.</i>
+
+970
+01:20:15,853 --> 01:20:17,175
+Obrigada por vires.
+
+971
+01:20:21,943 --> 01:20:25,445
+- Qual foi o laboratório que o Malcolm disse?
+- "L4".
+
+972
+01:20:30,034 --> 01:20:31,225
+É aqui.
+
+973
+01:20:50,388 --> 01:20:54,183
+Está bem. Entramos, recolhemos
+a amostra e saímos.
+
+974
+01:20:54,267 --> 01:20:55,268
+E movimenta-te devagar.
+
+975
+01:20:55,351 --> 01:20:57,812
+Eles podem começar a voar
+ao mínimo distúrbio.
+
+976
+01:21:22,920 --> 01:21:24,213
+Ortópteros.
+
+977
+01:21:25,923 --> 01:21:27,335
+Duas semanas.
+
+978
+01:21:31,554 --> 01:21:33,806
+Um adulto. Este.
+
+979
+01:21:36,415 --> 01:21:38,445
+Pronto? Devagar.
+
+980
+01:21:42,857 --> 01:21:45,115
+Está bem. Vai.
+
+981
+01:21:46,611 --> 01:21:47,612
+O quê?
+
+982
+01:21:49,113 --> 01:21:50,406
+Vai buscá-lo.
+
+983
+01:21:52,533 --> 01:21:53,743
+Isso é necessário?
+
+984
+01:21:53,826 --> 01:21:56,245
+O que é que pensaste que iria acontecer?
+
+985
+01:21:56,329 --> 01:21:59,457
+Tenho de recolher a amostra.
+Precisamos de provas concretas. É isto.
+
+986
+01:21:59,540 --> 01:22:02,668
+Alan, disseste que não tínhamos tempo.
+Consegues apanhá-lo?
+
+987
+01:22:03,336 --> 01:22:04,587
+É claro que consigo apanhá-lo.
+
+988
+01:22:05,087 --> 01:22:07,006
+Está bem. Com calma.
+
+989
+01:22:09,592 --> 01:22:10,718
+Cuidado com as patas.
+
+990
+01:22:13,846 --> 01:22:15,306
+Aqui vamos nós.
+
+991
+01:22:17,308 --> 01:22:19,765
+Eles estão a comunicar entre si.
+Isto não é bom, Ellie.
+
+992
+01:22:19,850 --> 01:22:21,228
+Estou quase lá.
+
+993
+01:22:23,522 --> 01:22:26,225
+Como é que ela continua a ser
+uma mais-valia, Henry...
+
+994
+01:22:26,265 --> 01:22:27,565
+se nos estás a incriminar a ambos...
+
+995
+01:22:27,645 --> 01:22:30,071
+mostrando-lhe coisas confidenciais
+no computador?
+
+996
+01:22:30,154 --> 01:22:33,525
+<i>A Charlotte Lockwood acreditava que
+os métodos utilizados no Parque Jurássico...</i>
+
+997
+01:22:33,585 --> 01:22:34,875
+<i>poderiam curar doenças.</i>
+
+998
+01:22:35,242 --> 01:22:36,445
+<i>Ela tinha razão.</i>
+
+999
+01:22:36,525 --> 01:22:40,695
+<i>A preencher as lacunas do genoma
+da Maisie com o ADN alterado...</i>
+
+1000
+01:22:40,745 --> 01:22:44,675
+<i>ela utilizou um patógeno para transmitir
+a sequência corrigida a cada célula.</i>
+
+1001
+01:22:45,127 --> 01:22:49,165
+<i>Se eu conseguir replicar o que ela fez,
+poderei alterar o ADN dos gafanhotos,</i>
+
+1002
+01:22:49,215 --> 01:22:51,467
+<i>e erradicá-los numa única geração.</i>
+
+1003
+01:22:51,550 --> 01:22:54,762
+<i>A Maisie e a bebé "Raptor"
+fornecerão os dados em falta.</i>
+
+1004
+01:23:02,770 --> 01:23:04,522
+Queres sair daqui?
+
+1005
+01:23:08,067 --> 01:23:09,735
+Mas, que...?!
+
+1006
+01:23:11,153 --> 01:23:12,513
+Consegui.
+
+1007
+01:23:20,538 --> 01:23:22,623
+Meu Deus!
+
+1008
+01:23:22,707 --> 01:23:24,375
+Eles estão por todo o lado! Ajuda-me!
+
+1009
+01:23:25,334 --> 01:23:27,336
+Meu Deus! Não!
+
+1010
+01:23:28,295 --> 01:23:31,674
+Meu Deus! Meu Deus!
+
+1011
+01:23:37,263 --> 01:23:38,764
+Maisie.
+
+1012
+01:23:50,609 --> 01:23:52,254
+<i>Violação na contenção de activos</i>
+
+1013
+01:23:52,278 --> 01:23:53,738
+<i>Por favor, permaneçam nas vossas estações.</i>
+
+1014
+01:23:55,948 --> 01:23:58,826
+<i>Violação na contenção de activos.
+Por favor, permaneçam nas vossas estações.</i>
+
+1015
+01:24:01,620 --> 01:24:02,621
+Meu Deus.
+
+1016
+01:24:02,705 --> 01:24:04,749
+- Meu Deus! Não consigo ver!
+- Onde é que está a chave?
+
+1017
+01:24:08,586 --> 01:24:09,587
+Meu Deus!
+
+1018
+01:24:22,850 --> 01:24:23,851
+Estás bem?
+
+1019
+01:24:24,560 --> 01:24:26,687
+Sim. Tu?
+
+1020
+01:24:27,646 --> 01:24:28,647
+Sim.
+
+1021
+01:24:38,282 --> 01:24:42,828
+Vocês são a Dra. Ellie Sattler
+e o Alan Grant.
+
+1022
+01:24:42,912 --> 01:24:44,371
+Vocês estiveram no Parque Jurássico.
+
+1023
+01:24:45,623 --> 01:24:47,083
+O que é que estão aqui a fazer?
+
+1024
+01:24:47,166 --> 01:24:49,085
+O quê? O que é que...?
+
+1025
+01:24:49,752 --> 01:24:51,120
+O que é que estás aqui a fazer?
+
+1026
+01:24:53,506 --> 01:24:54,799
+Sou a Maisie Lockwood.
+
+1027
+01:25:06,595 --> 01:25:07,686
+Nós não...
+
+1028
+01:25:08,729 --> 01:25:10,773
+Nós não...
+Não trabalhamos para a "Biosyn".
+
+1029
+01:25:10,856 --> 01:25:12,000
+Já percebi.
+
+1030
+01:25:12,125 --> 01:25:14,527
+- Temos de sair daqui.
+- Pois, devíamos mesmo ir.
+
+1031
+01:25:30,584 --> 01:25:32,995
+Muito bem, é entrar e sair.
+Encontramos a rapariga e vamos.
+
+1032
+01:25:34,547 --> 01:25:37,800
+Torre, daqui N141. Solicito autorização
+para aterrar para entrega de carga. Escuto.
+
+1033
+01:25:37,883 --> 01:25:39,385
+N141, negativo.
+
+1034
+01:25:39,468 --> 01:25:42,521
+Fomos avisados que está a transportar
+passageiros não autorizados. Escuto.
+
+1035
+01:25:42,721 --> 01:25:45,975
+<i>Entendido, Torre. Mas tenham atenção
+de que o carregamento é perecível.</i>
+
+1036
+01:25:46,058 --> 01:25:48,400
+<i>Precisamos de autorização imediata.</i>
+<i>É uma emergência. Escuto.</i>
+
+1037
+01:25:48,480 --> 01:25:49,600
+Não há... Não.
+
+1038
+01:25:50,710 --> 01:25:52,655
+Negativo.
+Regresse ao local de origem.
+
+1039
+01:25:52,731 --> 01:25:55,776
+Parece que a ligação está a falhar.
+Conseguem ouvir-me desse lado?
+
+1040
+01:25:55,860 --> 01:25:58,028
+<i>Talvez precisem de verificar os sistemas.</i>
+
+1041
+01:25:58,112 --> 01:26:00,230
+Boa tentativa, Kayla.
+Eles irão abater o teu avião.
+
+1042
+01:26:00,948 --> 01:26:03,242
+Quem é que está a falar?
+É a Denise?
+
+1043
+01:26:03,325 --> 01:26:05,275
+<i>Não vais querer que eu comece
+a contar os teus segredos, Denise.</i>
+
+1044
+01:26:05,315 --> 01:26:06,996
+<i>Lembras-te de Dubrovnik?</i>
+
+1045
+01:26:08,956 --> 01:26:09,957
+Ela...
+
+1046
+01:26:10,040 --> 01:26:13,460
+Denise diferente.
+Da Contabilidade.
+
+1047
+01:26:21,343 --> 01:26:24,305
+Falei com a Santos.
+São os pais da rapariga.
+
+1048
+01:26:27,224 --> 01:26:28,893
+Vamos desligar o ADS.
+
+1049
+01:26:29,602 --> 01:26:30,920
+Tem a certeza?
+
+1050
+01:26:39,945 --> 01:26:40,946
+O que é aquilo?
+
+1051
+01:26:42,364 --> 01:26:44,700
+Aquilo é...
+É o Sistema de Dissuasão Aérea.
+
+1052
+01:26:44,783 --> 01:26:47,536
+- Mantém a vida aérea afastada.
+- Porque é que está a piscar?
+
+1053
+01:26:47,620 --> 01:26:49,663
+A idiota da Denise na Torre
+acabou de desligá-lo.
+
+1054
+01:26:49,747 --> 01:26:51,957
+Temos de abandonar este
+espaço aéreo imediatamente.
+
+1055
+01:26:56,337 --> 01:26:59,256
+- Aquilo é outro avião, certo?
+- Não propriamente.
+
+1056
+01:27:02,885 --> 01:27:04,887
+- Isso é um...
+- "Quetzalcoatlus".
+
+1057
+01:27:05,512 --> 01:27:07,598
+Período Cretáceo tardio.
+Devia lá ter ficado.
+
+1058
+01:27:13,771 --> 01:27:16,232
+Está bem. Está bem.
+
+1059
+01:27:16,315 --> 01:27:18,359
+Tudo bem. Estamos bem.
+Já se foi embora.
+
+1060
+01:27:35,668 --> 01:27:37,127
+Este avião vai-se despenhar!
+
+1061
+01:27:37,211 --> 01:27:40,256
+Se vocês se vão ejectar,
+têm de fazê-lo agora!
+
+1062
+01:27:40,339 --> 01:27:43,342
+- Só tenho um assento e ela está sentada nele.
+- Não tens páraquedas?
+
+1063
+01:27:43,425 --> 01:27:45,594
+Não estava à espera de companhia!
+
+1064
+01:27:53,394 --> 01:27:56,146
+Claire! Temos de te tirar deste avião.
+
+1065
+01:27:56,230 --> 01:27:57,314
+O quê?
+
+1066
+01:27:57,398 --> 01:27:59,108
+O páraquedas irá abrir-se
+automaticamente.
+
+1067
+01:27:59,191 --> 01:28:01,944
+Se não o fizer, puxas esta alavanca.
+Percebeste?
+
+1068
+01:28:02,027 --> 01:28:04,280
+Claire!
+Se não abrir automaticamente,
+
+1069
+01:28:04,363 --> 01:28:06,365
+vais puxar esta alavanca
+atrás de ti. Está bem?
+
+1070
+01:28:06,448 --> 01:28:07,908
+Três mil metros!
+
+1071
+01:28:08,100 --> 01:28:09,994
+Ouve! Tu é que tens de ir ter com ela.
+
+1072
+01:28:10,077 --> 01:28:12,037
+Tu és a mãe dela.
+És a única hipótese que ela tem.
+
+1073
+01:28:15,249 --> 01:28:16,250
+Irei ver-te novamente.
+
+1074
+01:28:18,335 --> 01:28:19,336
+Amo-te.
+
+1075
+01:29:09,178 --> 01:29:10,179
+Qual é o plano?
+
+1076
+01:29:10,262 --> 01:29:13,182
+O que quer que aconteça.
+É esse o plano.
+
+1077
+01:29:27,571 --> 01:29:28,739
+- Três.
+- Por aqui.
+
+1078
+01:29:29,698 --> 01:29:32,284
+- Alan, precisamos do código.
+- Vamos tentar esta coisa.
+
+1079
+01:29:32,368 --> 01:29:33,368
+Sim.
+
+1080
+01:29:33,410 --> 01:29:35,329
+Esconde-te.
+
+1081
+01:29:41,085 --> 01:29:43,504
+- Graças a Deus que és tu!
+- Eu sei.
+
+1082
+01:29:43,587 --> 01:29:45,339
+- Este sítio é um labirinto.
+- Ainda bem que aqui estás.
+
+1083
+01:29:45,422 --> 01:29:47,575
+Estávamos tão confusos.
+Pensei que estávamos totalmente perdidos.
+
+1084
+01:29:47,633 --> 01:29:49,802
+Depois, tu disseste "Estação 3".
+E eu pensei, é aqui...
+
+1085
+01:29:49,885 --> 01:29:51,195
+Têm a amostra?
+
+1086
+01:29:51,845 --> 01:29:53,285
+- O quê?
+- Do que é que estás a falar?
+
+1087
+01:29:53,347 --> 01:29:55,099
+A amostra de ADN. Têm-na?
+
+1088
+01:29:55,682 --> 01:29:57,726
+A "Biosyn" é responsável
+pela epidemia de gafanhotos.
+
+1089
+01:29:57,810 --> 01:29:59,895
+O Dodgson está a encobrir tudo.
+Tinham razão.
+
+1090
+01:29:59,978 --> 01:30:01,445
+Estou aqui para vos ajudar.
+
+1091
+01:30:01,522 --> 01:30:02,800
+Têm-na?
+
+1092
+01:30:03,565 --> 01:30:04,600
+Sim.
+
+1093
+01:30:04,650 --> 01:30:05,900
+Óptimo.
+
+1094
+01:30:06,652 --> 01:30:08,404
+Esta cápsula irá levá-los,
+directamente, ao aeródromo.
+
+1095
+01:30:08,487 --> 01:30:10,114
+Temos um avião pronto a partir.
+
+1096
+01:30:10,197 --> 01:30:12,616
+- O Ian falou-te dos "Hexapod Allies"?
+- Não.
+
+1097
+01:30:12,699 --> 01:30:13,867
+Fui eu que lhe disse.
+
+1098
+01:30:13,951 --> 01:30:15,150
+O quê?
+
+1099
+01:30:15,536 --> 01:30:17,538
+- Está bem. Vocês têm de ir.
+- Espera.
+
+1100
+01:30:22,209 --> 01:30:23,210
+Maisie.
+
+1101
+01:30:26,922 --> 01:30:27,923
+Maisie Lockwood.
+
+1102
+01:30:31,176 --> 01:30:32,565
+Vão.
+
+1103
+01:34:39,675 --> 01:34:41,885
+Está bem.
+
+1104
+01:34:47,224 --> 01:34:48,767
+Aquele era o meu "bebé".
+
+1105
+01:34:50,394 --> 01:34:52,145
+Está bem, está bem.
+
+1106
+01:34:57,317 --> 01:34:59,194
+Onde é que aprendeste a pilotar?
+
+1107
+01:34:59,277 --> 01:35:02,698
+Força Aérea.
+Legado do lado da minha mãe.
+
+1108
+01:35:02,781 --> 01:35:04,116
+Pois. Eu sou da Marinha.
+
+1109
+01:35:05,033 --> 01:35:07,411
+Está bem, então,
+como é que acabaste a fazer isto?
+
+1110
+01:35:07,494 --> 01:35:09,565
+Fui uma piloto legítima e contratada
+durante algum tempo,
+
+1111
+01:35:09,625 --> 01:35:12,457
+mas não pagavam dinheiro suficiente
+para eu conseguir enviar dinheiro para casa.
+
+1112
+01:35:12,541 --> 01:35:15,445
+Então, estabeleci alguns contactos
+para umas "cenas" mais lucrativas e obscuras.
+
+1113
+01:35:16,545 --> 01:35:19,297
+Honestamente, acho que estou
+algo farta deste tipo de trabalhos.
+
+1114
+01:35:19,881 --> 01:35:21,374
+É por isso que estás a ajudar-nos?
+
+1115
+01:35:24,636 --> 01:35:27,347
+Eu estava lá quando eles entregaram
+a vossa filha à "Biosyn".
+
+1116
+01:35:28,640 --> 01:35:32,102
+Eu podia ter dito alguma coisa.
+Mas não disse.
+
+1117
+01:35:32,185 --> 01:35:33,895
+E quando vi a fotografia dela...
+
+1118
+01:35:36,398 --> 01:35:37,849
+Não é suficiente não fazer nada.
+
+1119
+01:35:43,613 --> 01:35:44,698
+Obrigado.
+
+1120
+01:36:31,703 --> 01:36:32,704
+Não.
+
+1121
+01:36:37,501 --> 01:36:38,875
+Não.
+
+1122
+01:37:02,818 --> 01:37:04,069
+Que idiota.
+
+1123
+01:37:55,537 --> 01:37:56,538
+Estás bem?
+
+1124
+01:37:57,122 --> 01:37:59,791
+Sim. Sim, sim.
+Sim, não estou nada abalada. Tu?
+
+1125
+01:37:59,875 --> 01:38:01,877
+Não. Não, não.
+
+1126
+01:38:04,462 --> 01:38:06,673
+Sinal do assento ejector.
+Iremos encontrá-la.
+
+1127
+01:38:06,756 --> 01:38:08,717
+Está bem, está bem.
+
+1128
+01:38:08,800 --> 01:38:10,051
+Gostas mesmo dela, não gostas?
+
+1129
+01:38:12,137 --> 01:38:13,445
+Sim.
+
+1130
+01:38:13,847 --> 01:38:15,075
+Compreendo.
+
+1131
+01:38:16,224 --> 01:38:17,851
+Também gosto de ruivas.
+
+1132
+01:38:19,102 --> 01:38:20,562
+O quê? Meu Deus.
+
+1133
+01:38:24,691 --> 01:38:27,193
+- Quem são estes?
+- É o Grant e a Sattler.
+
+1134
+01:38:27,277 --> 01:38:29,529
+- Isto é em directo?
+- Há doze minutos.
+
+1135
+01:38:29,613 --> 01:38:32,490
+Estávamos a seguir o activo que fugiu.
+Os meus homens não se aperceberam.
+
+1136
+01:38:32,574 --> 01:38:34,765
+Eles roubaram uma amostra de ADN.
+
+1137
+01:38:35,035 --> 01:38:36,202
+Como é que eles lá entraram?
+
+1138
+01:38:36,286 --> 01:38:38,914
+Eles utilizaram um cartão de acesso.
+Nível de autorização "Yankee White".
+
+1139
+01:38:40,373 --> 01:38:43,752
+Uma das nossas câmaras apanhou o
+Ian Malcolm a colocar algo no bolso da Sattler.
+
+1140
+01:38:44,711 --> 01:38:47,797
+Está bem. Quero falar com ele.
+
+1141
+01:38:47,881 --> 01:38:49,674
+E chama aqui o Ramsay também, pode ser?
+
+1142
+01:38:51,134 --> 01:38:53,762
+- Onde é que eles estão agora?
+- A caminho do aeródromo.
+
+1143
+01:38:53,845 --> 01:38:55,889
+Apanharam a cápsula de "hyperloop"
+mesmo a tempo.
+
+1144
+01:39:02,062 --> 01:39:03,063
+Como é que estás?
+
+1145
+01:39:04,272 --> 01:39:06,024
+Estás bem?
+
+1146
+01:39:07,108 --> 01:39:08,360
+Nem por isso, não.
+
+1147
+01:39:10,737 --> 01:39:11,975
+Então!
+
+1148
+01:39:12,572 --> 01:39:14,908
+Eu... conheci a tua mãe.
+
+1149
+01:39:18,495 --> 01:39:19,537
+Conheceu?
+
+1150
+01:39:22,415 --> 01:39:25,335
+Sim, alguns anos depois
+da morte do Hammond...
+
+1151
+01:39:26,169 --> 01:39:29,130
+ela foi dar uma palestra
+à minha universidade...
+
+1152
+01:39:29,214 --> 01:39:32,217
+e tornamo-nos boas amigas.
+
+1153
+01:39:32,300 --> 01:39:34,344
+Como é que ela era?
+
+1154
+01:39:34,427 --> 01:39:35,512
+Brilhante.
+
+1155
+01:39:35,595 --> 01:39:38,723
+Anos-luz à frente
+de qualquer outra pessoa.
+
+1156
+01:39:38,807 --> 01:39:41,017
+E ela tinha uma consciência.
+
+1157
+01:39:41,101 --> 01:39:43,228
+Enquanto eles andavam
+a construir parques temáticos...
+
+1158
+01:39:43,311 --> 01:39:46,982
+bem, ela estava determinada a provar
+que o poder genético podia salvar vidas.
+
+1159
+01:39:48,608 --> 01:39:49,985
+E eu era a "experiência" dela.
+
+1160
+01:39:50,068 --> 01:39:51,528
+Não.
+
+1161
+01:39:53,738 --> 01:39:56,491
+Ela queria ter uma filha
+mais do que qualquer coisa.
+
+1162
+01:39:56,574 --> 01:39:59,703
+Mas, queria que tu tivesses
+aquilo que ela não pôde ter.
+
+1163
+01:40:00,870 --> 01:40:02,414
+Uma vida plena.
+
+1164
+01:40:05,291 --> 01:40:07,252
+Não convivi com ela
+durante muito tempo...
+
+1165
+01:40:08,169 --> 01:40:10,463
+mas sei que ela te amava muito.
+
+1166
+01:40:30,942 --> 01:40:32,110
+O que é que se passa?
+
+1167
+01:40:39,743 --> 01:40:41,953
+Estas devem ser
+as antigas minas de âmbar.
+
+1168
+01:40:42,037 --> 01:40:43,630
+Estamos no interior da montanha.
+
+1169
+01:40:43,745 --> 01:40:47,445
+Eles devem ter feito portas de acesso
+quando construíram estes túneis.
+
+1170
+01:40:48,418 --> 01:40:49,665
+Estás pronta?
+
+1171
+01:40:50,837 --> 01:40:52,220
+Estou bem.
+
+1172
+01:40:52,756 --> 01:40:54,174
+Não, isso não é razoável.
+
+1173
+01:40:54,257 --> 01:40:56,176
+Você quer entrar no túnel escuro.
+
+1174
+01:40:56,718 --> 01:40:58,762
+Eu quero ficar
+no tubo à prova de balas.
+
+1175
+01:40:59,387 --> 01:41:00,975
+Quem é que está a ser
+pouco razoável?
+
+1176
+01:41:01,556 --> 01:41:04,642
+Mas o tubo à prova de balas não tem porta.
+
+1177
+01:41:08,396 --> 01:41:09,606
+Ouve...
+
+1178
+01:41:13,068 --> 01:41:16,800
+Sei como te sentes.
+É... assustador. Sem dúvida.
+
+1179
+01:41:17,447 --> 01:41:20,825
+Mas, acredita em mim, avançar
+é melhor do que ficar parado.
+
+1180
+01:41:20,945 --> 01:41:24,325
+E aqui a Dra. Sattler é uma
+boa pessoa numa situação difícil...
+
+1181
+01:41:24,415 --> 01:41:26,200
+e esta é uma situação difícil.
+
+1182
+01:41:26,345 --> 01:41:28,041
+Então, vens?
+
+1183
+01:41:31,753 --> 01:41:32,979
+Está bem.
+
+1184
+01:41:58,363 --> 01:42:01,032
+Ouvi o alarme.
+Está tudo bem?
+
+1185
+01:42:01,115 --> 01:42:04,536
+Pois. Não, não.
+Nada que não consigamos resolver. Ouça...
+
+1186
+01:42:05,203 --> 01:42:06,704
+- Chamou?
+- Óptimo.
+
+1187
+01:42:06,788 --> 01:42:09,165
+Dr. Malcolm, você está...
+
+1188
+01:42:09,249 --> 01:42:11,417
+- despedido.
+- O quê?
+
+1189
+01:42:12,252 --> 01:42:14,921
+Era um emprego tão maçador.
+
+1190
+01:42:15,004 --> 01:42:19,509
+Pode devolver o seu cartão de acesso,
+se ainda o tem.
+
+1191
+01:42:19,592 --> 01:42:22,178
+Uma das cápsulas de "hyperloop"
+acabou de parar nas minas de âmbar.
+
+1192
+01:42:22,262 --> 01:42:23,721
+O quê?
+
+1193
+01:42:23,805 --> 01:42:26,140
+Caramba! Que dia!
+
+1194
+01:42:26,224 --> 01:42:28,101
+De qual... cápsula estamos a falar?
+
+1195
+01:42:28,184 --> 01:42:29,445
+Há...
+
+1196
+01:42:30,603 --> 01:42:32,065
+dinossauros nas minas?
+
+1197
+01:42:32,105 --> 01:42:33,645
+Há dinossauros em todos os sítios.
+
+1198
+01:42:33,710 --> 01:42:36,375
+Tecnicamente, as aves são dinossauros,
+geneticamente falando, pelo menos.
+
+1199
+01:42:36,445 --> 01:42:38,625
+Está bem, Lewis.
+O Grant e a Sattler estão naquela cápsula.
+
+1200
+01:42:38,665 --> 01:42:41,725
+- Temos de enviar uma equipa de resgate imediatamente.
+- Absolutamente, Ramsay. Obrigado.
+
+1201
+01:42:41,785 --> 01:42:44,784
+Vamos, no entanto, manter-nos calmos.
+Podemos tratar disto.
+
+1202
+01:42:44,868 --> 01:42:45,994
+Obrigado, doutor.
+
+1203
+01:42:46,077 --> 01:42:48,496
+É isso?
+Não há mais nada aqui?
+
+1204
+01:42:48,580 --> 01:42:52,667
+Não tenho a certeza se me agrada
+o seu tom de voz neste momento.
+
+1205
+01:42:52,750 --> 01:42:54,270
+- Precisa de se retirar.
+- Sim, preciso.
+
+1206
+01:42:54,294 --> 01:42:57,672
+Mas, em primeiro lugar, devo um
+pedido de desculpas a todas estas pessoas.
+
+1207
+01:42:57,755 --> 01:43:00,550
+Acho que ao aceitar um "cachet"
+por parte desta espelunca...
+
+1208
+01:43:00,633 --> 01:43:03,428
+eu posso ter feito parecer que a "Biosyn"
+não está completamente "podre" até ao âmago.
+
+1209
+01:43:03,511 --> 01:43:04,679
+Basta, Ian.
+
+1210
+01:43:04,762 --> 01:43:05,962
+Sabem, é assim que eles vos cativam.
+
+1211
+01:43:06,014 --> 01:43:08,295
+Dão-vos tantas promoções
+num curto período...
+
+1212
+01:43:08,349 --> 01:43:10,700
+que oblitera a vossa capacidade
+de pensamento crítico.
+
+1213
+01:43:10,770 --> 01:43:11,810
+Meu Deus!
+
+1214
+01:43:11,853 --> 01:43:15,023
+Então, há portas que vocês não abrem,
+coisas que ignoram.
+
+1215
+01:43:15,106 --> 01:43:20,653
+Mas, sobretudo, ele está a explorar
+o vosso encantamento com estes.
+
+1216
+01:43:20,737 --> 01:43:22,739
+Há aqui uma verdadeira preocupação
+ou, está apenas...
+
+1217
+01:43:22,822 --> 01:43:26,868
+Está a acelerar em direcção à extinção
+da nossa espécie, e não se importa.
+
+1218
+01:43:26,951 --> 01:43:30,020
+Sabe, exactamente, aquilo que
+está a fazer, mas recusa-se a parar.
+
+1219
+01:43:30,120 --> 01:43:31,565
+Não consegue.
+
+1220
+01:43:31,706 --> 01:43:34,959
+Pensei que você pudesse ser diferente,
+mas é exactamente como todos os outros.
+
+1221
+01:43:35,043 --> 01:43:36,502
+Vê aquilo que quer ver.
+
+1222
+01:43:36,586 --> 01:43:40,757
+Imagina uma avareza desmensurada,
+então, é isso que encontra.
+
+1223
+01:43:40,840 --> 01:43:44,800
+Você imagina, o quê,
+um mau e ilimitado Prometheus...
+
+1224
+01:43:44,850 --> 01:43:47,210
+- então, é isso que eu sou para si?
+- O Prometheus não se deu muito bem.
+
+1225
+01:43:47,275 --> 01:43:50,308
+Nem você, seu desgraçado rato voraz.
+
+1226
+01:43:50,391 --> 01:43:54,020
+Ramsay, podes ajudar o Dr. Malcolm
+a reunir as coisas dele?
+
+1227
+01:43:55,021 --> 01:43:57,231
+O quarto dele e, depois, o aeródromo.
+Podem ir.
+
+1228
+01:44:07,158 --> 01:44:08,975
+Dodgson.
+
+1229
+01:45:41,627 --> 01:45:43,765
+"Allosaurus"?
+
+1230
+01:45:44,964 --> 01:45:46,615
+"Giganotosaurus".
+
+1231
+01:45:46,674 --> 01:45:48,593
+O maior carnívoro terrestre que se conhece.
+
+1232
+01:45:49,469 --> 01:45:51,929
+Ele colocou dois superpredadores
+num único vale.
+
+1233
+01:45:52,013 --> 01:45:53,890
+Muito em breve, haverá só um.
+
+1234
+01:46:25,630 --> 01:46:27,090
+Sentiram isto?
+
+1235
+01:46:29,092 --> 01:46:30,259
+É uma corrente de ar.
+
+1236
+01:46:30,968 --> 01:46:32,804
+Deve haver uma abertura à frente.
+
+1237
+01:46:33,971 --> 01:46:36,057
+Quanto tempo terá esta mina?
+
+1238
+01:46:36,140 --> 01:46:37,934
+Apenas... respira.
+
+1239
+01:46:38,017 --> 01:46:40,394
+Ninguém entre em pânico.
+Apenas tenham cuidado com os morcegos.
+
+1240
+01:46:40,478 --> 01:46:42,278
+- Quem é que falou em morcegos?
+- Odeio morcegos.
+
+1241
+01:46:42,355 --> 01:46:44,774
+Bem, provavelmente, não há morcegos.
+Nem pedras a cair.
+
+1242
+01:46:45,358 --> 01:46:48,277
+Apenas a possibilidade de gás tóxico,
+desidratação, hipotermia.
+
+1243
+01:46:48,361 --> 01:46:50,613
+São, apenas, possibilidades.
+Nada é certo.
+
+1244
+01:46:50,696 --> 01:46:53,866
+Devia-te ter deixado onde estavas.
+Porque é que eu te trouxe, afinal?
+
+1245
+01:46:53,950 --> 01:46:56,828
+- Eras feliz no teu elemento.
+- O quê? O quê? Ellie.
+
+1246
+01:46:56,911 --> 01:46:58,225
+O quê?
+
+1247
+01:46:58,746 --> 01:46:59,914
+Eu não era feliz.
+
+1248
+01:47:01,499 --> 01:47:02,625
+Não era?
+
+1249
+01:47:02,708 --> 01:47:04,710
+- Vocês têm filhos?
+- O quê?
+
+1250
+01:47:05,586 --> 01:47:08,798
+Não. Tenho. Dois.
+
+1251
+01:47:09,382 --> 01:47:10,424
+Mas não com ele?
+
+1252
+01:47:12,343 --> 01:47:15,012
+Não.
+
+1253
+01:47:15,930 --> 01:47:18,307
+Não, somos apenas velhos amigos.
+
+1254
+01:47:18,850 --> 01:47:20,768
+Apenas velhos amigos.
+
+1255
+01:47:21,978 --> 01:47:23,225
+A sério?
+
+1256
+01:47:28,025 --> 01:47:30,653
+Não irá demorar até que a segurança
+se aperceba que desapareceste.
+
+1257
+01:47:30,736 --> 01:47:33,531
+Um mapa. Isso parece um mapa antigo,
+Não tens um mapa novo?
+
+1258
+01:47:33,614 --> 01:47:36,492
+Há um portão de acesso
+no canto nordeste da mina.
+
+1259
+01:47:36,576 --> 01:47:38,202
+- Se os seus amigos conseguirem sair...
+- "Se"?
+
+1260
+01:47:38,286 --> 01:47:39,745
+- Quando conseguirem sair.
+- Sim, senhor.
+
+1261
+01:47:39,829 --> 01:47:41,080
+É onde eles irão estar.
+
+1262
+01:47:41,831 --> 01:47:43,958
+Estas estradas estão vigiadas, certo?
+
+1263
+01:47:44,041 --> 01:47:45,293
+Sim, eu conduziria depressa.
+
+1264
+01:47:57,138 --> 01:47:58,139
+Estiveste bem.
+
+1265
+01:47:58,222 --> 01:48:01,809
+Pois. Bem, na verdade,
+é um desastre completo, mas obrigado.
+
+1266
+01:48:02,935 --> 01:48:04,335
+Ainda não.
+
+1267
+01:48:40,973 --> 01:48:42,350
+Lewis?
+
+1268
+01:48:42,433 --> 01:48:44,518
+O quê? O que é que estás aqui a fazer?
+
+1269
+01:48:46,562 --> 01:48:47,980
+Na verdade, não. Isto é bom.
+
+1270
+01:48:48,064 --> 01:48:51,067
+Enviou uma equipa de resgate para
+as minas para resgatar o Grant e a Sattler?
+
+1271
+01:48:51,150 --> 01:48:52,818
+Sim. O quê? Está bem.
+Claro. Sim.
+
+1272
+01:48:52,902 --> 01:48:56,322
+- Está a apagar os ficheiros da investigação?
+- Estamos. Sim.
+
+1273
+01:48:56,405 --> 01:48:59,033
+Tu e eu temos de proteger
+aquilo que construímos, certo?
+
+1274
+01:48:59,445 --> 01:49:01,953
+Achas que eles não adorariam
+deitar as mãos a isto?
+
+1275
+01:49:02,036 --> 01:49:05,456
+Ficarem com todos os recursos
+que eu passei décadas a reunir.
+
+1276
+01:49:05,539 --> 01:49:06,791
+Apenas porque... o quê?
+
+1277
+01:49:07,750 --> 01:49:09,627
+Tomamos uma má decisão?
+Acontece.
+
+1278
+01:49:10,253 --> 01:49:11,975
+Sete.
+
+1279
+01:49:14,173 --> 01:49:15,174
+"Hexapod Allies".
+
+1280
+01:49:15,925 --> 01:49:17,802
+O quê?
+
+1281
+01:49:19,595 --> 01:49:22,431
+Está bem.
+O que é que as pessoas sabem?
+
+1282
+01:49:22,515 --> 01:49:25,885
+Os gafanhotos foram concebidos para espalhar
+modificações genéticas nas culturas.
+
+1283
+01:49:26,936 --> 01:49:29,939
+Protecção contra seca, gelo, doenças.
+Uma descoberta pioneira.
+
+1284
+01:49:30,022 --> 01:49:32,441
+- Podes crer que sim.
+- Sim. Só que não funcionou.
+
+1285
+01:49:32,525 --> 01:49:35,445
+Certificou-se de que eles não podem comer
+as sementes "Biosyn", então, comem tudo resto.
+
+1286
+01:49:35,528 --> 01:49:37,488
+Algo que não consegui prever.
+Temos uma solução.
+
+1287
+01:49:37,571 --> 01:49:39,811
+- Os agricultores independentes sofreram primeiro.
+- O Henry está a tratar disso.
+
+1288
+01:49:39,865 --> 01:49:42,702
+Ninguém se importou. Agora, as fontes de
+alimento do mundo estão prestes a colapsar.
+
+1289
+01:49:42,785 --> 01:49:44,370
+Encontrar a rapariga,
+alterar o ADN dos gafanhotos.
+
+1290
+01:49:44,453 --> 01:49:46,914
+- O rasto irá levar até si.
+- Resolvemos o problema.
+
+1291
+01:49:46,998 --> 01:49:48,416
+Ramsay, obrigado.
+
+1292
+01:49:51,335 --> 01:49:54,797
+Desaparece no próximo ciclo de notícias,
+tal como tudo o resto. Isto não é assim.
+
+1293
+01:49:55,465 --> 01:49:56,480
+"81C1".
+
+1294
+01:49:56,549 --> 01:49:59,260
+Ou... pode aceitar a responsabilidade.
+
+1295
+01:50:00,678 --> 01:50:02,179
+Partilhar a sua investigação com o mundo.
+
+1296
+01:50:02,263 --> 01:50:03,675
+Sim.
+
+1297
+01:50:04,724 --> 01:50:06,350
+Sabes, já tive 28 anos. Eu entendo.
+
+1298
+01:50:07,727 --> 01:50:08,936
+Olhamos em redor e...
+
+1299
+01:50:09,603 --> 01:50:13,245
+apercebemo-nos de que estamos rodeados
+de injustiça e crueldade e queremos mudar isso.
+
+1300
+01:50:13,310 --> 01:50:14,975
+Sim.
+
+1301
+01:50:15,109 --> 01:50:16,985
+E, depois, crescemos...
+
+1302
+01:50:17,028 --> 01:50:19,275
+alguém nos coloca na liderança...
+
+1303
+01:50:20,323 --> 01:50:22,575
+e apercebemo-nos de que
+não há mudança possível.
+
+1304
+01:50:25,619 --> 01:50:26,954
+É destruir ou sermos destruídos.
+
+1305
+01:50:28,581 --> 01:50:30,624
+Onde é que vai com isso?
+
+1306
+01:50:31,500 --> 01:50:34,420
+Não pedimos desculpa pelos nossos erros.
+Apagamo-los.
+
+1307
+01:50:35,755 --> 01:50:37,823
+Mantém o telemóvel ligado.
+Posso precisar de ti.
+
+1308
+01:50:45,639 --> 01:50:46,849
+Tem cuidado.
+
+1309
+01:51:06,118 --> 01:51:07,578
+- Ellie?
+- Sim.
+
+1310
+01:51:12,792 --> 01:51:13,793
+O que foi isto?
+
+1311
+01:51:20,966 --> 01:51:22,093
+Tem cuidado.
+
+1312
+01:51:36,500 --> 01:51:38,317
+- Meu Deus.
+- Estás bem?
+
+1313
+01:51:56,794 --> 01:51:57,920
+Esquece o chapéu!
+
+1314
+01:51:59,380 --> 01:52:01,048
+Vamos!
+
+1315
+01:52:08,806 --> 01:52:09,807
+Vai, vai, vai!
+
+1316
+01:52:10,808 --> 01:52:12,351
+Vai, vai, vai, vai!
+
+1317
+01:52:15,146 --> 01:52:16,439
+Não há nenhum botão.
+
+1318
+01:52:17,231 --> 01:52:18,232
+É um carro.
+
+1319
+01:52:20,234 --> 01:52:22,236
+- Meu Deus. Ian!
+- Ian, aqui!
+
+1320
+01:52:23,863 --> 01:52:25,050
+- Socorro!
+- Por favor!
+
+1321
+01:52:25,100 --> 01:52:26,866
+- Abre o portão!
+- Por favor, ajuda-nos!
+
+1322
+01:52:27,825 --> 01:52:30,865
+- Sabes o código?
+- Eu não sabia que ia haver um código.
+
+1323
+01:52:31,790 --> 01:52:34,245
+Não sabia que ia haver um código.
+
+1324
+01:52:34,331 --> 01:52:35,875
+Meu Deus!
+Meu Deus!
+
+1325
+01:52:37,835 --> 01:52:39,170
+O travão.
+Puxem o travão!
+
+1326
+01:52:39,253 --> 01:52:41,005
+São dez mil possibilidades.
+
+1327
+01:52:41,088 --> 01:52:42,256
+Esforça-te!
+
+1328
+01:52:43,549 --> 01:52:46,177
+- 1984.
+- Vamos, Ian!
+
+1329
+01:52:46,260 --> 01:52:48,554
+- Despacha-te!
+- Depressa!
+
+1330
+01:52:49,054 --> 01:52:52,433
+Aniversário do Miles Davis, 0-5-2-6.
+
+1331
+01:52:57,229 --> 01:52:58,481
+- Ian!
+- Por favor. Por favor.
+
+1332
+01:52:58,564 --> 01:53:01,233
+- Faz alguma coisa!
+- Não vamos sobreviver.
+
+1333
+01:53:01,317 --> 01:53:03,965
+Vamos todos tentar
+manter uma atitude positiva.
+
+1334
+01:53:19,627 --> 01:53:22,900
+- Por favor.
+- Eu sei. Eu sei. Eu sei!
+
+1335
+01:53:28,886 --> 01:53:30,346
+Meu Deus!
+
+1336
+01:53:31,972 --> 01:53:33,766
+Quem diria?
+Funcionou mesmo.
+
+1337
+01:53:40,064 --> 01:53:42,399
+- Ian, esta é a Maisie.
+- Olá, Maisie.
+
+1338
+01:53:42,483 --> 01:53:44,068
+Temos o ADN.
+
+1339
+01:53:45,694 --> 01:53:47,613
+- Temos de sair deste vale.
+- Pois.
+
+1340
+01:53:47,696 --> 01:53:49,448
+- Vamos. Vamos.
+- Vamos. Vamos lá.
+
+1341
+01:54:20,771 --> 01:54:22,439
+Vamos. Vamos.
+
+1342
+01:55:32,259 --> 01:55:33,719
+Vamos. Desaparece daqui!
+
+1343
+01:55:35,971 --> 01:55:37,848
+Olá.
+
+1344
+01:55:37,931 --> 01:55:39,224
+Meu Deus.
+
+1345
+01:55:40,225 --> 01:55:41,935
+Pensei que estavas morto.
+
+1346
+01:55:42,019 --> 01:55:43,270
+O que é que eles comem?
+
+1347
+01:55:48,442 --> 01:55:49,651
+É melhor entrarmos.
+
+1348
+01:56:10,130 --> 01:56:11,256
+Prossigam.
+
+1349
+01:56:50,671 --> 01:56:53,006
+<i>Câmara de contenção comprometida.</i>
+
+1350
+01:57:08,897 --> 01:57:10,023
+Está trancado.
+
+1351
+01:57:10,107 --> 01:57:12,401
+Vamos precisar de algo pesado,
+algo afiado, ou ambos.
+
+1352
+01:57:24,204 --> 01:57:26,665
+Aquilo não pode estar bem.
+
+1353
+01:57:38,427 --> 01:57:39,970
+- Aquilo é...?
+- Não.
+
+1354
+01:57:40,762 --> 01:57:42,264
+Meu Deus.
+
+1355
+01:57:44,600 --> 01:57:46,565
+Ele está a queimar as provas.
+
+1356
+01:57:47,186 --> 01:57:50,439
+- Meu Deus. Meu Deus! Meu...
+- Isso é de loucos.
+
+1357
+01:58:06,622 --> 01:58:09,374
+Meu Deus.
+
+1358
+01:58:09,458 --> 01:58:14,379
+Eu... eu sei que isto pode
+parecer precário, mas...
+
+1359
+01:58:15,547 --> 01:58:16,673
+Não, estamos a oscilar.
+
+1360
+01:58:19,510 --> 01:58:21,595
+Não nos devíamos inclinar
+todos para o lado esquerdo?
+
+1361
+01:58:21,678 --> 01:58:23,847
+Isso é uma ideia muito construtiva...
+Obrigado, Maisie.
+
+1362
+01:58:23,931 --> 01:58:25,349
+Sim.
+
+1363
+01:58:25,432 --> 01:58:27,267
+Devagar, devagar.
+
+1364
+01:58:29,603 --> 01:58:30,604
+Devagar.
+
+1365
+01:58:32,981 --> 01:58:34,733
+Sim.
+
+1366
+01:58:34,816 --> 01:58:37,402
+Estamos bem. Vês isto?
+
+1367
+01:58:38,570 --> 01:58:39,571
+Isto é óptimo.
+
+1368
+01:58:53,669 --> 01:58:54,962
+Alan?
+
+1369
+01:58:55,045 --> 01:58:57,339
+Alan!
+
+1370
+01:58:57,422 --> 01:58:58,423
+Como é que estão todos?
+
+1371
+01:59:08,225 --> 01:59:10,352
+São os meus pais.
+
+1372
+01:59:11,603 --> 01:59:12,980
+Socorro!
+
+1373
+01:59:13,564 --> 01:59:15,190
+- Socorro!
+- Ouçam.
+
+1374
+01:59:15,816 --> 01:59:17,067
+Socorro!
+
+1375
+01:59:19,027 --> 01:59:20,028
+Meu Deus.
+
+1376
+01:59:23,574 --> 01:59:24,575
+Meu Deus.
+
+1377
+01:59:25,367 --> 01:59:26,800
+Estás bem?
+
+1378
+01:59:27,744 --> 01:59:29,121
+Estás bem.
+
+1379
+01:59:29,204 --> 01:59:31,975
+Vieram buscar-me.
+Vocês vieram... mesmo buscar-me.
+
+1380
+01:59:32,060 --> 01:59:34,315
+É claro que viemos, querida.
+
+1381
+01:59:34,375 --> 01:59:36,225
+- Então...
+- É claro.
+
+1382
+01:59:38,297 --> 01:59:39,381
+Eu lembro-me de ti.
+
+1383
+01:59:41,383 --> 01:59:43,051
+Também me lembro de ti.
+
+1384
+01:59:53,145 --> 01:59:54,730
+Eles ajudaram-me a fugir.
+
+1385
+01:59:55,480 --> 01:59:56,876
+Sim?
+
+1386
+02:00:00,193 --> 02:00:01,565
+Estás bem?
+
+1387
+02:00:04,489 --> 02:00:05,949
+- Obrigada.
+- Sim.
+
+1388
+02:00:08,577 --> 02:00:09,870
+Temos de ir.
+
+1389
+02:00:10,621 --> 02:00:12,956
+Vou ter de partir uma janela
+para entrar naquilo.
+
+1390
+02:00:14,124 --> 02:00:15,751
+Espero que ninguém
+tenha medo de alturas.
+
+1391
+02:00:28,805 --> 02:00:30,390
+- Não se mexam.
+- Não se mexam.
+
+1392
+02:00:49,034 --> 02:00:50,202
+O que é aquilo?
+
+1393
+02:00:50,994 --> 02:00:52,287
+"Giganotosaurus".
+
+1394
+02:00:54,623 --> 02:00:56,792
+O maior carnívoro
+que o mundo já viu.
+
+1395
+02:01:16,061 --> 02:01:17,979
+Maisie, Maisie.
+Olha para mim. Olha para mim.
+
+1396
+02:01:41,628 --> 02:01:42,900
+Vão.
+
+1397
+02:01:58,228 --> 02:01:59,938
+- Vão, vão, vão.
+- Vamos!
+
+1398
+02:02:06,069 --> 02:02:07,070
+Não! Não, não, não.
+
+1399
+02:02:11,533 --> 02:02:13,577
+- Despacha-te!
+- Vou morrer!
+
+1400
+02:02:13,660 --> 02:02:14,995
+- Sobe! Sobe, miúda!
+- Não!
+
+1401
+02:02:15,078 --> 02:02:17,122
+Não vais. Não, não vais.
+Estás bem.
+
+1402
+02:02:26,173 --> 02:02:27,565
+Vão, vão, vão.
+
+1403
+02:02:45,066 --> 02:02:46,445
+Vamos.
+
+1404
+02:02:47,569 --> 02:02:48,900
+Então!
+
+1405
+02:02:55,660 --> 02:02:57,445
+Sim, anda cá.
+
+1406
+02:03:14,145 --> 02:03:15,675
+Ajuda-me a abrir isto.
+
+1407
+02:03:21,561 --> 02:03:22,729
+Apanhei-te.
+
+1408
+02:03:23,605 --> 02:03:25,385
+Vão, vão, vão.
+
+1409
+02:03:25,440 --> 02:03:26,875
+Vão, vão, vão!
+
+1410
+02:03:29,569 --> 02:03:30,900
+Fujam!
+
+1411
+02:03:47,420 --> 02:03:49,445
+Vês? Não é assim tão mau.
+
+1412
+02:03:55,720 --> 02:03:56,720
+Então!
+
+1413
+02:03:57,806 --> 02:03:59,910
+- Owen!
+- Claire!
+
+1414
+02:04:43,059 --> 02:04:46,135
+Temos de promover uma evacuação.
+Temos de trazer os animais para dentro.
+
+1415
+02:04:46,187 --> 02:04:49,220
+Os regulamentos são claros,
+em caso de um acontecimento de nível 2...
+
+1416
+02:04:52,027 --> 02:04:53,028
+Jeffrey.
+
+1417
+02:04:58,742 --> 02:04:59,975
+Meu Deus...
+
+1418
+02:05:00,493 --> 02:05:01,900
+Caramba!
+
+1419
+02:05:04,080 --> 02:05:05,225
+Apenas...
+
+1420
+02:05:06,499 --> 02:05:08,415
+Apenas, comunica-o.
+
+1421
+02:05:08,460 --> 02:05:12,065
+<i>Atenção! Atenção!
+Esta é uma ordem de evacuação imediata.</i>
+
+1422
+02:05:12,130 --> 02:05:14,275
+<i>O sistema de recolha remoto
+de animais está, agora, activo.</i>
+
+1423
+02:05:14,341 --> 02:05:17,975
+<i>Todos os activos vivos a caminho
+da contenção de emergência.</i>
+
+1424
+02:05:40,492 --> 02:05:44,412
+Não consigo contactar ninguém
+porque está tudo em chamas.
+
+1425
+02:05:45,080 --> 02:05:47,499
+- Dra. Sattler, beba um pouco de água.
+- Obrigada.
+
+1426
+02:05:47,582 --> 02:05:49,720
+Dr. Grant? Aqui tem.
+
+1427
+02:05:49,835 --> 02:05:52,712
+Sou o Owen Grady.
+Grande fã. Li o seu livro.
+
+1428
+02:05:53,338 --> 02:05:54,756
+Bem, um livro áudio.
+
+1429
+02:05:54,839 --> 02:05:58,551
+Owen Grady. Owen Grady.
+Eu sei quem tu és.
+
+1430
+02:05:59,469 --> 02:06:01,445
+Treinaste "raptors".
+
+1431
+02:06:01,565 --> 02:06:04,391
+Tentei. Sim.
+
+1432
+02:06:04,474 --> 02:06:06,559
+- Como estás?
+- Aquele que está aqui.
+
+1433
+02:06:07,644 --> 02:06:09,565
+Estavam no Mundo Jurássico.
+
+1434
+02:06:10,063 --> 02:06:13,775
+Mundo Jurássico? Não sou fã.
+
+1435
+02:06:14,609 --> 02:06:17,696
+Está bem. Então, vamos encontrar 
+uma forma de sair daqui?
+
+1436
+02:06:17,779 --> 02:06:20,073
+- Sim.
+- Vamos lá, então.
+
+1437
+02:06:20,156 --> 02:06:23,410
+Há um helicóptero
+no complexo principal.
+
+1438
+02:06:23,493 --> 02:06:26,162
+Ligamos novamente o ADS
+e vamos para casa.
+
+1439
+02:06:26,246 --> 02:06:28,707
+- Espera. O que é um "ADS"?
+- Sistema de Dissuasão Aérea.
+
+1440
+02:06:30,333 --> 02:06:32,752
+Sabem?
+Para os Pterodáctilos e coisas assim.
+
+1441
+02:06:32,836 --> 02:06:34,629
+Mantém-nos afastados dos helicópteros.
+
+1442
+02:06:34,713 --> 02:06:36,381
+Bem, como é que o voltamos a activar?
+
+1443
+02:06:36,464 --> 02:06:39,551
+Parece que todos os sistemas
+passam pela Sala de Controlo,
+
+1444
+02:06:39,634 --> 02:06:40,885
+que fica no terceiro andar.
+
+1445
+02:06:42,303 --> 02:06:44,700
+Estes postos avançados
+estão todos ligados pelo subsolo.
+
+1446
+02:06:50,200 --> 02:06:51,855
+Está bem.
+Tem calma, "Rambo".
+
+1447
+02:07:02,073 --> 02:07:03,950
+Então, trabalhavas no covil dos "Raptors"?
+
+1448
+02:07:04,868 --> 02:07:06,411
+Sim.
+
+1449
+02:07:06,494 --> 02:07:07,579
+E o que é que acontecia?
+
+1450
+02:07:07,662 --> 02:07:10,915
+Dizias-lhes, apenas, o que fazer
+e eles obedeciam? Ou...
+
+1451
+02:07:12,125 --> 02:07:15,837
+Bem, é uma ligação humano-animal
+que tem por base o respeito mútuo.
+
+1452
+02:07:18,465 --> 02:07:20,592
+Tive um cão em tempos.
+
+1453
+02:07:20,675 --> 02:07:25,346
+Saltava tanto à minha perna que
+fiquei com um calo na minha tíbia.
+
+1454
+02:07:25,430 --> 02:07:26,681
+É uma história verdadeira.
+
+1455
+02:07:42,447 --> 02:07:44,824
+Meu Deus. Óptimo.
+
+1456
+02:07:47,077 --> 02:07:49,788
+Eis aquilo que estou a pensar.
+Começamos outra vez.
+
+1457
+02:07:49,871 --> 02:07:52,445
+Tu e eu.
+Eu consigo arranjar dinheiro.
+
+1458
+02:07:53,515 --> 02:07:55,835
+Sim. O dinheiro é barato actualmente.
+
+1459
+02:07:55,919 --> 02:07:58,963
+Qual é o problema?
+Não estejas assim tão preocupado. Há...
+
+1460
+02:07:59,047 --> 02:08:03,765
+Há uma oportunidade em tudo.
+Até nisto. Irás aprender isso.
+
+1461
+02:08:04,010 --> 02:08:08,445
+Estive a pensar, talvez devesses assumir
+um papel de maior liderança. Está bem?
+
+1462
+02:08:08,723 --> 02:08:10,100
+Estás pronto, penso eu.
+
+1463
+02:08:10,350 --> 02:08:11,351
+Aqui, toma...
+
+1464
+02:08:11,976 --> 02:08:13,645
+O que diabo é que se passa contigo?!
+
+1465
+02:08:23,279 --> 02:08:24,480
+Foste tu.
+
+1466
+02:08:25,073 --> 02:08:27,617
+Tu contaste ao Malcolm
+sobre o programa. Tu...
+
+1467
+02:08:28,618 --> 02:08:31,371
+Montaste tudo isto.
+Tramaste-me.
+
+1468
+02:08:32,288 --> 02:08:34,666
+Eu dei-te todas
+as oportunidades que não tive. Eu...
+
+1469
+02:08:36,125 --> 02:08:40,755
+Temos um entendimento, Ramsay.
+E não podes quebrar isso.
+
+1470
+02:08:43,550 --> 02:08:45,176
+Eu não o quebraria.
+
+1471
+02:08:48,513 --> 02:08:49,848
+Eu não sou você.
+
+1472
+02:09:05,029 --> 02:09:06,656
+Isto é muito mau.
+
+1473
+02:09:08,491 --> 02:09:10,493
+Este é o mesmo sistema
+que usávamos no Parque.
+
+1474
+02:09:11,020 --> 02:09:15,373
+Óptimo. Então, podemos ligar a coisa
+e, depois, todos sairemos daqui?
+
+1475
+02:09:15,965 --> 02:09:17,250
+Vejamos. ADS...
+
+1476
+02:09:18,418 --> 02:09:20,378
+O que é isto? O que é "Error 99"?
+
+1477
+02:09:20,461 --> 02:09:22,380
+Energia insuficiente.
+
+1478
+02:09:22,463 --> 02:09:24,257
+Numa avaria,
+toda a energia disponível é aproveitada...
+
+1479
+02:09:24,340 --> 02:09:26,509
+pelo sistema primário
+para continuar a funcionar.
+
+1480
+02:09:26,593 --> 02:09:28,761
+Precisamos de toda essa energia
+para reactivar o ADS.
+
+1481
+02:09:28,845 --> 02:09:30,945
+Então, o sistema de segurança
+é aquilo que nos vai matar?
+
+1482
+02:09:30,972 --> 02:09:32,265
+Claro.
+
+1483
+02:09:32,348 --> 02:09:34,223
+- Como é que conseguimos mais energia?
+- Não conseguimos.
+
+1484
+02:09:34,267 --> 02:09:36,102
+Mas podemos redistribuir
+aquela que temos.
+
+1485
+02:09:36,185 --> 02:09:38,105
+- Apenas precisamos de...
+- Desligar o sistema primário.
+
+1486
+02:09:38,187 --> 02:09:39,425
+- Sim. Exactamente.
+- Onde é que fica?
+
+1487
+02:09:39,480 --> 02:09:41,608
+- No andar de cima.
+- Eu vou contigo.
+
+1488
+02:09:41,691 --> 02:09:43,565
+Escapámos por aqui.
+
+1489
+02:09:44,277 --> 02:09:47,975
+- Onde é que é isso? Centro de tratamento de água?
+- Sistema hidroeléctrico, Sub 8.
+
+1490
+02:09:48,031 --> 02:09:49,657
+Dá-me oito minutos.
+Eu consigo encontrá-la.
+
+1491
+02:09:49,741 --> 02:09:50,825
+Espera. Quem é esta?
+
+1492
+02:09:50,910 --> 02:09:52,911
+Beta. A bebé da Blue.
+
+1493
+02:09:52,994 --> 02:09:54,495
+Velociraptor.
+
+1494
+02:09:54,579 --> 02:09:56,164
+- O quê?
+- Uma bebé "raptor"?
+
+1495
+02:09:56,247 --> 02:09:57,957
+Deste-lhe um nome.
+E esta?
+
+1496
+02:09:58,041 --> 02:09:59,834
+Fiz uma promessa que
+a levaríamos para casa.
+
+1497
+02:09:59,918 --> 02:10:02,825
+Fizeste uma promessa
+a um dinossauro.
+
+1498
+02:10:02,879 --> 02:10:04,505
+Vem connosco, certo?
+
+1499
+02:10:04,589 --> 02:10:06,174
+Maisie, eu...
+
+1500
+02:10:06,257 --> 02:10:07,300
+Por favor.
+
+1501
+02:10:10,720 --> 02:10:12,555
+- Estarei no canal 5.
+- Está bem.
+
+1502
+02:10:12,639 --> 02:10:14,641
+Estamos no três.
+
+1503
+02:10:15,266 --> 02:10:16,267
+Volta.
+
+1504
+02:10:17,185 --> 02:10:18,565
+Eu volto sempre.
+
+1505
+02:10:19,646 --> 02:10:22,875
+Terei o helicóptero pronto daqui
+a 10 minutos. Esperem pelo meu sinal.
+
+1506
+02:10:24,567 --> 02:10:26,903
+<i>Evacuação, Fase 4, completa.</i>
+
+1507
+02:10:26,986 --> 02:10:28,988
+<i>Todos os seres vivos estão,
+agora, em contenção.</i>
+
+1508
+02:10:37,997 --> 02:10:38,998
+Vamos.
+
+1509
+02:10:51,552 --> 02:10:53,012
+Ainda tens pesadelos?
+
+1510
+02:10:53,596 --> 02:10:54,865
+Sempre.
+
+1511
+02:10:55,640 --> 02:10:56,900
+Tu?
+
+1512
+02:10:58,017 --> 02:10:59,936
+Tenho inúmeros arrependimentos.
+
+1513
+02:11:00,019 --> 02:11:01,020
+A sério?
+
+1514
+02:11:02,522 --> 02:11:03,885
+Bem...
+
+1515
+02:11:04,440 --> 02:11:07,568
+agarramo-nos ao arrependimento
+e permanecemos no passado.
+
+1516
+02:11:11,197 --> 02:11:12,824
+Aquilo que importa, presumo, é...
+
+1517
+02:11:14,534 --> 02:11:15,994
+É aquilo que fazemos agora.
+
+1518
+02:11:16,619 --> 02:11:18,454
+- Certo?
+- Sim.
+
+1519
+02:11:31,259 --> 02:11:32,552
+Está bem.
+
+1520
+02:11:35,888 --> 02:11:37,849
+Ninguém disse que haveria bichos.
+
+1521
+02:11:40,101 --> 02:11:42,061
+B4. Ela está aqui.
+
+1522
+02:11:42,937 --> 02:11:46,607
+Atenção aos lados.
+Eles vêm sempre pelos lados.
+
+1523
+02:11:48,776 --> 02:11:54,574
+Sabes, inicialmente, pensamos que
+eles esventravam as suas presas, mas não.
+
+1524
+02:11:55,783 --> 02:11:58,202
+Eles são suficientemente inteligentes
+para irem directamente à garganta.
+
+1525
+02:11:59,287 --> 02:12:00,747
+As veias, as artérias.
+
+1526
+02:12:02,040 --> 02:12:04,167
+Às vezes, ambas ao mesmo tempo.
+
+1527
+02:12:04,250 --> 02:12:05,376
+Está bem.
+
+1528
+02:12:07,128 --> 02:12:08,379
+Está bem.
+
+1529
+02:12:08,463 --> 02:12:10,381
+<i>É tudo.
+É mesmo ao fundo desse corredor.</i>
+
+1530
+02:12:10,465 --> 02:12:13,265
+<i>É mesmo ao fundo desse corredor
+onde vocês estão.</i>
+
+1531
+02:12:13,301 --> 02:12:14,635
+<i>Porque estão a andar assim?</i>
+
+1532
+02:12:14,719 --> 02:12:15,887
+Podem correr a direito.
+
+1533
+02:12:15,970 --> 02:12:18,389
+Está bem. Aqui está.
+
+1534
+02:12:18,473 --> 02:12:20,558
+Está bem, será um botão amarelo
+num grupo de seis.
+
+1535
+02:12:20,641 --> 02:12:23,436
+<i>Há um botão verde.
+Vêem um botão verde?</i>
+
+1536
+02:12:23,519 --> 02:12:25,271
+<i>Não é esse botão verde.</i>
+
+1537
+02:12:25,354 --> 02:12:27,398
+<i>É o quarto botão a contar de baixo.</i>
+Acima...
+
+1538
+02:12:27,482 --> 02:12:28,900
+O quarto a partir de cima?
+
+1539
+02:12:28,983 --> 02:12:30,703
+Terceiro a contar de baixo ou
+o quarto a partir de cima. É a mesma coisa.
+
+1540
+02:12:30,777 --> 02:12:32,028
+Ian, sê específico.
+
+1541
+02:12:37,283 --> 02:12:38,534
+Ela esteve aqui.
+
+1542
+02:12:39,118 --> 02:12:40,286
+Desliguem as luzes.
+
+1543
+02:12:46,834 --> 02:12:48,920
+Não sei como posso ser mais específico...
+
+1544
+02:12:49,003 --> 02:12:51,756
+além de dizer que aquele
+que pretendes está marcado com...
+
+1545
+02:12:51,839 --> 02:12:53,508
+- "E1". E1.
+- E1.
+
+1546
+02:12:55,635 --> 02:12:56,930
+E1?
+
+1547
+02:12:57,386 --> 02:12:58,971
+Sim.
+
+1548
+02:13:03,518 --> 02:13:05,686
+Não. Não, não, não, não.
+
+1549
+02:13:12,318 --> 02:13:14,278
+Caramba, ela é rápida.
+
+1550
+02:13:16,864 --> 02:13:17,864
+Então!
+
+1551
+02:13:19,033 --> 02:13:20,451
+Olha para mim.
+
+1552
+02:13:24,956 --> 02:13:27,250
+Tenho de lhe acertar na parte
+lateral do pescoço.
+
+1553
+02:13:27,333 --> 02:13:28,960
+Maisie, vais mantê-la focada.
+
+1554
+02:13:29,585 --> 02:13:30,586
+Grant...
+
+1555
+02:13:31,254 --> 02:13:32,380
+estamos a triangular.
+
+1556
+02:13:38,344 --> 02:13:39,775
+Vai.
+
+1557
+02:14:08,749 --> 02:14:09,750
+Desculpa, rapariga.
+
+1558
+02:14:10,877 --> 02:14:12,837
+Prometi à tua mãe
+que te levava para casa.
+
+1559
+02:14:14,172 --> 02:14:16,174
+<i>Sistema primário a reiniciar.</i>
+
+1560
+02:14:16,257 --> 02:14:18,342
+- Espera.
+- Não, não, não.
+
+1561
+02:14:18,426 --> 02:14:19,860
+- Não, não, não.
+- Está a reiniciar.
+
+1562
+02:14:19,900 --> 02:14:21,220
+Não devia estar a fazer isso.
+
+1563
+02:14:32,857 --> 02:14:33,858
+Aqui, segura nisto.
+
+1564
+02:14:50,416 --> 02:14:51,894
+- Vou continuar.
+- <i>Ian, desliga-o!</i>
+
+1565
+02:14:51,918 --> 02:14:54,229
+Vamos fazê-lo funcionar.
+Vamos resolver isto. É complexo.
+
+1566
+02:14:54,253 --> 02:14:56,214
+Não temos tempo para nada complexo!
+
+1567
+02:15:01,510 --> 02:15:03,565
+<i>Sistema primário comprometido.</i>
+
+1568
+02:15:05,723 --> 02:15:07,141
+Esperem aí. Esperem aí.
+
+1569
+02:15:07,225 --> 02:15:09,119
+<i>Sistema de dissuasão aérea activado.</i>
+
+1570
+02:15:09,143 --> 02:15:10,875
+Vitória! Vitória!
+
+1571
+02:15:14,106 --> 02:15:15,800
+Caramba, isto soube bem.
+
+1572
+02:15:44,053 --> 02:15:45,554
+Então!
+
+1573
+02:16:38,316 --> 02:16:40,175
+Qual é a vossa história?
+
+1574
+02:16:43,070 --> 02:16:44,565
+Espera!
+
+1575
+02:16:55,041 --> 02:16:57,501
+<i>Na "Biosyn", dedicamo-nos à ideia...</i>
+
+1576
+02:16:57,585 --> 02:17:01,547
+<i>de que os dinossauros nos podem
+ensinar mais sobre nós próprios.</i>
+
+1577
+02:17:06,260 --> 02:17:08,554
+<i>Está bem, Kayla.
+Estamos prontos para ir.</i>
+
+1578
+02:17:19,106 --> 02:17:20,875
+Está bem, bonitinho.
+
+1579
+02:17:27,031 --> 02:17:28,335
+Anda cá.
+
+1580
+02:17:29,492 --> 02:17:30,512
+Estás bem?
+
+1581
+02:17:30,534 --> 02:17:31,599
+- Um dia.
+- Está bem.
+
+1582
+02:17:31,619 --> 02:17:32,900
+Olá.
+
+1583
+02:17:40,836 --> 02:17:42,046
+Eu lembro-me de ti.
+
+1584
+02:17:42,671 --> 02:17:44,256
+Por favor. Têm de me ouvir.
+
+1585
+02:17:44,340 --> 02:17:46,217
+Tu criaste um desastre ecológico.
+
+1586
+02:17:46,300 --> 02:17:47,718
+E eu posso corrigi-lo.
+
+1587
+02:17:48,427 --> 02:17:51,639
+A Charlotte Lockwood modificou
+todas as células do corpo da Maisie.
+
+1588
+02:17:52,723 --> 02:17:54,225
+Isso salvou-lhe a vida.
+
+1589
+02:17:54,310 --> 02:17:57,810
+Se conseguir perceber como é que
+a Charlotte reescreveu o ADN da Maisie...
+
+1590
+02:17:57,855 --> 02:18:01,065
+poderei espalhar a mudança
+de um gafanhoto para o enxame inteiro.
+
+1591
+02:18:01,107 --> 02:18:03,335
+Antes que seja tarde demais.
+
+1592
+02:18:04,944 --> 02:18:06,335
+Está tudo bem.
+
+1593
+02:18:06,737 --> 02:18:08,225
+Está tudo bem.
+
+1594
+02:18:11,158 --> 02:18:12,993
+É o que ela teria desejado.
+
+1595
+02:18:15,996 --> 02:18:17,000
+Obrigado.
+
+1596
+02:18:17,081 --> 02:18:18,455
+Não, não, não.
+
+1597
+02:18:19,166 --> 02:18:21,160
+Não, não, não, não, não.
+
+1598
+02:18:21,836 --> 02:18:23,137
+Ele?
+
+1599
+02:18:23,337 --> 02:18:25,840
+Ele não. Ele não.
+É sempre ele.
+
+1600
+02:18:25,923 --> 02:18:27,124
+Sempre que...
+
+1601
+02:18:28,509 --> 02:18:30,261
+Tens um dinossauro no ombro?
+
+1602
+02:18:31,262 --> 02:18:32,730
+Sim. Porquê?
+
+1603
+02:18:34,445 --> 02:18:36,383
+<i>Já estou no ar.</i>
+<i>Encontrem-se comigo no centro.</i>
+
+1604
+02:18:36,445 --> 02:18:39,895
+Não, não, não. Espera, espera.
+Não aterres aqui.
+
+1605
+02:18:39,979 --> 02:18:42,022
+Não tenho outra opção, meu.
+O vale não é seguro.
+
+1606
+02:18:42,106 --> 02:18:43,691
+Não, eles já não estão no vale!
+
+1607
+02:20:16,116 --> 02:20:17,875
+Isto não é sobre nós.
+
+1608
+02:20:22,206 --> 02:20:23,675
+Vai! Vai!
+
+1609
+02:20:43,852 --> 02:20:45,053
+Vamos!
+
+1610
+02:20:48,649 --> 02:20:51,277
+Meu Deus! Levanta-o!
+Vamos, vamos!
+
+1611
+02:20:51,360 --> 02:20:53,362
+Vamos.
+
+1612
+02:20:55,531 --> 02:20:56,949
+Vamos, vamos, vamos!
+
+1613
+02:21:01,537 --> 02:21:02,738
+Vamos!
+
+1614
+02:21:17,052 --> 02:21:18,252
+Ellie, não!
+
+1615
+02:21:47,541 --> 02:21:48,959
+Vamos, Maisie! Vamos!
+
+1616
+02:21:51,045 --> 02:21:52,338
+Ramsay, entra.
+
+1617
+02:21:52,421 --> 02:21:54,173
+Vamos, vamos, vamos.
+
+1618
+02:21:58,677 --> 02:22:00,596
+Agarrem-se todos a alguém.
+
+1619
+02:23:25,055 --> 02:23:26,724
+Não, a todos os níveis.
+
+1620
+02:23:26,807 --> 02:23:29,393
+Total corrupção sistémica
+ao nível executivo.
+
+1621
+02:23:29,476 --> 02:23:32,479
+"Corrupção sistémica", percebeste?
+Aponta isso.
+
+1622
+02:23:32,563 --> 02:23:34,857
+Pois, é de loucos.
+
+1623
+02:23:34,940 --> 02:23:38,193
+E, depois... e depois despenhamo-nos
+neste lago de gelo, certo?
+
+1624
+02:23:38,277 --> 02:23:40,279
+Eles, literalmente, devem-me um avião.
+
+1625
+02:23:40,362 --> 02:23:43,157
+Preciso que esta amostra
+seja examinada no laboratório...
+
+1626
+02:23:43,240 --> 02:23:45,367
+antes de a levar ao meu contacto
+no <i>"Times".</i>
+
+1627
+02:23:47,703 --> 02:23:49,913
+Podias... vir comigo.
+
+1628
+02:23:51,582 --> 02:23:54,001
+A menos que precises de
+regressar à tua escavação.
+
+1629
+02:23:57,004 --> 02:23:58,505
+- Ellie?
+- Sim?
+
+1630
+02:24:01,175 --> 02:24:02,885
+Eu vou contigo.
+
+1631
+02:24:14,021 --> 02:24:17,399
+Eu sei. Mais um minuto e mandar-te-ei
+para casa com os teus pais.
+
+1632
+02:24:57,064 --> 02:24:59,149
+<i>Hoje fica marcado como
+o primeiro dia do testemunho...</i>
+
+1633
+02:24:59,233 --> 02:25:01,485
+<i>do denunciante da "Biosyn",
+Ramsay Cole.</i>
+
+1634
+02:25:01,568 --> 02:25:05,447
+<i>O Senado também ouvirá os
+doutores Grant, Sattler e Malcolm...</i>
+
+1635
+02:25:05,531 --> 02:25:09,201
+<i>que se têm mantido activos neste debate
+desde o incidente no Parque Jurássico.</i>
+
+1636
+02:25:11,829 --> 02:25:13,038
+Pareces...
+
+1637
+02:25:13,580 --> 02:25:15,123
+- Desconfortável.
+- Fidedigno.
+
+1638
+02:25:20,420 --> 02:25:23,220
+Pois... não me consigo habituar.
+
+1639
+02:25:25,092 --> 02:25:26,565
+Vamos acabar isto.
+
+1640
+02:25:27,052 --> 02:25:28,565
+Sim.
+
+1641
+02:25:32,266 --> 02:25:35,018
+<i>O Dr. Henry Wu encontrou
+uma solução de emergência...</i>
+
+1642
+02:25:35,102 --> 02:25:37,062
+<i>para a crise ecológica.</i>
+
+1643
+02:25:37,145 --> 02:25:40,315
+<i>A utilização de um agente patogénico
+para alterar o ADN dos gafanhotos...</i>
+
+1644
+02:25:40,399 --> 02:25:42,693
+<i>revolucionou a genética moderna.</i>
+
+1645
+02:25:43,318 --> 02:25:47,322
+<i>Ele atribuiu a descoberta
+a outra cientista, Charlotte Lockwood...</i>
+
+1646
+02:25:47,406 --> 02:25:49,908
+<i>que faleceu há quase 13 anos.</i>
+
+1647
+02:26:17,394 --> 02:26:22,608
+<i>Por decreto da ONU, o Vale Biosyn
+foi designado como um santuário global.</i>
+
+1648
+02:26:22,691 --> 02:26:26,445
+<i>Os animais viverão lá livres,
+a salvo do mundo exterior.</i>
+
+1649
+02:26:31,116 --> 02:26:32,910
+- Dinheiro?
+- Dinheiro.
+
+1650
+02:26:32,993 --> 02:26:34,294
+Obrigado.
+
+1651
+02:28:37,743 --> 02:28:41,580
+<i>A vida na terra existe
+há centenas de milhões de anos.</i>
+
+1652
+02:28:42,664 --> 02:28:45,375
+<i>E os dinossauros foram,
+apenas, uma parte disso.</i>
+
+1653
+02:28:45,459 --> 02:28:47,419
+<i>E nós somos uma parte
+ainda mais pequena disso.</i>
+
+1654
+02:28:48,128 --> 02:28:50,297
+<i>Eles podem pôr-nos,
+realmente, em perspectiva.</i>
+
+1655
+02:28:52,424 --> 02:28:55,802
+<i>A ideia de que a vida na Terra
+existia há 65 milhões de anos...</i>
+
+1656
+02:28:57,471 --> 02:28:58,772
+<i>faz-nos sentir humildes.</i>
+
+1657
+02:29:00,098 --> 02:29:02,517
+<i>Agimos como se estivéssemos
+sozinhos, mas não estamos.</i>
+
+1658
+02:29:03,393 --> 02:29:06,313
+<i>Fazemos parte de um sistema frágil
+composto por todos os seres vivos.</i>
+
+1659
+02:29:07,606 --> 02:29:10,400
+<i>Se quisermos sobreviver,
+teremos de confiar uns nos outros.</i>
+
+1660
+02:29:11,526 --> 02:29:12,819
+<i>Depender uns dos outros.</i>
+
+1661
+02:29:13,779 --> 02:29:15,530
+<i>Coexistir.</i>
+
+1662
+02:29:49,565 --> 02:29:54,565
+<b><i>Legendas em PT-PT por mpenaf</i></b>
