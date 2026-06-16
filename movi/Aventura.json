@@ -9,17 +9,7 @@
       "sinopse": "[COLOR yellow]Aventura, Fantasia[/COLOR]\nHarry Potter é um garoto órfão que vive infeliz com seus tios, os Dursley. Em seu aniversário de 11 anos ele recebe uma carta que mudará sua vida: um convite para ingressar em Hogwarts, uma Escola de Magia e Bruxaria.",
       "legenda": "aHR0cHM6Ly9naXRodWIuY29tL0Zlbml4U3lzdGVtL3JldGltZS1mb3RlWDI2L3Jhdy9yZWZzL2hlYWRzL21haW4vdnZ0L0hhcnJ5LlBvdHRlci5JLjIwMDEuc3J0",
       "tipo": "filme"
-    },
-{
-  "nome": "Alfa (2018)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:077a72129c3b977c3f50ddb83282f65a5c5976e5&",
-  "imagem": "https://image.tmdb.org/t/p/original/wiofc2cbzZlLEgdxts1GmSoWEMM.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/Gn7CHQKw5rgQrnVQhvGnlOaD8F.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/wyJQ5xFAdbzefBjO06hAv4injsO.png",
-  "sinopse": "[COLOR yellow]Aventura, Drama, Família[/COLOR]\nEuropa, 20.000 anos atrás. Enquanto participa de sua primeira caçada, um rito de passagem para o grupo de elite de sua tribo, um jovem é ferido e deixado para morrer. Ao despertar, ferido e sozinho, ele precisa encontrar meios de sobreviver e se guiar pela natureza dura e implacável. E quando ele relutantemente domina um lobo selvagem que foi abandonado por seu bando, os dois aprendem a confiar um no outro e se tornam aliados improváveis, enfrentando perigos incontáveis e superando todos os desafios para poderem voltar para suas casas antes que um inverno mortal se instale.",
-  "legenda": "",
-  "tipo": "filme"
- }
+    }
 
   ]
 }
