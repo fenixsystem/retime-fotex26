@@ -1,0 +1,4482 @@
+1
+00:01:01,312 --> 00:01:06,359
+ILHA SORNA
+140 Km a sudoeste da ilha Nublar
+
+2
+00:01:19,664 --> 00:01:23,960
+O MUNDO PERDIDO JURASSIC PARK
+
+3
+00:01:34,345 --> 00:01:37,557
+Muito obrigado. Tem um aspecto fabuloso.
+
+4
+00:01:38,475 --> 00:01:40,268
+- Obrigado, Geoffrey.
+- De nada.
+
+5
+00:01:40,351 --> 00:01:43,772
+Também vamos beber um copo
+de vinho tinto. Obrigada.
+
+6
+00:01:43,855 --> 00:01:44,898
+Com certeza.
+
+7
+00:01:48,318 --> 00:01:49,861
+- Obrigado, Bernard.
+- De nada.
+
+8
+00:01:50,028 --> 00:01:51,154
+Obrigado.
+
+9
+00:01:51,237 --> 00:01:54,532
+Que maravilha. Está um dia fabuloso.
+
+10
+00:01:55,533 --> 00:01:56,951
+Onde vais?
+
+11
+00:01:57,035 --> 00:01:59,996
+- Comer a minha sanduíche.
+- Depois não comes os camarões.
+
+12
+00:02:00,079 --> 00:02:03,041
+- Não gosto de camarões.
+- Querida, não te afastes.
+
+13
+00:02:03,833 --> 00:02:06,336
+Por amor de Deus, deixa-a em paz, Deirdre.
+
+14
+00:02:06,419 --> 00:02:09,547
+- Querida, brinca com a tua bola.
+- Mãe, não sejas aborrecida!
+
+15
+00:02:15,428 --> 00:02:18,848
+Querido, e as cobras?
+
+16
+00:02:19,933 --> 00:02:24,395
+Não há cobras na praia. Deixa-a divertir-se.
+
+17
+00:02:27,774 --> 00:02:29,067
+- Edward?
+- Sim, senhora?
+
+18
+00:03:03,601 --> 00:03:05,103
+Ora viva.
+
+19
+00:03:05,728 --> 00:03:08,898
+O que és tu, uma pequena ave?
+
+20
+00:03:13,945 --> 00:03:17,824
+Tens fome? Toma um bocadinho.
+É carne assada.
+
+21
+00:03:18,283 --> 00:03:21,077
+É bom. Vá. Não te mordo.
+
+22
+00:03:22,787 --> 00:03:27,208
+Mamã! Papá! Venham ver o que encontrei!
+
+23
+00:03:40,972 --> 00:03:43,099
+Cathy, querida, o almoço está pronto!
+
+24
+00:03:44,976 --> 00:03:46,978
+Estão a olhar para isto?
+
+25
+00:03:47,645 --> 00:03:50,481
+Receio que não chegue para todos.
+
+26
+00:03:56,070 --> 00:03:57,238
+Paul?
+
+27
+00:03:59,324 --> 00:04:00,491
+Cathy?
+
+28
+00:04:03,494 --> 00:04:06,331
+Despachem-se, por favor! Depressa!
+
+29
+00:05:04,055 --> 00:05:05,807
+É você, não é?
+
+30
+00:05:07,392 --> 00:05:08,726
+Perdão?
+
+31
+00:05:09,227 --> 00:05:12,230
+O cientista? Aquele tipo? Vi-o na televisão.
+
+32
+00:05:15,149 --> 00:05:16,734
+Acreditei no que disse.
+
+33
+00:05:48,850 --> 00:05:51,269
+Quem devo anunciar ao Sr. Hammond?
+
+34
+00:05:51,352 --> 00:05:54,188
+Ian Malcolm. Fui convocado.
+
+35
+00:06:16,753 --> 00:06:18,212
+Dr. Malcolm!
+
+36
+00:06:18,421 --> 00:06:19,714
+Oh, meu Deus.
+
+37
+00:06:20,631 --> 00:06:22,383
+Viva, Dr. Malcolm.
+
+38
+00:06:22,467 --> 00:06:23,968
+Meninos, meninos.
+
+39
+00:06:24,135 --> 00:06:27,221
+- Que bom revê-lo.
+- Igualmente.
+
+40
+00:06:27,638 --> 00:06:29,724
+Vejam só. Estão tão grandes.
+
+41
+00:06:30,058 --> 00:06:31,559
+Veio visitar o avô?
+
+42
+00:06:31,642 --> 00:06:34,937
+Vim, ele chamou-me.
+Sabem o que se passa?
+
+43
+00:06:36,147 --> 00:06:39,817
+Eu também não.
+Esta casa é assustadora, não é?
+
+44
+00:06:40,234 --> 00:06:43,654
+- Está tudo bem?
+- Nem por isso.
+
+45
+00:06:55,333 --> 00:06:57,126
+Dr. Malcolm.
+
+46
+00:06:57,627 --> 00:07:01,798
+Dr. Malcolm. Veio participar das histórias
+à fogueira com o meu tio?
+
+47
+00:07:07,804 --> 00:07:11,933
+Pode dizer ao <i>The Washington Post</i>
+e ao <i>Skeptical Inquirer</i> aquilo que quiser...
+
+48
+00:07:12,016 --> 00:07:14,685
+mas eu estava lá.
+Sei bem o que aconteceu e você também.
+
+49
+00:07:14,769 --> 00:07:18,272
+Acha que todos os que optaram
+por ser discretos...
+
+50
+00:07:18,356 --> 00:07:21,526
+o fizeram por motivos infames?
+Até mesmo o Lex e o Tim?
+
+51
+00:07:21,609 --> 00:07:24,153
+Não os meta nisto. Não se trata de um jogo.
+
+52
+00:07:24,445 --> 00:07:28,533
+Pois não. O senhor assinou um documento
+antes de ir para lá.
+
+53
+00:07:28,658 --> 00:07:32,703
+Proibia-o de revelar o que visse.
+O senhor violou esse acordo.
+
+54
+00:07:32,829 --> 00:07:36,207
+É verdade. E você mentiu acerca da morte
+de três pessoas.
+
+55
+00:07:36,290 --> 00:07:39,377
+Mentiu publicamente
+e eu fiz figura de louco.
+
+56
+00:07:39,460 --> 00:07:41,045
+Prejudicou-me a carreira...
+
+57
+00:07:41,170 --> 00:07:44,215
+Fizemos-lhe uma oferta generosa
+em virtude dos seus ferimentos.
+
+58
+00:07:44,340 --> 00:07:45,800
+Um suborno insultuoso.
+
+59
+00:07:45,883 --> 00:07:50,638
+Distorcer a verdade e ocultar provas,
+prejudica mais do que a minha reputação.
+
+60
+00:07:50,721 --> 00:07:52,390
+Se bem me lembro,
+
+61
+00:07:53,724 --> 00:07:57,728
+a universidade revogou-lhe o contrato
+por vender contos inverosímeis à imprensa.
+
+62
+00:07:57,854 --> 00:08:01,065
+Não vendi nada.
+Não recebi dinheiro e disse a verdade.
+
+63
+00:08:01,149 --> 00:08:02,400
+É a sua versão.
+
+64
+00:08:02,525 --> 00:08:06,404
+Não há "versões" da verdade.
+A InGen não pode...
+
+65
+00:08:06,571 --> 00:08:11,075
+Agora a InGen é responsabilidade minha.
+Defenderei os seus interesses.
+
+66
+00:08:11,159 --> 00:08:13,327
+Responsabilidade sua? E o Sr. Hammond?
+
+67
+00:08:14,996 --> 00:08:18,666
+Devo prestar contas à administração
+e não ao meu tio.
+
+68
+00:08:18,749 --> 00:08:22,378
+Acredite que os seus problemas
+estão prestes a desaparecer.
+
+69
+00:08:23,045 --> 00:08:26,257
+Daqui a umas semanas,
+estarão completamente esquecidos.
+
+70
+00:08:28,384 --> 00:08:29,844
+Para mim, não.
+
+71
+00:08:30,052 --> 00:08:31,345
+Cuidado.
+
+72
+00:08:33,764 --> 00:08:36,684
+Este fato é mais caro que a sua educação.
+
+73
+00:08:38,436 --> 00:08:40,855
+<i>O senhor estava certo e eu estava errado.</i>
+<i>Pronto!</i>
+
+74
+00:08:40,938 --> 00:08:43,941
+<i>Alguma vez esperou</i>
+<i>ouvir-me dizer uma coisa destas?</i>
+
+75
+00:08:45,443 --> 00:08:47,278
+Graças a Deus restou o Local B.
+
+76
+00:08:48,946 --> 00:08:50,281
+Local B?
+
+77
+00:08:51,532 --> 00:08:55,036
+A ilha Nublar era só uma exposição,
+apenas para turistas.
+
+78
+00:08:55,119 --> 00:09:00,208
+O Local B era a fábrica.
+A ilha Sorna, a 130 Km de Nublar.
+
+79
+00:09:00,583 --> 00:09:04,128
+Criávamos lá os animais,
+deixávamo-los crescer uns meses...
+
+80
+00:09:04,212 --> 00:09:06,547
+e depois, transferíamo-los para o parque.
+
+81
+00:09:06,756 --> 00:09:08,799
+A sério? Não sabia disso.
+
+82
+00:09:09,634 --> 00:09:11,802
+Depois do incidente no parque...
+
+83
+00:09:11,886 --> 00:09:15,473
+o furacão Clarissa devastou o Local B.
+
+84
+00:09:15,640 --> 00:09:17,558
+Talvez tenha sido a mão de Deus.
+
+85
+00:09:18,643 --> 00:09:21,646
+Tivemos de evacuar a ilha.
+Os animais foram soltos...
+
+86
+00:09:21,771 --> 00:09:23,731
+para crescerem pelos seus próprios meios.
+
+87
+00:09:24,273 --> 00:09:28,486
+"A vida encontrará uma solução",
+como eloquentemente disse uma vez.
+
+88
+00:09:28,569 --> 00:09:31,781
+Neste momento, já existe na ilha
+um sistema ecológico completo.
+
+89
+00:09:31,906 --> 00:09:34,909
+Dezenas de espécies,
+vivendo em grupos sociais...
+
+90
+00:09:34,992 --> 00:09:39,080
+sem redes, vedações
+nem tecnologias castradoras.
+
+91
+00:09:39,163 --> 00:09:40,998
+E durante quatro anos...
+
+92
+00:09:41,791 --> 00:09:45,253
+mantive-a afastada da influência humana.
+
+93
+00:09:46,337 --> 00:09:51,175
+Certo. Felizmente manteve
+a ilha de quarentena e restrita.
+
+94
+00:09:51,259 --> 00:09:55,388
+Mas isto é um choque,
+saber que eles ainda estão vivos.
+
+95
+00:09:55,638 --> 00:09:57,765
+O senhor criou-os
+com insuficiência de lisina.
+
+96
+00:09:57,848 --> 00:10:01,686
+Não deviam ter morrido após alguns dias
+sem enzimas suplementares?
+
+97
+00:10:01,769 --> 00:10:04,272
+Sim! Mas eles estão a florescer!
+
+98
+00:10:04,355 --> 00:10:07,566
+Essa é uma das 1000 questões
+a que a equipa terá de responder.
+
+99
+00:10:07,650 --> 00:10:09,902
+- Equipa?
+- Sim.
+
+100
+00:10:10,528 --> 00:10:14,699
+Organizei uma expedição para lá ir...
+
+101
+00:10:15,283 --> 00:10:17,660
+obrigado, e para documentar a situação.
+
+102
+00:10:17,743 --> 00:10:22,206
+Farão o registo de fósseis vivos
+mais espectacular jamais visto.
+
+103
+00:10:22,290 --> 00:10:25,626
+Ir lá documentar? Com pessoas?
+
+104
+00:10:25,710 --> 00:10:29,255
+Sim, os animais não notarão a sua presença.
+O impacto será mínimo.
+
+105
+00:10:29,338 --> 00:10:32,133
+Estritamente para observar e documentar.
+
+106
+00:10:32,341 --> 00:10:37,388
+As fotos de satélite revelam
+que os animais são ferozmente territoriais.
+
+107
+00:10:37,638 --> 00:10:40,850
+Os carnívoros estão isolados
+no interior da ilha,
+
+108
+00:10:40,933 --> 00:10:43,477
+por isso a equipa pode ficar na periferia.
+
+109
+00:10:43,853 --> 00:10:47,481
+Não se preocupe.
+Não volto a cometer os mesmos erros.
+
+110
+00:10:47,565 --> 00:10:50,192
+Não, está a cometer outros.
+
+111
+00:10:51,444 --> 00:10:55,489
+John, o que é isto?
+Há outra ilha com dinossauros,
+
+112
+00:10:55,573 --> 00:10:59,201
+desta vez sem vedações
+e quer mandar para lá gente.
+
+113
+00:10:59,368 --> 00:11:02,788
+Um pequeno grupo de gente,
+no terreno, certo?
+
+114
+00:11:03,331 --> 00:11:06,292
+Quem são os quatro loucos
+que convenceu a fazer isto?
+
+115
+00:11:06,375 --> 00:11:09,420
+Foi difícil convencê-los do que lá havia...
+
+116
+00:11:09,503 --> 00:11:12,006
+e acabei por ter de puxar
+pelo livro de cheques.
+
+117
+00:11:12,089 --> 00:11:16,594
+Mas temos o Nick van Owen,
+um repórter de imagem,
+
+118
+00:11:18,346 --> 00:11:21,932
+o Eddie Carr,
+um perito em equipamento de campo.
+
+119
+00:11:23,184 --> 00:11:25,603
+Temos um paleontólogo...
+
+120
+00:11:26,020 --> 00:11:29,815
+e contava que você fosse o quarto.
+
+121
+00:11:31,692 --> 00:11:35,613
+Temos estado perto da bancarrota
+desde o incidente no parque.
+
+122
+00:11:35,696 --> 00:11:39,450
+Na empresa, há quem pense
+que podemos explorar o Local B...
+
+123
+00:11:39,575 --> 00:11:41,452
+para nos salvar desta situação.
+
+124
+00:11:41,535 --> 00:11:46,040
+Há anos que o planeiam,
+mas consegui impedi-los até agora.
+
+125
+00:11:46,248 --> 00:11:50,378
+Mas, há poucas semanas,
+uma família britânica que viajava num iate...
+
+126
+00:11:50,878 --> 00:11:55,966
+encontrou a ilha por acaso
+e a filha mais nova ficou ferida.
+
+127
+00:11:56,759 --> 00:11:58,260
+Ela está bem.
+
+128
+00:11:59,428 --> 00:12:04,350
+Mas a administração usou o incidente
+para me tirar o controlo da InGen.
+
+129
+00:12:05,184 --> 00:12:08,312
+Agora é só uma questão de tempo até que...
+
+130
+00:12:08,854 --> 00:12:11,649
+este mundo perdido
+seja encontrado e pilhado.
+
+131
+00:12:13,401 --> 00:12:18,447
+Só posso recorrer à opinião pública
+para impedi-lo, mas para isso preciso...
+
+132
+00:12:18,781 --> 00:12:21,409
+de um registo fotográfico completo...
+
+133
+00:12:21,492 --> 00:12:24,537
+a provar que os animais estão vivos,
+no seu habitat natural.
+
+134
+00:12:25,037 --> 00:12:28,374
+Então, passou de capitalista a naturalista
+em quatro anos.
+
+135
+00:12:29,291 --> 00:12:30,626
+É espantoso.
+
+136
+00:12:33,379 --> 00:12:37,216
+É a nossa última hipótese
+de nos redimirmos.
+
+137
+00:12:40,886 --> 00:12:42,138
+John...
+
+138
+00:12:43,222 --> 00:12:44,432
+não.
+
+139
+00:12:45,099 --> 00:12:47,226
+Claro que não.
+
+140
+00:12:47,309 --> 00:12:51,147
+E vou falar com os outros
+membros do grupo...
+
+141
+00:12:51,230 --> 00:12:53,274
+para impedi-los de fazer isto.
+
+142
+00:12:53,357 --> 00:12:55,693
+A propósito, quem é o paleontólogo?
+
+143
+00:12:55,985 --> 00:12:58,362
+Ela é que veio ter comigo, sabe?
+
+144
+00:12:59,447 --> 00:13:00,531
+Quem?
+
+145
+00:13:00,823 --> 00:13:03,993
+É mesmo típico de si, Ian, ter associações,
+ou mesmo relações...
+
+146
+00:13:04,076 --> 00:13:07,329
+com os melhores em diversos campos.
+
+147
+00:13:07,413 --> 00:13:08,664
+A Sarah não.
+
+148
+00:13:08,747 --> 00:13:13,461
+O comportamento paleontológico
+é um novo campo. Sarah Harding é a perita.
+
+149
+00:13:13,544 --> 00:13:17,840
+As suas teorias sobre relações
+entre carnívoros são notáveis.
+
+150
+00:13:18,340 --> 00:13:20,843
+- Que está a fazer?
+- Onde está o telefone?
+
+151
+00:13:24,305 --> 00:13:25,848
+É demasiado tarde.
+
+152
+00:13:26,640 --> 00:13:28,476
+Ela já lá está.
+
+153
+00:13:33,522 --> 00:13:36,025
+Os outros vão ter com ela
+dentro de três dias.
+
+154
+00:13:41,280 --> 00:13:44,366
+Mandou a minha namorada sozinha
+para aquela ilha?
+
+155
+00:13:45,075 --> 00:13:48,204
+"Mandar" não será bem o termo.
+Mal pude impedi-la.
+
+156
+00:13:48,287 --> 00:13:52,291
+Ela estava em San Diego,
+a fazer pesquisa no parque natural.
+
+157
+00:13:52,374 --> 00:13:54,919
+Fica a poucas horas de avião.
+
+158
+00:13:55,002 --> 00:13:58,672
+Estava absolutamente entusiasmada,
+aqui tem...
+
+159
+00:13:58,797 --> 00:14:01,759
+por fazer o primeiro reconhecimento
+sozinha.
+
+160
+00:14:02,051 --> 00:14:04,053
+Julga-se a Dian Fossey.
+
+161
+00:14:04,178 --> 00:14:06,263
+"Observação sem interferência", disse ela.
+
+162
+00:14:06,347 --> 00:14:08,641
+E continuou. Sabe como é.
+
+163
+00:14:08,724 --> 00:14:12,353
+Depois de ter ficado ferido no parque,
+ela procurou-o.
+
+164
+00:14:12,770 --> 00:14:15,898
+Foi até um hospital na Costa Rica...
+
+165
+00:14:15,981 --> 00:14:19,693
+perguntar a quem não conhecia
+se os boatos eram verdadeiros.
+
+166
+00:14:19,777 --> 00:14:22,655
+Se quer deixar o seu nome
+gravado algures, tudo bem.
+
+167
+00:14:22,738 --> 00:14:26,158
+Mas deixe de o gravar na sepultura
+de outras pessoas.
+
+168
+00:14:26,450 --> 00:14:31,121
+Ela fica bem. Passou anos a estudar
+os predadores africanos.
+
+169
+00:14:31,205 --> 00:14:34,792
+A dormir ao relento e tudo.
+Ela sabe o que está a fazer.
+
+170
+00:14:35,167 --> 00:14:37,628
+E, acredite, a equipa de pesquisa...
+
+171
+00:14:39,088 --> 00:14:44,134
+Já não é uma equipa de pesquisa.
+É de salvamento e vai partir agora.
+
+172
+00:15:04,071 --> 00:15:07,283
+Não posso perder três dias do meu prazo
+e estar pronto.
+
+173
+00:15:07,366 --> 00:15:09,785
+Não tenho tudo. Ainda não testei isto.
+
+174
+00:15:09,868 --> 00:15:13,163
+Para que lhe deu um telefone via satélite,
+se não funciona? Porquê?
+
+175
+00:15:13,247 --> 00:15:16,709
+Pode ser interferência solar, o satélite
+ou então ela desligou-o.
+
+176
+00:15:16,792 --> 00:15:20,337
+Quero os pneus com meia pressão.
+Vamos voar com pressurização.
+
+177
+00:15:20,421 --> 00:15:22,715
+- Ela sabe usá-lo?
+- Está a brincar?
+
+178
+00:15:22,798 --> 00:15:25,843
+Foi ela quem pediu
+metade deste equipamento.
+
+179
+00:15:25,926 --> 00:15:28,804
+Não faça isso. Trate-o bem.
+Tem de o adorar.
+
+180
+00:15:28,887 --> 00:15:31,849
+- Adoro-o se funcionar.
+- E funciona se o adorar.
+
+181
+00:15:31,932 --> 00:15:35,394
+- Também vem?
+- Geralmente não, mas não resisto.
+
+182
+00:15:35,477 --> 00:15:37,396
+Obrigado pelo aviso de dois minutos.
+
+183
+00:15:37,479 --> 00:15:40,774
+Nick van Owen, Ian Malcolm.
+Nick é o nosso fotógrafo.
+
+184
+00:15:40,858 --> 00:15:42,568
+Como está?
+
+185
+00:15:42,651 --> 00:15:46,238
+- Fotografa vida selvagem?
+- Vida selvagem, combate, tudo.
+
+186
+00:15:46,322 --> 00:15:49,992
+Quando estava no <i>Nightline,</i>
+estive no Ruanda, Chechénia, Bósnia.
+
+187
+00:15:50,075 --> 00:15:52,786
+Sou voluntário do Greenpeace
+de vez em quando.
+
+188
+00:15:52,870 --> 00:15:54,872
+Greenpeace? O que o atraiu ao Greenpeace?
+
+189
+00:15:55,331 --> 00:15:56,540
+As mulheres.
+
+190
+00:15:57,374 --> 00:15:59,168
+No Greenpeace 80% são mulheres.
+
+191
+00:15:59,752 --> 00:16:00,878
+Muito nobre.
+
+192
+00:16:01,754 --> 00:16:04,715
+Nobre foi no ano passado.
+Este ano sou pago para isto.
+
+193
+00:16:04,798 --> 00:16:08,552
+O cheque do Hammond era bom,
+por isso vim à caça dos gambozinos.
+
+194
+00:16:09,053 --> 00:16:12,806
+Vai para o único local
+onde os gambozinos o caçam.
+
+195
+00:16:13,807 --> 00:16:15,559
+Papá, papá!
+
+196
+00:16:17,978 --> 00:16:20,898
+Kelly, querida, encontraste.
+Porque levaste tanto tempo?
+
+197
+00:16:20,981 --> 00:16:22,483
+Desculpa, não arranjei táxi.
+
+198
+00:16:22,566 --> 00:16:23,901
+Tudo bem, querida.
+
+199
+00:16:23,984 --> 00:16:27,863
+Ouve, preciso de falar contigo.
+
+200
+00:16:29,073 --> 00:16:33,035
+- Nem sequer conheço esta mulher.
+- Conheces a Karen há 10 anos.
+
+201
+00:16:33,369 --> 00:16:36,538
+Ela nem tem Sega. É uma troglodita.
+
+202
+00:16:36,622 --> 00:16:38,707
+Cruel, mas com boa semântica.
+
+203
+00:16:39,041 --> 00:16:41,001
+Porque não posso ficar com a Sarah?
+
+204
+00:16:41,085 --> 00:16:44,088
+Ela está fora. A Karen é fantástica.
+
+205
+00:16:44,171 --> 00:16:47,132
+Vai levar-te a sair. Vai ser fantástico.
+
+206
+00:16:47,216 --> 00:16:50,302
+Pára de dizer "fantástico". Para onde vais?
+
+207
+00:16:50,969 --> 00:16:55,349
+É só por uns dias.
+Não ia se não fosse importante.
+
+208
+00:16:55,432 --> 00:17:00,062
+Eu sou sempre a tua filha. Não podes
+abandonar-me sempre que te apetece.
+
+209
+00:17:00,437 --> 00:17:03,148
+Isso magoou-me.
+A tua mãe mandou-te dizer isso?
+
+210
+00:17:03,232 --> 00:17:05,651
+<i>Dr. Malcolm, venha cá abaixo, por favor.</i>
+
+211
+00:17:06,151 --> 00:17:08,320
+Sei que já passámos maus bocados.
+
+212
+00:17:08,445 --> 00:17:12,032
+Mas nos últimos anos
+as coisas não melhoraram?
+
+213
+00:17:12,241 --> 00:17:16,578
+Sim, mas ralha comigo.
+Põe-me de castigo, ou assim.
+
+214
+00:17:16,662 --> 00:17:18,664
+Nunca fazes dessas coisas.
+
+215
+00:17:18,747 --> 00:17:20,958
+Por que o faria? Tornaste-te tão...
+
+216
+00:17:21,041 --> 00:17:24,628
+bonita, brilhante, poderosa,
+engraçada e generosa.
+
+217
+00:17:24,837 --> 00:17:27,005
+A rainha, deusa. A minha inspiração.
+
+218
+00:17:27,089 --> 00:17:28,215
+<i>Dr. Malcolm.</i>
+
+219
+00:17:28,298 --> 00:17:31,969
+Podia ser tua assistente, como em Austin.
+
+220
+00:17:32,094 --> 00:17:34,346
+Isto não é nada como Austin.
+
+221
+00:17:35,889 --> 00:17:38,100
+Seja como for, tens que fazer.
+
+222
+00:17:38,183 --> 00:17:41,478
+O teu concurso de ginástica.
+Estás a treinar para isso há meses.
+
+223
+00:17:41,562 --> 00:17:42,980
+Ginástica?
+
+224
+00:17:43,188 --> 00:17:46,984
+Fui eliminada da equipa.
+Obrigadinha por saberes isso.
+
+225
+00:17:48,402 --> 00:17:50,112
+Lamento, querida.
+
+226
+00:17:50,863 --> 00:17:53,407
+Sei o que isso significava para ti.
+
+227
+00:17:54,283 --> 00:17:57,870
+Gostas de ter filhos,
+mas não de estar com eles.
+
+228
+00:18:00,080 --> 00:18:04,793
+Não fui eu quem te abandonou
+e fugiu para Paris. Não me culpes.
+
+229
+00:18:05,210 --> 00:18:07,254
+<i>Dr. Malcolm, venha cá abaixo!</i>
+
+230
+00:18:13,844 --> 00:18:16,138
+Querida, lamento muito.
+
+231
+00:18:17,806 --> 00:18:21,268
+Queres um bom conselho paternal?
+Não me dês ouvidos.
+
+232
+00:18:24,897 --> 00:18:26,815
+Como estão as coisas aqui?
+
+233
+00:18:27,941 --> 00:18:31,945
+Pelas especificações não deforma
+a 12.000 PSI. Vamos testá-lo.
+
+234
+00:18:32,029 --> 00:18:34,615
+- Vamos sair daqui. Vamos?
+- O que é isto?
+
+235
+00:18:36,325 --> 00:18:37,743
+Uma Protecção Elevada.
+
+236
+00:18:38,452 --> 00:18:41,705
+Uma Protecção Elevada.
+Subimos e ficamos protegidos.
+
+237
+00:18:41,955 --> 00:18:46,877
+Fica à altura das árvores
+e os cientistas ficam em segurança.
+
+238
+00:18:47,544 --> 00:18:50,923
+Na verdade, ficam a uma altura
+conveniente para serem comidos.
+
+239
+00:18:51,840 --> 00:18:53,509
+Que horas são? Tem horas?
+
+240
+00:18:53,592 --> 00:18:56,345
+- Se tenho horas? Porquê?
+- Partimos dentro de três horas.
+
+241
+00:19:16,406 --> 00:19:18,075
+Isto é o máximo.
+
+242
+00:20:17,092 --> 00:20:21,054
+Espingarda de ar comprimido Lindstradt.
+Dispara um dardo Fluger subsónico.
+
+243
+00:20:21,138 --> 00:20:24,141
+- Funciona melhor que o telefone?
+- Muito engraçado.
+
+244
+00:20:24,224 --> 00:20:28,228
+Tem veneno de <i>Conus purpurascens:</i>
+um molusco dos mares do sul.
+
+245
+00:20:28,312 --> 00:20:31,607
+A neurotoxina mais poderosa do mundo.
+Actua em 0.002 de segundo.
+
+246
+00:20:31,690 --> 00:20:34,192
+É mais rápida que a velocidade
+dos impulsos nervosos.
+
+247
+00:20:34,276 --> 00:20:37,529
+Assim o animal cai antes mesmo
+de sentir o dardo.
+
+248
+00:20:37,613 --> 00:20:40,866
+- Há algum antídoto?
+- Para o caso de se picar num pé?
+
+249
+00:20:40,949 --> 00:20:44,786
+Não o faça. Morria antes de se aperceber.
+
+250
+00:20:49,124 --> 00:20:52,961
+Diz que nos deixa aqui.
+Não vai subir mais o rio.
+
+251
+00:20:53,045 --> 00:20:55,547
+Já ouviu muitas histórias sobre estas ilhas.
+
+252
+00:20:55,631 --> 00:20:58,050
+Deixa-nos aqui e espera-nos ao largo.
+
+253
+00:20:58,133 --> 00:20:59,801
+Que histórias?
+
+254
+00:21:05,766 --> 00:21:10,020
+Pescadores que se aproximaram
+demais da ilha e não voltaram.
+
+255
+00:21:10,812 --> 00:21:13,690
+Ele tem um rádio. Um telefone via satélite.
+
+256
+00:21:16,526 --> 00:21:19,821
+Quando precisar dele,
+ligue-lhe e ele estará aqui em duas horas.
+
+257
+00:21:20,238 --> 00:21:22,157
+Mas não fica aqui.
+
+258
+00:21:23,575 --> 00:21:26,244
+Não fica nem perto destas ilhas.
+
+259
+00:21:26,370 --> 00:21:29,539
+Chamam às ilhas <i>"Las Cinco Muertes"?</i>
+
+260
+00:21:32,000 --> 00:21:33,543
+Que quer isso dizer?
+
+261
+00:21:35,170 --> 00:21:36,713
+"As Cinco Mortes"...
+
+262
+00:21:37,297 --> 00:21:38,715
+diz ele.
+
+263
+00:21:53,271 --> 00:21:57,901
+O telefone da Dra. Harding tem um sensor.
+Devemos apanhar algo.
+
+264
+00:21:57,985 --> 00:22:00,779
+- Que alívio.
+- Não me irrites.
+
+265
+00:22:00,862 --> 00:22:04,658
+Estamos próximos do sinal.
+Ela deve estar por aqui algures.
+
+266
+00:22:05,575 --> 00:22:06,994
+Ali.
+
+267
+00:22:20,841 --> 00:22:22,050
+Sarah!
+
+268
+00:22:24,636 --> 00:22:26,513
+Sarah Harding!
+
+269
+00:22:26,888 --> 00:22:29,766
+Quantas Sarahs conhece nesta ilha?
+
+270
+00:22:40,944 --> 00:22:42,112
+O que é?
+
+271
+00:22:44,322 --> 00:22:45,866
+É algo muito grande.
+
+272
+00:23:00,881 --> 00:23:02,049
+Ena pá! Chiça!
+
+273
+00:23:16,271 --> 00:23:19,191
+É magnífico.
+
+274
+00:23:19,649 --> 00:23:22,736
+Pois. "Ooh, ah," começa sempre assim.
+
+275
+00:23:23,320 --> 00:23:26,406
+Mas depois começam a fugir e a gritar.
+
+276
+00:23:28,450 --> 00:23:29,618
+Ena.
+
+277
+00:23:51,431 --> 00:23:52,599
+Nick!
+
+278
+00:23:55,727 --> 00:23:58,355
+Parece que te adiantaste a nós,
+não é, Sarah?
+
+279
+00:23:58,438 --> 00:23:59,481
+Sim.
+
+280
+00:24:04,027 --> 00:24:07,823
+Ian, nunca pensei que o Hammond
+te convencesse a vir aqui.
+
+281
+00:24:10,826 --> 00:24:12,702
+- Olá, Eddie!
+- Olá, Sarah.
+
+282
+00:24:13,078 --> 00:24:16,373
+Tens alguma barra comestível?
+Estou cheia de fome.
+
+283
+00:24:18,291 --> 00:24:20,085
+Vistes aqueles animais que passaram?
+
+284
+00:24:20,168 --> 00:24:24,506
+Era uma família, um casal e um adolescente.
+
+285
+00:24:24,631 --> 00:24:27,634
+Todos os ovos que vi,
+tinham a casca partida.
+
+286
+00:24:27,717 --> 00:24:31,388
+As crias ficam no ambiente do nascimento
+algum tempo. Isso é concludente.
+
+287
+00:24:31,471 --> 00:24:34,933
+Posso acabar com esta controvérsia
+se conseguir fotografar o ninho.
+
+288
+00:24:35,267 --> 00:24:37,144
+Não foste atacada?
+
+289
+00:24:37,269 --> 00:24:40,772
+Não, é a minha mochila da sorte.
+O aspecto dela é sempre esse.
+
+290
+00:24:42,983 --> 00:24:44,317
+Está bem, Sarah.
+
+291
+00:24:44,401 --> 00:24:47,279
+É uma Nikon? Emprestas-ma?
+
+292
+00:24:48,029 --> 00:24:50,282
+Volto já, querido. Prometo.
+
+293
+00:24:53,243 --> 00:24:58,123
+Quando o Hammond te ligou,
+porque não me disseste nada?
+
+294
+00:24:58,373 --> 00:25:00,709
+Ter-me-ias impedido de vir.
+
+295
+00:25:00,792 --> 00:25:03,086
+Tinha-te amarrado à cama.
+
+296
+00:25:03,170 --> 00:25:06,631
+- Sei como os animais obtiveram a lisina.
+- Não me interessa.
+
+297
+00:25:06,715 --> 00:25:09,426
+As espécies herbívoras que estão a vingar...
+
+298
+00:25:09,509 --> 00:25:12,971
+comem sobretudo grãos de agamá, soja,
+tudo o que seja rico em lisina.
+
+299
+00:25:13,263 --> 00:25:16,349
+E os carnívoros comem os herbívoros,
+por isso...
+
+300
+00:25:18,351 --> 00:25:19,811
+Esperem.
+
+301
+00:25:21,396 --> 00:25:24,941
+- Fiquem aqui. Não façam barulho. Volto já.
+- Não!
+
+302
+00:25:27,694 --> 00:25:29,279
+Fiquem aqui.
+
+303
+00:25:59,851 --> 00:26:01,311
+Ela está perto demais.
+
+304
+00:26:01,394 --> 00:26:03,980
+- Que está ela a fazer?
+- Demasiado perto.
+
+305
+00:26:25,585 --> 00:26:28,922
+Tem de tocar-lhe.
+Não pode deixar de lhe tocar.
+
+306
+00:26:30,131 --> 00:26:33,760
+- Vai até lá.
+- Assim que vê algo, tem logo de...
+
+307
+00:26:42,894 --> 00:26:44,813
+Será que isto é possível?
+
+308
+00:26:46,064 --> 00:26:47,107
+O quê?
+
+309
+00:26:48,775 --> 00:26:52,612
+Isto? Que pensava encontrar?
+O que pensava que ia ver?
+
+310
+00:26:52,696 --> 00:26:55,073
+Animais. Talvez...
+
+311
+00:26:57,033 --> 00:26:58,618
+iguanas gigantes.
+
+312
+00:27:01,579 --> 00:27:02,789
+Idiotas.
+
+313
+00:27:11,006 --> 00:27:13,258
+Eles zangam-se quando acaba a película.
+
+314
+00:27:24,019 --> 00:27:25,228
+Abata-o!
+
+315
+00:27:25,312 --> 00:27:28,315
+- Estão só a proteger a cria.
+- Também eu!
+
+316
+00:27:49,878 --> 00:27:51,713
+Acho que se vão embora.
+
+317
+00:27:59,387 --> 00:28:00,597
+Ena pá!
+
+318
+00:28:00,930 --> 00:28:03,016
+Fotos incríveis. Notáveis.
+
+319
+00:28:03,099 --> 00:28:06,227
+Há quem fotografe a vida inteira
+e não consegue nada disto.
+
+320
+00:28:06,311 --> 00:28:08,938
+Dêem-me já o Pulitzer. Hoje, se faz favor.
+
+321
+00:28:09,356 --> 00:28:13,568
+Acabou-se a concorrência.
+Parabéns a todos os vencidos.
+
+322
+00:28:13,651 --> 00:28:17,155
+Não fumes! Os dinossauros apanham
+os cheiros a quilómetros.
+
+323
+00:28:17,322 --> 00:28:20,116
+Estamos aqui para ver e documentar,
+não para interferir.
+
+324
+00:28:20,200 --> 00:28:22,994
+O que é uma impossibilidade científica.
+
+325
+00:28:23,078 --> 00:28:26,539
+Princípio da Incerteza de Heisenberg.
+O que estudamos, modificamos.
+
+326
+00:28:26,623 --> 00:28:30,085
+Eu arrisco. Estou farta de andar a escavar
+rochas e ossos...
+
+327
+00:28:30,168 --> 00:28:34,089
+a adivinhar os hábitos nutritivos
+dos animais...
+
+328
+00:28:34,172 --> 00:28:37,133
+que estão mortos há 65 milhões de anos.
+Estou farta disso.
+
+329
+00:28:37,217 --> 00:28:41,096
+E encheste-me a cabeça com histórias
+durante quatro anos. É claro que vim.
+
+330
+00:28:41,179 --> 00:28:44,140
+Histórias de mutilação e morte,
+não me ouviste?
+
+331
+00:28:44,224 --> 00:28:46,851
+Por favor, não me trates
+como se eu fosse estudante.
+
+332
+00:28:46,935 --> 00:28:49,687
+Desde os 20 anos
+que trabalho com predadores.
+
+333
+00:28:49,771 --> 00:28:52,315
+Leões, chacais, hienas, tu.
+
+334
+00:29:00,407 --> 00:29:02,075
+Qual é a pressa?
+
+335
+00:29:02,367 --> 00:29:05,286
+Estou a tentar mudar 100 anos
+de dogmas enraizados.
+
+336
+00:29:05,412 --> 00:29:09,165
+No início, os dinossauros
+eram considerados perigosos.
+
+337
+00:29:09,249 --> 00:29:12,669
+Há quem resista à ideia
+de que são pais extremosos.
+
+338
+00:29:12,752 --> 00:29:15,296
+Robert Burke disse que o T-Rex
+era um solitário...
+
+339
+00:29:15,380 --> 00:29:19,467
+que abandonava logo as crias.
+Posso provar o contrário.
+
+340
+00:29:19,551 --> 00:29:22,554
+Fogo! Dr. Malcolm, fogo no acampamento!
+
+341
+00:29:28,601 --> 00:29:31,604
+Não! A água provoca muito fumo. Use terra!
+
+342
+00:29:31,729 --> 00:29:33,606
+Quem ateou o fogo?
+
+343
+00:29:34,983 --> 00:29:37,235
+Só queria fazer o jantar.
+
+344
+00:29:37,694 --> 00:29:40,989
+Queria tê-lo pronto
+quando vocês voltassem.
+
+345
+00:29:42,949 --> 00:29:45,827
+Notas alguns traços familiares?
+
+346
+00:29:46,995 --> 00:29:48,830
+Praticamente disseste-me que viesse.
+
+347
+00:29:48,913 --> 00:29:50,206
+Eu... Disse o quê?
+
+348
+00:29:50,707 --> 00:29:54,669
+Disseste: "Não me dês ouvidos."
+Pensei que me querias dizer algo.
+
+349
+00:29:54,752 --> 00:29:57,505
+Sabias muito bem o que eu queria dizer.
+
+350
+00:29:57,589 --> 00:30:01,342
+Vais castigá-la pela curiosidade?
+A quem pensas que ela sai?
+
+351
+00:30:01,426 --> 00:30:05,555
+- Obrigada, Sarah.
+- Não se aliem contra mim.
+
+352
+00:30:07,307 --> 00:30:10,894
+Fora da conversa. Por favor. A sério.
+
+353
+00:30:11,352 --> 00:30:12,687
+- Eddie?
+- Que foi?
+
+354
+00:30:12,770 --> 00:30:15,356
+Porque será que isto nunca funciona?
+
+355
+00:30:15,440 --> 00:30:18,818
+Não é uma linha terrestre.
+Não estás numa cabina.
+
+356
+00:30:18,943 --> 00:30:21,029
+Espera um sinal decente.
+
+357
+00:30:23,490 --> 00:30:26,993
+Violência e tecnologia:
+não são nada compatíveis.
+
+358
+00:30:28,244 --> 00:30:33,416
+A documentação que o Hammond quer,
+põe-nos perto dos animais.
+
+359
+00:30:33,500 --> 00:30:36,920
+Boa ideia. Já agora, pulverizamo-nos
+com sangue de cordeiro.
+
+360
+00:30:37,212 --> 00:30:41,174
+Eddie, será que
+o rádio da caravana funciona?
+
+361
+00:30:41,299 --> 00:30:42,800
+Não me minta.
+
+362
+00:30:42,926 --> 00:30:46,554
+Se se sente à altura,
+tente ligar o interruptor.
+
+363
+00:30:47,972 --> 00:30:50,892
+Pronto, vou tirar a minha filha daqui.
+
+364
+00:30:51,100 --> 00:30:54,354
+Se alguém quiser vir,
+é a sua última hipótese.
+
+365
+00:30:54,437 --> 00:30:56,814
+Quando estiverem em campo...
+
+366
+00:30:57,023 --> 00:31:01,402
+Nick, se ficar, posso entregar uma carta
+à sua mulher ou namorada...
+
+367
+00:31:01,486 --> 00:31:03,321
+para se despedir.
+
+368
+00:31:03,446 --> 00:31:06,449
+Eddie, se tiver pertences...
+
+369
+00:31:06,533 --> 00:31:09,577
+é o mínimo que posso fazer.
+Estarei na caravana, rapazes.
+
+370
+00:31:09,661 --> 00:31:12,330
+A nossa presença tem de ser
+100% anti-séptica.
+
+371
+00:31:12,413 --> 00:31:14,832
+Se dobrarmos nem que seja uma folha...
+
+372
+00:31:14,958 --> 00:31:17,919
+- Papá, estás zangado?
+- Não. Estou furioso.
+
+373
+00:31:19,546 --> 00:31:21,506
+O que é isto? Parece o teu quarto.
+
+374
+00:31:21,589 --> 00:31:24,092
+- Ia arrumar isto.
+- Já.
+
+375
+00:31:25,426 --> 00:31:28,596
+Que é isto? Há centenas de interruptores!
+
+376
+00:31:28,680 --> 00:31:32,684
+Não te zangues.
+Ia ligar-te a dizer onde estava.
+
+377
+00:31:32,809 --> 00:31:34,811
+Faço-o sempre, não?
+
+378
+00:31:35,103 --> 00:31:38,064
+Sou a melhor namorada que há.
+
+379
+00:31:38,231 --> 00:31:42,402
+Uma namorada que viaja imenso.
+Tu adoras a tua independência.
+
+380
+00:31:42,485 --> 00:31:46,781
+Habituei-me à separação,
+mas não quero viver assim.
+
+381
+00:31:47,031 --> 00:31:51,536
+Kelly, isto é conversa de adultos.
+Só um minuto.
+
+382
+00:31:51,744 --> 00:31:54,455
+Parece a proibição
+nos parques de diversões.
+
+383
+00:31:55,456 --> 00:31:58,710
+Se querias salvar-me,
+porque não me socorreste...
+
+384
+00:31:58,793 --> 00:32:02,213
+daquele angariador de fundos para museus,
+como disseste?
+
+385
+00:32:03,798 --> 00:32:06,009
+Isso era um pouco diferente.
+
+386
+00:32:06,301 --> 00:32:09,846
+E o jantar com os teus pais
+ao qual nunca compareceste?
+
+387
+00:32:09,971 --> 00:32:14,851
+Porque não me socorres quando preciso?
+Aparece quando dizes.
+
+388
+00:32:15,101 --> 00:32:18,521
+A minha carreira é ficar à tua espera.
+
+389
+00:32:18,855 --> 00:32:21,107
+Sabes, nisso ela tem...
+
+390
+00:32:21,190 --> 00:32:25,778
+Para bem do teu futuro,
+não termines a frase. Rua!
+
+391
+00:32:27,572 --> 00:32:30,199
+Ian, vá lá. Ouve.
+
+392
+00:32:32,493 --> 00:32:36,414
+Adorei que tivesses vindo aqui
+em meu socorro. A sério.
+
+393
+00:32:37,749 --> 00:32:40,960
+É muito comovente, muito dramático.
+
+394
+00:32:41,586 --> 00:32:44,714
+Mas também preciso que apareças
+em situações normais.
+
+395
+00:32:44,797 --> 00:32:47,842
+Kelly, que estás a fazer? Não vás para aí.
+Não é seguro.
+
+396
+00:32:47,925 --> 00:32:50,803
+Vem cá. Fecha a porta.
+
+397
+00:32:55,266 --> 00:32:56,392
+Está bem.
+
+398
+00:32:57,727 --> 00:33:01,481
+Sei o que estou a fazer.
+É melhor irem-se embora.
+
+399
+00:33:02,482 --> 00:33:04,150
+Mas eu fico.
+
+400
+00:33:04,776 --> 00:33:08,071
+Amo-te. Mas não preciso de ti
+neste momento.
+
+401
+00:33:09,572 --> 00:33:12,700
+Precisas é de um bom anti-psicótico.
+
+402
+00:33:13,076 --> 00:33:16,871
+- Volto dentro de cinco ou seis dias.
+- Não, voltas em cinco ou seis bocados.
+
+403
+00:33:16,954 --> 00:33:20,208
+Incomoda-te que eu não tenha medo
+de aqui estar e tu tenhas.
+
+404
+00:33:20,291 --> 00:33:24,212
+Claro que sim. A questão é mesmo essa.
+Tudo o que quero...
+
+405
+00:33:24,295 --> 00:33:25,755
+Que barulho é aquele?
+
+406
+00:33:35,765 --> 00:33:38,476
+Vamos sair daqui
+num daqueles helicópteros.
+
+407
+00:33:38,559 --> 00:33:40,311
+Viva! Estamos aqui!
+
+408
+00:33:43,648 --> 00:33:47,443
+Não percebo. O helicóptero
+tem InGen escrito de lado!
+
+409
+00:33:48,361 --> 00:33:51,572
+Não percebo. Porque será que o Hammond
+mandou duas equipas?
+
+410
+00:33:53,700 --> 00:33:55,576
+Deixa de ser super-protector, pai!
+
+411
+00:33:55,993 --> 00:33:59,080
+Será que não confia em nós?
+Ainda nem sequer começámos.
+
+412
+00:34:08,047 --> 00:34:10,299
+Este sítio é óptimo para a base.
+
+413
+00:34:10,591 --> 00:34:13,052
+É a primeira prioridade quando acabarmos.
+
+414
+00:34:13,177 --> 00:34:17,098
+Quero o acampamento montado
+dentro de 30 minutos. Meia-hora.
+
+415
+00:34:17,265 --> 00:34:19,892
+- Entendido? Terminado.
+- Cancele essa ordem.
+
+416
+00:34:20,393 --> 00:34:21,811
+Como? Porquê?
+
+417
+00:34:21,978 --> 00:34:25,398
+Isto é um trilho de animais. Sr. Ludlow.
+É onde os carnívoros caçam.
+
+418
+00:34:25,481 --> 00:34:28,234
+Quer montar um acampamento,
+ou um self-service?
+
+419
+00:34:31,738 --> 00:34:35,158
+Vamos arranjar outro sítio, sim? Terminado.
+
+420
+00:34:35,450 --> 00:34:39,537
+Peter, conduzo a sua expediçãozinha
+sob duas condições.
+
+421
+00:34:39,746 --> 00:34:42,832
+Primeiro, quem manda sou eu.
+Se eu não estiver, é o Dieter.
+
+422
+00:34:42,915 --> 00:34:47,879
+Você só paga, diz que nos portámos bem
+e serve os whiskys no fim do dia.
+
+423
+00:34:48,087 --> 00:34:50,840
+Segundo, os meus honorários.
+Pode ficar com eles.
+
+424
+00:34:51,090 --> 00:34:54,886
+Em troca dos meus serviços,
+quero caçar um <i>Tiranossauro.</i>
+
+425
+00:34:54,969 --> 00:34:57,805
+Apenas se for macho.
+Como e quando, é comigo.
+
+426
+00:34:57,889 --> 00:35:00,600
+Se não lhe agrada, fica por sua conta.
+
+427
+00:35:00,683 --> 00:35:03,019
+Por isso, monte o acampamento aqui...
+
+428
+00:35:03,102 --> 00:35:06,230
+num pântano, ou no ninho de um T-Rex.
+Não quero saber.
+
+429
+00:35:06,314 --> 00:35:11,402
+Estive em muitos safaris com dentistas ricos
+para ouvir mais ideias suicidas.
+
+430
+00:35:11,486 --> 00:35:12,737
+Está bem?
+
+431
+00:35:14,405 --> 00:35:15,531
+Tudo bem.
+
+432
+00:35:20,620 --> 00:35:24,290
+Moto... separa um da manada
+e manda-o para a direita.
+
+433
+00:35:24,373 --> 00:35:28,211
+Laçadores, fiquem atentos.
+Ele vai atraí-lo. Vai ser um...
+
+434
+00:35:30,254 --> 00:35:33,090
+Paqui... Paquia... Olha, gaita.
+
+435
+00:35:33,591 --> 00:35:36,302
+O cabeçudo com a careca... o Frei Tuck.
+
+436
+00:36:01,035 --> 00:36:02,745
+Pare.
+
+437
+00:36:04,205 --> 00:36:05,748
+<i>Paquicefalossauro.</i>
+
+438
+00:36:05,832 --> 00:36:07,124
+Carnívoro?
+
+439
+00:36:07,250 --> 00:36:09,627
+Não, herbívoro.
+Última parte do período Cretáceo.
+
+440
+00:36:17,635 --> 00:36:19,804
+Vê o crânio em forma de cúpula?
+
+441
+00:36:19,887 --> 00:36:22,807
+20 cm de osso maciço. Cuidado.
+
+442
+00:36:24,934 --> 00:36:29,564
+O pescoço está ligado à base do crânio
+e não à nuca.
+
+443
+00:36:29,856 --> 00:36:33,651
+Quando baixa a cabeça,
+o pescoço fica alinhado com a coluna...
+
+444
+00:36:33,734 --> 00:36:36,654
+o que é óptimo para absorver impactos.
+
+445
+00:36:42,660 --> 00:36:46,497
+Laçador, o Frei Tuck está solto
+e vai na tua direcção.
+
+446
+00:37:53,105 --> 00:37:57,568
+Dieter, prepara-te.
+Aproximas-te de um carina...
+
+447
+00:37:58,277 --> 00:38:00,655
+Diz lá, Roland. Um quê?
+
+448
+00:38:01,948 --> 00:38:05,409
+O do grande chifre vermelho.
+o da poupa. O Elvis.
+
+449
+00:38:07,912 --> 00:38:09,789
+Põe-me lá fora.
+
+450
+00:38:24,845 --> 00:38:26,597
+Muito bem, Carter, puxa-me.
+
+451
+00:38:31,394 --> 00:38:32,561
+Devagar!
+
+452
+00:38:34,939 --> 00:38:36,315
+Não se aproximem muito.
+
+453
+00:38:37,733 --> 00:38:40,653
+Apanhem as pernas! As pernas!
+Cuidado com a cauda!
+
+454
+00:39:29,160 --> 00:39:30,202
+Burke!
+
+455
+00:39:30,953 --> 00:39:32,329
+Vem cá.
+
+456
+00:39:37,626 --> 00:39:39,378
+Reconheces estas pegadas?
+
+457
+00:39:39,503 --> 00:39:41,547
+Claro que sim. <i>Tiranossauro.</i>
+
+458
+00:39:46,719 --> 00:39:47,970
+Roland.
+
+459
+00:39:55,269 --> 00:39:56,979
+Onde pensas que vais?
+
+460
+00:39:57,063 --> 00:40:00,357
+Receber os meus honorários, Sr. Ludlow.
+Os meus honorários.
+
+461
+00:40:13,621 --> 00:40:14,789
+Meu Deus.
+
+462
+00:40:15,956 --> 00:40:20,419
+<i>Procompsognathus triassicus,</i>
+descoberto por Frass, Bavária, 1913.
+
+463
+00:40:20,753 --> 00:40:22,129
+É perigoso?
+
+464
+00:40:23,839 --> 00:40:25,591
+Não, penso que não.
+
+465
+00:40:26,342 --> 00:40:29,678
+Presume-se que era necrófago,
+como os chacais.
+
+466
+00:40:30,763 --> 00:40:34,266
+Dá-me arrepios.
+Parece que não está assustado.
+
+467
+00:40:35,476 --> 00:40:37,853
+Nunca ninguém esteve nesta ilha.
+
+468
+00:40:37,937 --> 00:40:39,939
+Não há razão para temer o homem.
+
+469
+00:40:44,777 --> 00:40:45,986
+Agora já há.
+
+470
+00:41:06,799 --> 00:41:08,217
+É o ninho do T-Rex.
+
+471
+00:41:10,302 --> 00:41:13,889
+A cria deve ter poucas semanas.
+Nunca saiu do ninho.
+
+472
+00:41:19,061 --> 00:41:23,023
+Com uma cria tão pequena,
+os pais não devem andar longe.
+
+473
+00:41:24,733 --> 00:41:27,695
+Ficamos aqui.
+Esperamos que o macho volte.
+
+474
+00:41:29,530 --> 00:41:32,324
+Não. Se o ninho está a favor do vento,
+nós também estamos.
+
+475
+00:41:33,409 --> 00:41:37,705
+Quando voltar, saberá que estamos aqui
+e não teremos hipóteses.
+
+476
+00:41:39,039 --> 00:41:42,251
+Temos é de fazer...
+
+477
+00:41:43,127 --> 00:41:45,254
+com que vá para onde queremos.
+
+478
+00:42:35,471 --> 00:42:39,767
+Por isso é que o Hammond o mandou
+para cá rapidamente. Sabia que eles vinham.
+
+479
+00:42:39,850 --> 00:42:41,936
+Meu Deus, estão bem organizados.
+
+480
+00:42:43,145 --> 00:42:45,022
+Isto são brinquedos muito sofisticados.
+
+481
+00:42:46,023 --> 00:42:50,027
+Talvez possa usar o telefone deles.
+A antena é maior do que a sua.
+
+482
+00:42:50,444 --> 00:42:53,239
+Querem construir outro parque aqui?
+
+483
+00:42:53,322 --> 00:42:56,033
+Depois do que houve na outra ilha?
+
+484
+00:42:56,158 --> 00:42:59,787
+Não vão construir nada.
+Vão levar os animais daqui para fora.
+
+485
+00:42:59,870 --> 00:43:01,288
+Para o continente.
+
+486
+00:43:02,706 --> 00:43:06,460
+Acho que te devo dizer. O Hammond disse
+que esta gente podia aparecer.
+
+487
+00:43:06,543 --> 00:43:10,506
+Julgou que teríamos terminado nessa altura
+mas, caso contrário...
+
+488
+00:43:10,631 --> 00:43:13,342
+- Há um plano alternativo.
+- Que plano alternativo?
+
+489
+00:43:14,301 --> 00:43:15,344
+Eu.
+
+490
+00:43:16,136 --> 00:43:20,683
+Em termos simples, a InGen procura
+parceiros para diminuir alguns dos custos.
+
+491
+00:43:21,183 --> 00:43:24,311
+Os prospectos
+que a administração vos deu...
+
+492
+00:43:24,395 --> 00:43:27,273
+têm projecções das despesas
+de equipamento e construção.
+
+493
+00:43:27,356 --> 00:43:32,194
+Como pode ver aqui pelos meus colegas,
+o equipamento já foi desenvolvido.
+
+494
+00:43:35,489 --> 00:43:38,409
+<i>Há quem diga que funciona.</i>
+
+495
+00:43:40,160 --> 00:43:43,122
+<i>Daqui a pouco,</i>
+<i>levá-los-ei para campo aberto...</i>
+
+496
+00:43:43,205 --> 00:43:46,083
+<i>e verão os espécimes maiores</i>
+<i>e mais impressionantes.</i>
+
+497
+00:43:47,876 --> 00:43:48,877
+Ena.
+
+498
+00:44:14,737 --> 00:44:18,282
+Não se traz gente do outro lado do mundo
+para visitar um zoo.
+
+499
+00:44:18,615 --> 00:44:20,409
+Leva-se o zoo até eles.
+
+500
+00:44:20,909 --> 00:44:23,078
+E San Diego é o sítio ideal.
+
+501
+00:44:23,620 --> 00:44:27,458
+A nossa bela cidade já é associada
+a atracções animais:
+
+502
+00:44:28,250 --> 00:44:32,963
+O Zoo de San Diego, o Sea World,
+os Chargers.
+
+503
+00:45:00,824 --> 00:45:02,451
+O Sr. Hammond sabia disto.
+
+504
+00:45:03,410 --> 00:45:05,746
+Antes mesmo de fazer uma ilha...
+
+505
+00:45:06,955 --> 00:45:09,666
+iniciou a construção de um anfiteatro...
+
+506
+00:45:10,793 --> 00:45:14,797
+perto de onde estão, no complexo da InGen.
+
+507
+00:45:15,589 --> 00:45:17,466
+Mas abandonou o projecto...
+
+508
+00:45:18,300 --> 00:45:21,512
+a favor de algo muito mais grandioso...
+
+509
+00:45:21,762 --> 00:45:24,098
+e, em derradeira análise, impossível.
+
+510
+00:45:25,307 --> 00:45:28,936
+Assim, as instalações permanecem
+sem utilidade, inacabadas...
+
+511
+00:45:29,645 --> 00:45:34,149
+quando podiam ser acabadas num mês,
+para receber visitantes.
+
+512
+00:45:56,964 --> 00:45:58,882
+Ajay, cuidado! Salta!
+
+513
+00:46:26,910 --> 00:46:29,538
+É a última vez que te deixo
+a tomar conta de tudo.
+
+514
+00:46:52,227 --> 00:46:54,313
+Meu Deus, estás louco?
+
+515
+00:46:54,396 --> 00:46:57,733
+Tem a perna partida. Vamos entrar no carro
+antes que nos ouçam.
+
+516
+00:46:57,858 --> 00:47:01,111
+- Fazes ideia do que isso é?
+- Vá, abre a porta.
+
+517
+00:47:01,904 --> 00:47:03,113
+Estás chalado.
+
+518
+00:47:05,532 --> 00:47:08,076
+Porra, o Ian não vai gostar disto.
+
+519
+00:47:12,623 --> 00:47:14,041
+Que se passa?
+
+520
+00:47:14,416 --> 00:47:15,792
+Não é óbvio?
+
+521
+00:47:18,921 --> 00:47:20,964
+Não estamos sozinhos na ilha.
+
+522
+00:47:30,974 --> 00:47:32,976
+Não está sintonizado na frequência.
+
+523
+00:47:36,605 --> 00:47:38,065
+Procura aqui.
+
+524
+00:47:56,124 --> 00:47:57,668
+Que raio é aquilo?
+
+525
+00:47:59,086 --> 00:48:00,796
+Ora bem, é isto mesmo. Estou?
+
+526
+00:48:05,968 --> 00:48:09,137
+Não, não é o Enrique. É Ian Malcolm.
+Está no barco?
+
+527
+00:48:10,597 --> 00:48:12,140
+Não, fala do barco?
+
+528
+00:48:14,017 --> 00:48:18,146
+Estamos na ilha Sorna.
+Precisamos falar para o barco, <i>Mar del Plata.</i>
+
+529
+00:48:25,654 --> 00:48:26,947
+Eu levo-o.
+
+530
+00:48:27,489 --> 00:48:29,866
+Tudo bem. Já o tenho.
+
+531
+00:48:31,159 --> 00:48:32,411
+- Depressa.
+- Já o tenho.
+
+532
+00:48:32,494 --> 00:48:36,331
+Vá. Despacha-te.
+Cuidado com a cauda. Abre a porta.
+
+533
+00:48:39,167 --> 00:48:40,419
+Chiça, está fula contigo.
+
+534
+00:48:40,502 --> 00:48:43,338
+- Tenho pena do Enrique.
+- Nada de sermões, por favor.
+
+535
+00:48:43,463 --> 00:48:46,508
+Kelly, afasta-te. Não te levantes, sim?
+
+536
+00:48:46,717 --> 00:48:48,176
+- Já está!
+- Cuidado com a cabeça.
+
+537
+00:48:49,303 --> 00:48:51,513
+- Cuidado com a cabeça.
+- Ian, está ferido.
+
+538
+00:48:52,514 --> 00:48:54,933
+- Não, querida, não.
+- Vou buscar a mesa.
+
+539
+00:48:55,017 --> 00:48:58,729
+Ele mordiscou-te.
+Cuidado com a cauda. Está a tremer.
+
+540
+00:48:59,896 --> 00:49:01,356
+Deita-o.
+
+541
+00:49:01,815 --> 00:49:03,191
+- Estás bem?
+- Estou. Já o tenho.
+
+542
+00:49:03,317 --> 00:49:04,359
+- Já o tens?
+- Sim.
+
+543
+00:49:06,028 --> 00:49:08,030
+- Está bom.
+- Pronto... já está.
+
+544
+00:49:08,155 --> 00:49:10,532
+Que hei-de fazer,
+bater-lhe com um pau na cabeça?
+
+545
+00:49:10,657 --> 00:49:12,200
+Não te aproximes, querida.
+
+546
+00:49:12,326 --> 00:49:15,704
+- Cuidado! Não te aproximes demasiado.
+- Cheira a podre.
+
+547
+00:49:17,539 --> 00:49:22,169
+Basta, minha senhora!
+Enganou-se na frequência. Meu Deus.
+
+548
+00:49:25,714 --> 00:49:28,550
+Nick, não o deixes chegar a essas coisas.
+
+549
+00:49:31,219 --> 00:49:32,929
+Sim, fala Ian Malcolm.
+
+550
+00:49:34,598 --> 00:49:36,725
+Vamos lá ver isto.
+
+551
+00:49:37,559 --> 00:49:40,062
+Calma, calma. Fica quieto.
+
+552
+00:49:42,272 --> 00:49:44,399
+Muito bem, eis o metatarso.
+
+553
+00:49:49,613 --> 00:49:52,783
+Tíbia, perónio. Cá está. Eis a fractura.
+
+554
+00:49:52,908 --> 00:49:54,910
+- Acima da epífise.
+- É grave?
+
+555
+00:49:55,035 --> 00:49:59,581
+Se não tratarmos, morre. Não sara.
+Não pode apoiar-se no tornozelo.
+
+556
+00:49:59,706 --> 00:50:03,210
+Não vai poder correr ou andar.
+Será apanhado por um predador.
+
+557
+00:50:04,628 --> 00:50:06,296
+Carlos, responde.
+
+558
+00:50:06,630 --> 00:50:08,882
+Raios te partam, sacana, escuta...
+
+559
+00:50:09,800 --> 00:50:11,927
+Os outros animais vão ouvir isto.
+
+560
+00:50:12,052 --> 00:50:14,346
+Responde. Não me ouvem?
+
+561
+00:50:14,429 --> 00:50:16,682
+Quero sair daqui. Quero ir embora.
+
+562
+00:50:16,765 --> 00:50:19,476
+- Estou a ligar para o barco.
+- Quero ir para outro lado.
+
+563
+00:50:19,601 --> 00:50:22,104
+Não quero estar aqui.
+Quero estar num sítio seguro.
+
+564
+00:50:22,229 --> 00:50:25,315
+- Aqui não é seguro?
+- Quero estar num sítio alto.
+
+565
+00:50:25,607 --> 00:50:28,902
+O quê? Que se passa? Que foi?
+
+566
+00:50:29,403 --> 00:50:31,154
+Informação, por favor. O que foi?
+
+567
+00:50:31,279 --> 00:50:34,825
+É melhor não saberes. Iça-nos.
+
+568
+00:50:36,451 --> 00:50:37,619
+Cá vamos.
+
+569
+00:50:40,122 --> 00:50:43,583
+Sou tão estúpida.
+Não devia ter vindo contigo.
+
+570
+00:50:44,292 --> 00:50:45,293
+Consegues tratá-lo?
+
+571
+00:50:45,419 --> 00:50:49,965
+Sim, mas preciso de uma tala
+que se parta à medida que ele cresce.
+
+572
+00:50:51,091 --> 00:50:53,969
+Quando quiseres.
+Ele está a resistir, Dra. Quinn.
+
+573
+00:50:58,724 --> 00:51:00,892
+Qual é a frequência do barco?
+
+574
+00:51:00,976 --> 00:51:03,478
+15888. Terceiro interruptor a contar de cima.
+
+575
+00:51:05,731 --> 00:51:09,484
+Já cá estamos em cima.
+É o sítio mais seguro para estar.
+
+576
+00:51:10,152 --> 00:51:14,156
+Como a Sarah disse, as plantas camuflam-te
+para os animais não te verem.
+
+577
+00:51:14,239 --> 00:51:18,243
+Estás só a falar por falar.
+Lembro-me das histórias que contaste.
+
+578
+00:51:18,326 --> 00:51:23,290
+Não, não tem nada a ver.
+A situação é completamente diferente.
+
+579
+00:51:33,008 --> 00:51:35,761
+Eddie, há algum modo de comunicar
+com a caravana?
+
+580
+00:51:39,848 --> 00:51:41,767
+Está a mexer-se, mais morfina.
+
+581
+00:51:41,850 --> 00:51:45,771
+Não conhecemos o metabolismo dele.
+Podemos matá-lo.
+
+582
+00:51:46,688 --> 00:51:49,524
+Põe a mão aqui. Faz um pouco de pressão.
+
+583
+00:51:50,358 --> 00:51:53,278
+Não respondem. Que surpresa.
+Como vou descer?
+
+584
+00:51:53,862 --> 00:51:55,614
+Prende este cinto à tua volta.
+
+585
+00:51:56,114 --> 00:51:57,657
+Onde vais?
+
+586
+00:51:57,866 --> 00:51:59,951
+Fica aqui. Não saias daqui. Por favor!
+
+587
+00:52:00,035 --> 00:52:01,703
+Aperta bem a corda.
+
+588
+00:52:01,828 --> 00:52:04,206
+Quanto mais apertares a corda,
+mais devagar desces.
+
+589
+00:52:04,331 --> 00:52:06,875
+- Senão...
+- Já percebi.
+
+590
+00:52:07,000 --> 00:52:08,627
+Papá, fica aqui, por favor.
+
+591
+00:52:09,169 --> 00:52:12,798
+- Fica, por favor.
+- Querida, a rainha? A deusa?
+
+592
+00:52:14,216 --> 00:52:16,384
+- A tua inspiração?
+- Isso é que é falar.
+
+593
+00:52:16,468 --> 00:52:18,553
+Isso é que é falar. Muito bem.
+
+594
+00:52:22,057 --> 00:52:25,060
+Eu volto já. Palavra.
+
+595
+00:52:25,352 --> 00:52:27,312
+Mas nunca cumpres a tua palavra!
+
+596
+00:52:33,568 --> 00:52:36,404
+Pessoalmente, tinha apertado
+um pouco mais.
+
+597
+00:52:36,696 --> 00:52:38,740
+Pronto, está quase.
+
+598
+00:52:38,990 --> 00:52:42,828
+Diabos. Preciso de mais adesivo.
+Algo para agarrar...
+
+599
+00:52:46,748 --> 00:52:47,999
+Cospe.
+
+600
+00:52:50,877 --> 00:52:52,045
+A pastilha.
+
+601
+00:53:30,125 --> 00:53:32,878
+Traz a amoxicilina e enche a seringa.
+
+602
+00:53:33,211 --> 00:53:36,047
+Uma injecção de antibiótico
+e já pode sair daqui.
+
+603
+00:53:41,928 --> 00:53:44,598
+Ao menos uma vez na vida,
+não podias atender?
+
+604
+00:53:44,931 --> 00:53:48,018
+- Ajuda-me a tirá-lo daqui.
+- Não, acabei de o tratar.
+
+605
+00:53:53,607 --> 00:53:55,150
+A mamã está furiosa.
+
+606
+00:55:11,893 --> 00:55:15,897
+Não é comportamento de caça, Ian.
+Estão à procura.
+
+607
+00:55:17,023 --> 00:55:18,858
+Vieram buscar a cria.
+
+608
+00:55:20,276 --> 00:55:22,070
+Não vamos desiludi-los.
+
+609
+00:55:24,447 --> 00:55:26,241
+Eu seguro-lhe na cabeça, está bem?
+
+610
+00:55:27,367 --> 00:55:29,077
+Cuidado. Tem cuidado.
+
+611
+00:55:30,578 --> 00:55:31,955
+Já o tenho.
+
+612
+00:55:32,247 --> 00:55:33,540
+Solta-o.
+
+613
+00:56:13,455 --> 00:56:17,333
+<i>- Sim, Eddie?</i>
+- Vão voltar para selva.
+
+614
+00:56:18,334 --> 00:56:22,172
+<i>- Compreendo. Como está a Kelly?</i>
+- Está óptima. Está aqui mesmo.
+
+615
+00:56:23,798 --> 00:56:24,924
+Sim?
+
+616
+00:56:25,008 --> 00:56:28,011
+<i>- Kelly, estás bem?</i>
+- Sim, tudo bem.
+
+617
+00:56:28,803 --> 00:56:32,766
+<i>Fica aí. Não te mexas. Volto já. Entendido?</i>
+
+618
+00:56:33,141 --> 00:56:34,642
+Sim, entendido.
+
+619
+00:56:37,645 --> 00:56:41,524
+Implorei que me ouvissem.
+Falei um inglês claro e conciso.
+
+620
+00:56:41,649 --> 00:56:42,817
+Cala-te.
+
+621
+00:56:42,942 --> 00:56:45,779
+Isso dava um capítulo interessante
+no teu livro.
+
+622
+00:56:45,862 --> 00:56:50,950
+O debate sobre os instintos paternais
+dos T-Rex é académico.
+
+623
+00:56:57,373 --> 00:56:59,459
+Alto. Isto vai ser mau.
+
+624
+00:57:18,311 --> 00:57:20,480
+Estão a empurrar-nos para o precipício.
+
+625
+00:57:20,980 --> 00:57:22,148
+Meu Deus.
+
+626
+00:57:28,738 --> 00:57:30,281
+Vá lá, vá lá.
+
+627
+00:57:30,365 --> 00:57:32,492
+- Quando sairmos...
+- Para o mato.
+
+628
+00:57:32,575 --> 00:57:36,538
+- Para o mato. Vamos!
+- Foi aqui que nos atingiram.
+
+629
+00:57:43,586 --> 00:57:46,214
+- Agarra-te a algo!
+- Agarra-te!
+
+630
+00:58:25,753 --> 00:58:28,047
+Meu Deus, por favor!
+
+631
+00:58:33,970 --> 00:58:35,263
+Não te mexas!
+
+632
+00:58:36,264 --> 00:58:39,225
+Vou buscar-te. Fica quieta.
+
+633
+00:58:40,602 --> 00:58:42,103
+Aqui vou eu, Sarah.
+
+634
+00:58:51,321 --> 00:58:53,281
+Nick! Traz o telefone!
+
+635
+00:58:55,783 --> 00:58:56,826
+Está bem.
+
+636
+00:59:26,648 --> 00:59:28,483
+Dá-me a mão, querida.
+
+637
+00:59:34,322 --> 00:59:35,823
+Atenção!
+
+638
+00:59:48,503 --> 00:59:49,837
+A tua mochila da sorte.
+
+639
+00:59:55,927 --> 00:59:57,053
+Já a tenho.
+
+640
+01:00:28,293 --> 01:00:30,211
+- Nick?
+- Estamos aqui.
+
+641
+01:00:30,295 --> 01:00:31,546
+Esperem. Alto! Vou já!
+
+642
+01:00:31,629 --> 01:00:32,755
+ESTADO DO VEÍCULO
+
+643
+01:00:33,131 --> 01:00:35,383
+Vou já! Raios!
+
+644
+01:00:39,887 --> 01:00:41,222
+Estou a ir.
+
+645
+01:00:41,639 --> 01:00:42,890
+Como foi isto?
+
+646
+01:00:43,433 --> 01:00:45,601
+Kelly. Onde está a Kelly?
+
+647
+01:00:45,768 --> 01:00:47,979
+Ela está bem. Está lá em cima.
+
+648
+01:00:48,980 --> 01:00:51,733
+- Quem se magoou? De que precisam?
+- Precisamos de corda.
+
+649
+01:00:51,983 --> 01:00:53,568
+Corda. Mais alguma coisa?
+
+650
+01:00:54,235 --> 01:00:57,071
+- Três hambúrgueres com tudo.
+- Não quero cebola no meu.
+
+651
+01:00:57,155 --> 01:00:58,906
+E uma tarte de maçã.
+
+652
+01:01:36,986 --> 01:01:38,029
+Aguentem.
+
+653
+01:01:40,281 --> 01:01:41,449
+Vou já!
+
+654
+01:01:42,116 --> 01:01:43,868
+Traz a corda. Vamos.
+
+655
+01:01:43,951 --> 01:01:45,620
+- Já vou.
+- Agora, agora.
+
+656
+01:01:45,953 --> 01:01:48,498
+- Eddie, estás bem?
+- Sim. Vou já.
+
+657
+01:01:48,790 --> 01:01:51,376
+Precisamos de corda.
+Atira-a para aqui. Depressa!
+
+658
+01:01:51,626 --> 01:01:54,170
+Boa pontaria. Amarraste-a a algum sítio?
+
+659
+01:01:58,716 --> 01:02:01,469
+- Estamos a escorregar!
+- Estamos a escorregar!
+
+660
+01:02:15,817 --> 01:02:17,235
+Para cima, vá.
+
+661
+01:04:31,160 --> 01:04:32,203
+Vá.
+
+662
+01:04:32,954 --> 01:04:34,789
+Aumenta a velocidade.
+
+663
+01:06:56,931 --> 01:06:59,600
+O nosso equipamento de comunicações
+está destruído.
+
+664
+01:06:59,767 --> 01:07:03,729
+E se o vosso rádio e telefone de satélite
+estavam nas caravanas...
+
+665
+01:07:03,813 --> 01:07:06,232
+- Estavam.
+- Então, estamos aqui presos.
+
+666
+01:07:06,440 --> 01:07:08,818
+Todos, graças a vocês.
+
+667
+01:07:08,901 --> 01:07:11,696
+Nós viemos observar.
+Vocês vieram esventrar isto.
+
+668
+01:07:11,779 --> 01:07:14,115
+- Desapareçam.
+- Ao menos viemos preparados.
+
+669
+01:07:14,240 --> 01:07:18,994
+Cinco anos de trabalho e cercas eléctricas
+não chegaram na outra ilha.
+
+670
+01:07:19,161 --> 01:07:23,374
+- Acha que o seu vaqueiro vai ajudar?
+- Vocês são ladrões. Vieram pilhar.
+
+671
+01:07:23,457 --> 01:07:24,625
+Não têm quaisquer direitos.
+
+672
+01:07:24,709 --> 01:07:27,378
+Um animal extinto é que não tem direitos.
+
+673
+01:07:27,461 --> 01:07:30,715
+Existe porque o fizemos.
+Patenteámo-lo. É nosso.
+
+674
+01:07:32,049 --> 01:07:35,010
+- Queres arranjar problemas?
+- Já te arranjei a ti, não?
+
+675
+01:07:35,553 --> 01:07:36,887
+Parem!
+
+676
+01:07:38,305 --> 01:07:39,765
+Vá lá!
+
+677
+01:07:39,849 --> 01:07:41,016
+Eu conheço-te.
+
+678
+01:07:41,809 --> 01:07:43,936
+És o sacana do Earth First.
+
+679
+01:07:44,019 --> 01:07:46,480
+- O que é o Earth First?
+- Sabotadores profissionais.
+
+680
+01:07:46,564 --> 01:07:47,982
+- Ambientalistas!
+- Criminosos.
+
+681
+01:07:48,065 --> 01:07:49,775
+Parem com isso! Oiçam.
+
+682
+01:07:49,900 --> 01:07:53,738
+Trazer a cria para o acampamento
+mudou a territorialidade deles.
+
+683
+01:07:53,821 --> 01:07:55,030
+A quantas?
+
+684
+01:07:55,406 --> 01:07:57,950
+Por isso atacaram as caravanas.
+
+685
+01:07:58,117 --> 01:08:01,620
+- Estão a defender toda a área.
+- Temos de sair daqui.
+
+686
+01:08:01,746 --> 01:08:06,083
+Para onde? O nosso barco e o avião
+esperam ordens que não podemos enviar.
+
+687
+01:08:06,167 --> 01:08:07,626
+Muito bem.
+
+688
+01:08:07,710 --> 01:08:11,964
+Há aqui um centro de operações
+perto do velho edifício de operações.
+
+689
+01:08:12,047 --> 01:08:16,010
+É tudo movido a energia geotérmica.
+É auto-suficiente.
+
+690
+01:08:16,510 --> 01:08:19,555
+Se lá chegarmos,
+podemos comunicar com o avião.
+
+691
+01:08:20,139 --> 01:08:22,767
+- Sabes a frequência?
+- Está neste manual.
+
+692
+01:08:22,975 --> 01:08:25,519
+- Nós tratamos disso.
+- A que distância fica a aldeia?
+
+693
+01:08:25,811 --> 01:08:27,563
+A um dia de caminho, talvez mais.
+
+694
+01:08:31,233 --> 01:08:33,611
+- O problema não é esse.
+- Então qual é?
+
+695
+01:08:34,945 --> 01:08:36,489
+Qual é o problema?
+
+696
+01:08:37,406 --> 01:08:38,657
+<i>Os Velociraptores.</i>
+
+697
+01:08:44,163 --> 01:08:48,501
+Os ninhos deles estão no interior,
+por isso...
+
+698
+01:08:48,876 --> 01:08:52,129
+- nos mantivemos no perímetro exterior.
+- Alto. O que é um Veloci...
+
+699
+01:08:52,213 --> 01:08:55,132
+<i>Velociraptor.</i> Carnívoro. Caça em matilha.
+
+700
+01:08:55,883 --> 01:08:57,927
+Dois metros de altura, pescoço alto,
+
+701
+01:08:58,219 --> 01:09:02,223
+visão binocular, patas dianteiras fortes,
+garras mortais em ambas as patas.
+
+702
+01:09:02,598 --> 01:09:04,433
+Os T-Rex também podem detectar-nos...
+
+703
+01:09:04,517 --> 01:09:07,228
+se sentirem a cria ameaçada.
+
+704
+01:09:07,311 --> 01:09:10,481
+Não, livramo-nos deles
+assim que sairmos do seu território.
+
+705
+01:09:10,648 --> 01:09:14,693
+Não conte com isso. O <i>Tiranossauro</i> tem
+a maior cavidade nasal...
+
+706
+01:09:14,777 --> 01:09:17,780
+de todas as criaturas de que há
+registos fósseis, excepto uma.
+
+707
+01:09:17,863 --> 01:09:18,906
+Certo.
+
+708
+01:09:19,323 --> 01:09:22,827
+O abutre turco podia captar um
+odor a mais de 15 Km.
+
+709
+01:09:22,910 --> 01:09:27,456
+Certo. Isto é muito emocionante,
+mas é melhor irmos para a aldeia.
+
+710
+01:09:27,581 --> 01:09:29,917
+Podíamos ir para a lagoa.
+
+711
+01:09:30,000 --> 01:09:34,171
+E ficarmos sentados a céu aberto,
+num lago muito utilizado...
+
+712
+01:09:34,421 --> 01:09:37,758
+- à espera do teu comandante?
+- Ele não vem. Não vai arriscar-se.
+
+713
+01:09:37,842 --> 01:09:42,096
+Então arranjamos abrigo na aldeia
+e pedimos ajuda.
+
+714
+01:09:42,179 --> 01:09:44,807
+Os T-Rex já comeram.
+Não vão perseguir-nos.
+
+715
+01:09:44,890 --> 01:09:47,935
+Comeram? Refere-se ao Eddie?
+Mais respeito.
+
+716
+01:09:48,018 --> 01:09:51,397
+- Salvou-nos a vida ao dar a dele.
+- Acabaram-se-lhe os problemas.
+
+717
+01:09:51,480 --> 01:09:54,400
+A questão é que os predadores não caçam
+se não tiverem fome.
+
+718
+01:09:54,483 --> 01:09:56,944
+- Não, só os humanos o fazem.
+- Partes-me o coração.
+
+719
+01:09:57,027 --> 01:09:59,572
+Preparem-se!
+Vamos armar a tenda noutro lugar.
+
+720
+01:10:17,464 --> 01:10:18,924
+Perdão, cowboy.
+
+721
+01:10:20,467 --> 01:10:21,927
+Queres uma pastilha?
+
+722
+01:10:24,430 --> 01:10:28,058
+Pareces ser sensato. Que fazes aqui?
+
+723
+01:10:29,810 --> 01:10:33,105
+Nesta ilha está o maior predador
+que já existiu.
+
+724
+01:10:33,272 --> 01:10:36,025
+O segundo maior predador tem de o matar.
+
+725
+01:10:36,108 --> 01:10:39,111
+- Vais usar isso?
+- Se ele não se render, vou.
+
+726
+01:10:39,403 --> 01:10:41,196
+- Deixa-me ver.
+- Não.
+
+727
+01:10:43,115 --> 01:10:46,702
+O animal existe pela primeira vez
+em dezenas de milhares de anos...
+
+728
+01:10:46,785 --> 01:10:49,788
+e tu queres matá-lo?
+
+729
+01:10:49,872 --> 01:10:52,875
+Lembras-te daquele tipo há 20 anos?
+Já me esqueci do nome.
+
+730
+01:10:52,958 --> 01:10:56,045
+Escalou o Everest sem oxigénio.
+Quase morreu.
+
+731
+01:10:56,337 --> 01:10:59,173
+Perguntaram-lhe:
+"Porque foi lá acima para morrer"?
+
+732
+01:10:59,381 --> 01:11:02,134
+Ele respondeu:
+"Não. Fui lá acima para viver."
+
+733
+01:11:07,389 --> 01:11:11,226
+Boa sorte na sua nova aventura.
+Teve um início prometedor.
+
+734
+01:11:11,310 --> 01:11:14,229
+A minha equipa está intacta.
+Lamento a perda do vosso homem.
+
+735
+01:11:14,521 --> 01:11:18,692
+É fácil criticar quem tem ideias,
+quem assume os riscos.
+
+736
+01:11:18,776 --> 01:11:21,820
+Quando tenta imitar o Hammond,
+parece um vendedor.
+
+737
+01:11:21,904 --> 01:11:25,115
+A culpa não é sua.
+Dizem que o talento salta uma geração.
+
+738
+01:11:25,574 --> 01:11:28,160
+De certeza que os seus filhos
+vão ser muito espertos.
+
+739
+01:11:28,494 --> 01:11:31,538
+O Hammond tinha mais olhos
+do que barriga. Eu não.
+
+740
+01:11:31,914 --> 01:11:33,749
+Tirar dinossauros desta ilha...
+
+741
+01:11:33,832 --> 01:11:37,753
+é a pior ideia na já longa e triste história
+das más ideias.
+
+742
+01:11:37,836 --> 01:11:40,381
+E eu estarei lá quando perceber isso.
+
+743
+01:11:55,729 --> 01:11:56,814
+Vamos.
+
+744
+01:12:14,373 --> 01:12:16,500
+Vamos descansar. Cinco minutos.
+
+745
+01:12:28,762 --> 01:12:30,139
+Está magoada?
+
+746
+01:12:32,766 --> 01:12:37,354
+Não, é da cria. Tratei-lhe da perna.
+O sangue não seca com a humidade.
+
+747
+01:12:37,479 --> 01:12:39,648
+Roland, uma palavrinha?
+
+748
+01:12:41,275 --> 01:12:43,569
+Gostava de saber onde estamos.
+
+749
+01:12:48,824 --> 01:12:50,826
+A fazer amizade com o Capitão Ahab?
+
+750
+01:13:06,175 --> 01:13:08,552
+Carter, vou ao WC.
+
+751
+01:13:08,886 --> 01:13:11,138
+Espera aqui por mim. Está bem?
+
+752
+01:14:01,563 --> 01:14:03,941
+Não é bonito espreitar as pessoas.
+
+753
+01:14:24,378 --> 01:14:27,714
+Carter! Onde estás?
+
+754
+01:14:32,636 --> 01:14:34,638
+Estou perdido.
+
+755
+01:14:37,099 --> 01:14:38,142
+Merda!
+
+756
+01:14:39,184 --> 01:14:41,937
+Carter, dá notícias!
+
+757
+01:16:36,718 --> 01:16:38,136
+Roland!
+
+758
+01:16:44,017 --> 01:16:46,144
+Acabou o descanso. Vamos!
+
+759
+01:16:54,361 --> 01:16:55,612
+Leva-me.
+
+760
+01:16:56,196 --> 01:16:57,531
+Já está.
+
+761
+01:17:27,185 --> 01:17:28,228
+Vão embora!
+
+762
+01:18:29,414 --> 01:18:32,626
+- Quando o viste pela última vez?
+- Há dez, quinze minutos.
+
+763
+01:18:35,212 --> 01:18:38,465
+Vem comigo. E tu também.
+Se estiver vivo, encontramo-lo.
+
+764
+01:18:38,965 --> 01:18:42,427
+Os outros continuem.
+Em dez minutos estão no cume.
+
+765
+01:18:42,636 --> 01:18:44,137
+Esperem lá por nós.
+
+766
+01:18:47,432 --> 01:18:49,393
+Não se fala disto à miúda.
+
+767
+01:18:54,648 --> 01:18:57,818
+Certo. Vamos embora.
+
+768
+01:19:00,487 --> 01:19:02,489
+Levantem-se.
+
+769
+01:19:04,157 --> 01:19:05,826
+Vamos, levantem-se.
+
+770
+01:19:07,327 --> 01:19:10,163
+Muito bem, vamos sair daqui.
+
+771
+01:19:12,916 --> 01:19:13,959
+Vamos.
+
+772
+01:19:47,701 --> 01:19:49,035
+Roland?
+
+773
+01:20:02,048 --> 01:20:03,508
+Encontraste-o?
+
+774
+01:20:08,221 --> 01:20:10,974
+Só as partes de que eles não gostaram.
+O mapa.
+
+775
+01:20:14,352 --> 01:20:18,148
+O centro de operações é ali em baixo...
+
+776
+01:20:18,565 --> 01:20:21,485
+a cerca de dois Km
+da base destes penhascos.
+
+777
+01:20:21,568 --> 01:20:23,820
+- Como é que sabes?
+- Já o vi.
+
+778
+01:20:24,488 --> 01:20:26,406
+Descer até lá não será fácil.
+
+779
+01:20:27,824 --> 01:20:30,243
+Vamos deixá-los dormir mais uma hora.
+
+780
+01:20:31,828 --> 01:20:33,163
+Depois, vamos a isto.
+
+781
+01:21:23,755 --> 01:21:25,257
+Não.
+
+782
+01:22:42,208 --> 01:22:43,418
+Que foi?
+
+783
+01:23:07,067 --> 01:23:08,234
+Kelly.
+
+784
+01:23:19,746 --> 01:23:21,915
+Fiquem quietos! Não se mexam!
+
+785
+01:23:22,415 --> 01:23:23,792
+Não fujam!
+
+786
+01:23:32,050 --> 01:23:34,094
+Não olhem! Corram! Corram!
+
+787
+01:23:49,442 --> 01:23:50,568
+Cretino!
+
+788
+01:24:23,309 --> 01:24:25,145
+ATENÇÃO!
+TRANQUILIZANTES VETERINÁRIOS
+
+789
+01:24:25,770 --> 01:24:27,272
+USAR COM MUITA PRECAUÇÃO
+
+790
+01:25:29,209 --> 01:25:30,710
+Seu filho da puta!
+
+791
+01:25:30,877 --> 01:25:32,086
+Ele não chega até a ti!
+
+792
+01:25:32,212 --> 01:25:33,546
+Fica aí!
+
+793
+01:25:35,381 --> 01:25:36,841
+Não pode apanhar-nos!
+
+794
+01:25:37,050 --> 01:25:38,218
+Não!
+
+795
+01:25:48,853 --> 01:25:52,232
+Meu Deus! Uma cobra! Ajuda-me!
+
+796
+01:25:52,565 --> 01:25:53,775
+Fica aí!
+
+797
+01:26:06,579 --> 01:26:07,747
+Tudo bem.
+
+798
+01:26:08,748 --> 01:26:10,250
+Está a voltar!
+
+799
+01:26:13,920 --> 01:26:15,088
+Papá!
+
+800
+01:26:17,131 --> 01:26:18,424
+Obrigado.
+
+801
+01:26:31,104 --> 01:26:33,481
+Não vão para a erva alta!
+
+802
+01:26:39,153 --> 01:26:41,489
+Para a erva alta não!
+
+803
+01:27:02,969 --> 01:27:03,970
+Andem lá.
+
+804
+01:27:04,637 --> 01:27:06,014
+Continuem a andar.
+
+805
+01:27:08,641 --> 01:27:09,809
+Andem lá!
+
+806
+01:27:44,761 --> 01:27:46,012
+Olha para isto.
+
+807
+01:27:46,429 --> 01:27:48,765
+- O que é?
+- Acho que é o saco do Ajay.
+
+808
+01:28:05,073 --> 01:28:07,700
+Vão, o mais depressa que puderem.
+
+809
+01:28:09,077 --> 01:28:10,286
+Vão!
+
+810
+01:28:42,068 --> 01:28:43,736
+Estou a ver as estruturas.
+
+811
+01:28:44,904 --> 01:28:48,533
+Disseram que o centro de comunicações
+está no centro de operações.
+
+812
+01:28:48,616 --> 01:28:52,370
+Vou lá pedir ajuda pelo rádio.
+Encontramo-nos lá.
+
+813
+01:28:52,453 --> 01:28:54,122
+- Espera por nós.
+- Cada segundo conta.
+
+814
+01:28:54,247 --> 01:28:56,374
+Continuem, se puderem.
+
+815
+01:28:56,457 --> 01:28:59,085
+- Certo, cá vamos.
+- Não! Descansa.
+
+816
+01:29:46,716 --> 01:29:47,925
+Ela.
+
+817
+01:30:36,182 --> 01:30:39,227
+PERIGO
+
+818
+01:31:02,375 --> 01:31:03,626
+Raios!
+
+819
+01:31:05,711 --> 01:31:06,921
+Atendam.
+
+820
+01:31:09,215 --> 01:31:13,136
+Daqui líder da operação Harvest da InGen
+para a base Harvest.
+
+821
+01:31:13,261 --> 01:31:16,305
+Repito, líder da operação Harvest...
+
+822
+01:31:16,472 --> 01:31:20,059
+- à base Harvest.
+<i>- Pode falar, Líder Harvest.</i>
+
+823
+01:31:20,184 --> 01:31:22,728
+A missão sofreu baixas pesadas.
+
+824
+01:31:22,812 --> 01:31:27,150
+Os sobreviventes correm perigo de morte.
+Mandem ajuda imediatamente.
+
+825
+01:31:27,316 --> 01:31:29,819
+As nossas coordenadas são...
+
+826
+01:31:30,153 --> 01:31:34,157
+9 graus e 58 minutos norte, 85 graus...
+
+827
+01:32:25,416 --> 01:32:26,584
+Nick?
+
+828
+01:33:08,793 --> 01:33:09,961
+Aqui, aqui!
+
+829
+01:33:11,545 --> 01:33:12,964
+Para dentro!
+
+830
+01:33:15,258 --> 01:33:16,550
+Vão para dentro!
+
+831
+01:35:18,297 --> 01:35:19,548
+Vai.
+
+832
+01:35:19,632 --> 01:35:22,635
+- Para onde vou quando sair?
+- Estou mesmo atrás de ti...
+
+833
+01:35:49,537 --> 01:35:50,746
+Cuidado!
+
+834
+01:35:51,122 --> 01:35:52,289
+Cuidado!
+
+835
+01:35:54,583 --> 01:35:55,918
+Sobe para aqui!
+
+836
+01:36:07,471 --> 01:36:08,681
+Kelly, não!
+
+837
+01:36:21,152 --> 01:36:22,278
+Tu aí!
+
+838
+01:36:42,923 --> 01:36:44,884
+E tiraram-te da equipa da escola?
+
+839
+01:36:44,967 --> 01:36:47,887
+Saiam daí! Vão!
+
+840
+01:38:08,759 --> 01:38:10,261
+Saiam! Vamos!
+
+841
+01:38:13,055 --> 01:38:14,932
+Vamos embora!
+
+842
+01:38:36,287 --> 01:38:37,955
+Vamos embora!
+
+843
+01:38:38,122 --> 01:38:41,417
+- Onde estão os outros sobreviventes?
+- Vem aí outro helicóptero.
+
+844
+01:38:53,762 --> 01:38:56,223
+InGen - Somos o Seu Futuro
+
+845
+01:39:00,644 --> 01:39:02,730
+Tudo bem. Já acabou.
+
+846
+01:39:04,523 --> 01:39:07,526
+Eis uma recordação
+que não levarão com eles.
+
+847
+01:39:16,327 --> 01:39:18,245
+Procurem a cria do <i>Tiranossauro.</i>
+
+848
+01:39:18,412 --> 01:39:21,582
+O Roland sabe onde é o ninho.
+Quero-a no avião.
+
+849
+01:39:22,082 --> 01:39:25,210
+Levo-a directamente
+para a enfermaria em San Diego.
+
+850
+01:39:25,878 --> 01:39:30,466
+Depressa. Quero estar no ar
+antes que a fêmea nos descubra.
+
+851
+01:39:37,264 --> 01:39:39,016
+Provavelmente salvaste a InGen.
+
+852
+01:39:39,224 --> 01:39:41,685
+Perdemos tudo
+o que queríamos desta viagem.
+
+853
+01:39:41,769 --> 01:39:44,897
+Mas este animal e a cria vão safar-nos.
+
+854
+01:39:45,189 --> 01:39:46,565
+Parabéns.
+
+855
+01:39:47,149 --> 01:39:48,859
+Tens o teu troféu!
+
+856
+01:39:49,276 --> 01:39:50,361
+Apenas um macho.
+
+857
+01:39:51,195 --> 01:39:56,283
+Mas está vivo! Todos quererão vê-lo
+e apreciar o que fizeste por nós.
+
+858
+01:39:57,701 --> 01:39:59,161
+Que foi?
+
+859
+01:39:59,411 --> 01:40:01,455
+Ele não sobreviveu. O Ajay.
+
+860
+01:40:02,790 --> 01:40:04,041
+Lamento.
+
+861
+01:40:05,084 --> 01:40:06,710
+A sério.
+
+862
+01:40:10,589 --> 01:40:12,883
+Não esqueço quem me ajudou.
+
+863
+01:40:12,966 --> 01:40:15,678
+Tens emprego em San Diego, se quiseres.
+
+864
+01:40:15,761 --> 01:40:17,012
+Não, obrigado.
+
+865
+01:40:19,390 --> 01:40:22,142
+Já passei tempo de mais
+na companhia da morte.
+
+866
+01:40:36,031 --> 01:40:37,157
+Meu Deus.
+
+867
+01:41:38,260 --> 01:41:40,888
+<i>Há quinze anos,</i>
+<i>John Hammond teve um sonho.</i>
+
+868
+01:41:41,597 --> 01:41:46,143
+<i>Tal como o John, o sonho era grandioso.</i>
+<i>Era arrojado, impraticável.</i>
+
+869
+01:41:46,226 --> 01:41:49,229
+<i>Estava destinado ao fracasso.</i>
+
+870
+01:41:49,938 --> 01:41:51,690
+Mas daqui a meia-hora...
+
+871
+01:41:51,774 --> 01:41:55,110
+o reinventado sonho do John
+será realidade.
+
+872
+01:41:56,069 --> 01:42:00,240
+Por um centésimo do custo de construção
+de uma estância a milhares de quilómetros...
+
+873
+01:42:01,033 --> 01:42:02,785
+É aqui a concentração do Ludlow?
+
+874
+01:42:02,868 --> 01:42:04,995
+- É propriedade privada.
+- Nós estamos na lista.
+
+875
+01:42:05,078 --> 01:42:06,663
+Dê meia volta, entre no carro.
+
+876
+01:42:06,747 --> 01:42:10,459
+- A Dra. Harding. Sou o Dr. Malcolm.
+- Temos os resultados do Sr. Ludlow.
+
+877
+01:42:10,751 --> 01:42:12,127
+Há boas e más notícias.
+
+878
+01:42:12,586 --> 01:42:15,255
+Esta noite baptizamos o Parque Jurássico
+de San Diego...
+
+879
+01:42:15,339 --> 01:42:18,509
+com uma mega-atracção
+que atrairá milhões de pessoas...
+
+880
+01:42:18,592 --> 01:42:21,053
+sem comparação com qualquer
+outro parque temático.
+
+881
+01:42:25,015 --> 01:42:29,144
+Agradeço a todos por terem vindo
+a estas horas da madrugada.
+
+882
+01:42:30,604 --> 01:42:33,190
+- O barco já chegou.
+- É cedo?
+
+883
+01:42:34,566 --> 01:42:36,109
+É melhor vir já.
+
+884
+01:42:38,111 --> 01:42:39,530
+É tão emocionante!
+
+885
+01:42:41,532 --> 01:42:44,034
+- Vê aquele casal?
+- Tem de vir comigo.
+
+886
+01:42:44,117 --> 01:42:46,203
+- Deixe-os ver isto de perto.
+- Sim, senhor.
+
+887
+01:42:46,829 --> 01:42:48,288
+Deixe-me verificar.
+
+888
+01:42:49,164 --> 01:42:52,251
+Quero imediatamente uma linha directa
+com a Guarda Costeira.
+
+889
+01:42:52,668 --> 01:42:56,129
+Veja. É o sinal deles, Venture 5888.
+
+890
+01:42:56,880 --> 01:42:59,800
+- Estão a chegar, mas não obtenho resposta.
+- Tente de novo.
+
+891
+01:43:01,134 --> 01:43:05,430
+Cdt. do <i>SS Venture,</i>
+fala o Cdt. do porto InGen. Está a ouvir?
+
+892
+01:43:07,850 --> 01:43:11,562
+Cdt. do <i>SS Venture,</i>
+aproxima-se a velocidade excessiva.
+
+893
+01:43:11,645 --> 01:43:13,146
+Reduza a velocidade imediatamente.
+
+894
+01:43:27,995 --> 01:43:30,372
+<i>SS Venture,</i> reduza a velocidade
+imediatamente.
+
+895
+01:43:30,455 --> 01:43:34,918
+<i>SS Venture,</i> fala o Cdt. do porto da InGen.
+Está a entrar na doca.
+
+896
+01:43:35,752 --> 01:43:37,588
+Para onde estão todos a olhar?
+
+897
+01:43:41,925 --> 01:43:43,719
+Devíamos ter ficado no carro.
+
+898
+01:44:36,605 --> 01:44:39,691
+- Sente-se bem, Sr. Ludlow?
+- Não sei. Qual é o meu ar?
+
+899
+01:45:12,391 --> 01:45:14,434
+- Meu Deus.
+- A tripulação?
+
+900
+01:45:16,478 --> 01:45:17,980
+Está espalhada pelo navio.
+
+901
+01:45:28,657 --> 01:45:30,200
+Cheira-me a fuga de combustível!
+
+902
+01:46:07,320 --> 01:46:08,864
+Vejam o porão!
+
+903
+01:46:09,448 --> 01:46:12,909
+- Pode lá haver tripulantes.
+- Saiam todos do barco!
+
+904
+01:46:20,959 --> 01:46:22,669
+Não! Não toque nisso!
+
+905
+01:46:56,495 --> 01:46:58,205
+Agora já é o John Hammond.
+
+906
+01:47:01,249 --> 01:47:03,543
+PROIBIDA A PASSAGEM DE FRUTOS,
+VEGETAIS OU ANIMAIS
+
+907
+01:47:03,627 --> 01:47:05,003
+Bem-vindos aos Estados Unidos da América
+
+908
+01:47:28,610 --> 01:47:32,823
+- Porque não o adormeceram?
+- Apanhou com dois dardos de Carfentanil.
+
+909
+01:47:32,906 --> 01:47:35,408
+- Foi mais de 10 miligramas.
+- Isso punha-o em coma.
+
+910
+01:47:35,492 --> 01:47:38,328
+Ele deixou de respirar.
+Demos-lhe Naltrexona,
+
+911
+01:47:38,411 --> 01:47:39,579
+mas não sabíamos a dose.
+
+912
+01:47:39,663 --> 01:47:42,124
+Deram-lhe um antídoto
+sem saberem que dose utilizar?
+
+913
+01:47:42,207 --> 01:47:45,335
+Puseram-no num estado narcoléptico.
+Agora parece uma locomotiva.
+
+914
+01:47:45,418 --> 01:47:48,255
+- Nós estávamos preparados.
+- Há mais dinossauros no barco?
+
+915
+01:47:48,338 --> 01:47:52,384
+Não. A cria veio de avião.
+Demos-lhe um tranquilizante.
+
+916
+01:47:56,680 --> 01:47:58,390
+Têm a cria?
+
+917
+01:48:00,183 --> 01:48:01,351
+Está segura.
+
+918
+01:48:05,438 --> 01:48:08,483
+O animal está desidratado.
+Primeiro, irá procurar água...
+
+919
+01:48:08,567 --> 01:48:12,529
+depois, aquilo que mais precisar.
+O equipamento de contenção está aqui.
+
+920
+01:48:12,612 --> 01:48:15,574
+Temos de o trazer para as docas.
+O barco pode ser resistente.
+
+921
+01:48:15,657 --> 01:48:17,325
+Já sei o que vais dizer.
+
+922
+01:48:17,409 --> 01:48:19,953
+Ao levarmos a cria para a caravana,
+ele veio também.
+
+923
+01:48:20,036 --> 01:48:23,456
+Não há razão para não fazer o mesmo aqui.
+
+924
+01:48:24,833 --> 01:48:26,001
+Exacto.
+
+925
+01:48:28,170 --> 01:48:29,671
+Onde está a cria?
+
+926
+01:48:32,799 --> 01:48:34,885
+Em instalações de segurança. Porquê?
+
+927
+01:48:38,263 --> 01:48:39,848
+Onde são as instalações?
+
+928
+01:50:04,683 --> 01:50:06,851
+Temos um dinossauro no quintal.
+
+929
+01:50:13,400 --> 01:50:15,360
+Benjamin, que andas a fazer?
+
+930
+01:50:15,568 --> 01:50:17,070
+O que estás a fazer?
+
+931
+01:50:17,904 --> 01:50:19,072
+Que foi?
+
+932
+01:50:20,073 --> 01:50:23,034
+Venham. Há um dinossauro
+no nosso quintal.
+
+933
+01:50:23,201 --> 01:50:26,288
+- A questão é que devias ler-lhe histórias.
+- Não.
+
+934
+01:50:26,371 --> 01:50:27,706
+Eu digo-te o que é.
+
+935
+01:50:27,789 --> 01:50:30,542
+Tens de lhe dar o jantar.
+Assim não fica de pé até tarde.
+
+936
+01:50:30,625 --> 01:50:32,377
+É a porcaria do aquário!
+
+937
+01:50:32,460 --> 01:50:35,005
+- Precisa de luz à noite.
+- Põe algo por cima!
+
+938
+01:50:35,088 --> 01:50:38,300
+- Até parece de dia.
+- Desliga-a.
+
+939
+01:50:55,567 --> 01:50:56,943
+VIA FECHADA
+
+940
+01:50:57,444 --> 01:50:59,070
+NÃO PASSAR - EMPREGADOS APENAS!
+
+941
+01:50:59,946 --> 01:51:01,906
+Abrande. Abrande!
+
+942
+01:51:26,014 --> 01:51:27,265
+Ei-la.
+
+943
+01:51:34,105 --> 01:51:35,357
+Deram-lhe um tranquilizante.
+
+944
+01:51:37,609 --> 01:51:40,945
+E dos fortes. Ajuda-me.
+
+945
+01:51:44,282 --> 01:51:48,453
+Quando o adulto vir que temos
+novamente a cria, não vai ficar tipo:
+
+946
+01:51:48,536 --> 01:51:49,621
+"Vocês!"
+
+947
+01:51:50,789 --> 01:51:54,292
+Talvez haja um reconhecimento colérico.
+
+948
+01:51:55,835 --> 01:51:58,797
+Quem sabe? Pode ser que fique feliz
+por ver-nos.
+
+949
+01:51:59,631 --> 01:52:01,633
+Que estão a fazer?
+
+950
+01:52:03,301 --> 01:52:04,844
+Vamos levar a cria.
+
+951
+01:52:05,720 --> 01:52:08,515
+Se quer realmente deter-nos, dispare.
+
+952
+01:52:10,392 --> 01:52:13,478
+- Como vamos encontrar o adulto?
+- É só seguir os gritos.
+
+953
+01:52:39,921 --> 01:52:42,507
+Vão para o outro lado do autocarro!
+
+954
+01:53:34,267 --> 01:53:36,144
+- Ali!
+- Meu Deus.
+
+955
+01:53:50,074 --> 01:53:51,201
+Ele não acorda.
+
+956
+01:53:51,284 --> 01:53:53,995
+Não vai saber que o temos,
+a menos que faça um ruído!
+
+957
+01:53:54,078 --> 01:53:56,372
+Acorda. Vá.
+
+958
+01:54:04,422 --> 01:54:05,507
+Ele já sabe.
+
+959
+01:54:21,439 --> 01:54:23,316
+Ian, abranda um pouco.
+
+960
+01:54:25,443 --> 01:54:26,819
+Não me parece.
+
+961
+01:54:36,663 --> 01:54:37,830
+POLÍCIA DE SAN DIEGO
+
+962
+01:54:38,289 --> 01:54:40,041
+DEPARTAMENTO DE CONTROLO
+DE ANIMAIS
+
+963
+01:54:47,090 --> 01:54:50,593
+Está quase acordado.
+Sabes para onde vais?
+
+964
+01:54:50,885 --> 01:54:54,556
+O mar fica do outro lado destes armazéns.
+
+965
+01:54:54,639 --> 01:54:57,809
+- Há alguma passagem?
+- Meu Deus, talvez haja.
+
+966
+01:55:03,982 --> 01:55:05,149
+Cá vamos.
+
+967
+01:55:08,027 --> 01:55:09,821
+Tens de me seguir.
+
+968
+01:55:09,904 --> 01:55:11,155
+Eu levo-o.
+
+969
+01:55:12,031 --> 01:55:13,575
+- Estás a segurá-lo?
+- Claro.
+
+970
+01:55:13,950 --> 01:55:15,326
+Cá vamos nós.
+
+971
+01:55:15,410 --> 01:55:18,496
+- Pronta?
+- O T-Rex? Continua atrás de nós?
+
+972
+01:55:26,754 --> 01:55:27,964
+Eis a água.
+
+973
+01:55:28,047 --> 01:55:30,675
+Abatam-no. Diz-lhes para o abaterem.
+
+974
+01:55:35,346 --> 01:55:39,851
+Não, cretino, o adulto. Quero a cria viva.
+
+975
+01:56:09,547 --> 01:56:11,007
+Dr. Malcolm!
+
+976
+01:56:12,759 --> 01:56:15,219
+O que fez com ela? Quero a cria!
+
+977
+01:56:47,001 --> 01:56:48,336
+Estás aí?
+
+978
+01:57:19,117 --> 01:57:20,493
+Cá estás tu.
+
+979
+01:57:40,722 --> 01:57:41,931
+Espera.
+
+980
+01:59:51,352 --> 01:59:53,771
+<i>Temos boas imagens do convés do navio...</i>
+
+981
+01:59:55,022 --> 01:59:57,733
+<i>e do porão que, neste momento...</i>
+
+982
+01:59:57,817 --> 02:00:01,988
+<i>contém o próprio animal,</i>
+<i>supostamente com a sua cria.</i>
+
+983
+02:00:02,530 --> 02:00:07,159
+<i>Segundo os nossos cálculos, devem estar</i>
+<i>a cerca de metade desta viagem.</i>
+
+984
+02:00:07,243 --> 02:00:09,412
+<i>Jim, estás a ouvir?</i>
+
+985
+02:00:10,079 --> 02:00:13,124
+<i>Sim, Bernard.</i>
+<i>Estamos a meio caminho da ilha.</i>
+
+986
+02:00:13,207 --> 02:00:16,544
+<i>Fica a 206 milhas náuticas</i>
+<i>do ponto em que estamos.</i>
+
+987
+02:00:16,627 --> 02:00:18,504
+<i>O navio move-se a 20 nós...</i>
+
+988
+02:00:18,588 --> 02:00:21,883
+<i>logo devemos chegar cerca das 11:30 TMG.</i>
+
+989
+02:00:21,966 --> 02:00:25,386
+<i>Uma das maiores preocupações da Marinha,</i>
+<i>tem sido a segurança.</i>
+
+990
+02:00:25,595 --> 02:00:28,890
+<i>A crescente escolta à volta do navio...</i>
+
+991
+02:00:29,056 --> 02:00:32,852
+<i>significa que o incidente de San Diego</i>
+<i>não se voltará a repetir.</i>
+
+992
+02:00:33,436 --> 02:00:36,606
+<i>Vamos passar de novo a gravação...</i>
+
+993
+02:00:36,689 --> 02:00:39,734
+<i>da entrevista de hoje com John Hammond.</i>
+
+994
+02:00:39,901 --> 02:00:42,862
+<i>Ele é o ex-director da InGen BioEngineering,</i>
+
+995
+02:00:42,987 --> 02:00:45,740
+<i>o homem que agora lidera este movimento...</i>
+
+996
+02:00:45,823 --> 02:00:48,492
+<i>não só para devolver os animais à ilha,</i>
+
+997
+02:00:48,576 --> 02:00:51,203
+<i>mas para mantê-la intacta.</i>
+
+998
+02:00:52,246 --> 02:00:55,333
+<i>É absolutamente imperativo...</i>
+
+999
+02:00:56,000 --> 02:01:00,254
+<i>trabalhar com o Dep. de</i>
+<i>Reserva Biológica da Costa Rica...</i>
+
+1000
+02:01:00,338 --> 02:01:02,506
+<i>para estabelecer regras...</i>
+
+1001
+02:01:03,090 --> 02:01:06,969
+<i>com vista à preservação</i>
+<i>e isolamento desta ilha.</i>
+
+1002
+02:01:08,346 --> 02:01:13,309
+<i>Estas criaturas precisam da nossa ausência</i>
+<i>para sobreviver...</i>
+
+1003
+02:01:13,392 --> 02:01:14,727
+<i>e não da nossa ajuda.</i>
+
+1004
+02:01:15,394 --> 02:01:18,564
+<i>E se pudermos deixar de interferir...</i>
+
+1005
+02:01:20,441 --> 02:01:22,193
+<i>e confiarmos na natureza,</i>
+
+1006
+02:01:23,319 --> 02:01:25,738
+<i>a vida encontrará uma solução.</i>
+
+1007
+02:01:58,396 --> 02:02:01,396
+<i>Ripadas e sincronizadas por:</i>
+PT-Subs Rips
+
