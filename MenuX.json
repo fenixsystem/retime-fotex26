@@ -84,15 +84,15 @@
           "tipo": "serie"
         }
 
-          ]
+]
     },
     {
-      "nome": "● [B]Coléçoes[/B] ●",
+      "nome": "● [B]Coleções[/B] ●",
       "imagem": "https://i.postimg.cc/SK4Mp1wc/SERIESo1.jpg",
       "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
       "itens": [
              {
-          "nome": "Stranger Things: Histórias de 85 (2026)",
+          "nome": "Harry Potter: Coleção",
           "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Stranger.Things.Tales.from.json",
           "imagem": "https://image.tmdb.org/t/p/original/b5DNPTXVhiG4hiANRyAvPj21n6I.jpg",
           "fanart": "https://image.tmdb.org/t/p/original/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
@@ -100,7 +100,7 @@
           "tipo": "serie"
         }
         
-      ]
+]
     },
     {
       "nome": "● [B]Séries[/B] ●",
