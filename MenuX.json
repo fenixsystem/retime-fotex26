@@ -83,6 +83,23 @@
           "imagem": "https://i.postimg.cc/523L7gPq/Copilot_20260322_014212.png",
           "tipo": "serie"
         }
+
+          ]
+    },
+    {
+      "nome": "● [B]Coléçoes[/B] ●",
+      "imagem": "https://i.postimg.cc/SK4Mp1wc/SERIESo1.jpg",
+      "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
+      "itens": [
+             {
+          "nome": "Stranger Things: Histórias de 85 (2026)",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Stranger.Things.Tales.from.json",
+          "imagem": "https://image.tmdb.org/t/p/original/b5DNPTXVhiG4hiANRyAvPj21n6I.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
+          "sinopse": "[COLOR yellow]Animação, Aventura, Ficção[/COLOR]\nRetorne a Hawkins com Stranger Things: Histórias de 85, a nova série de animação do showrunner Eric Robles com produção executiva dos irmãos Duffer. No inverno de 1985, a cidade está coberta de neve e se recuperando dos horrores do Mundo Invertido. A vida de Onze, Mike, Will, Dustin, Lucas e Max volta ao normal, com direito a partidas de Dungeons & Dragons, guerras de bolas de neve e dias tranquilos. Contudo, algo terrível despertou sob o gelo. Ninguém sabe se sua origem é o Mundo Invertido, as profundezas do Laboratório de Hawkins ou algum outro lugar. Agora, nossos heróis precisam correr contra o tempo para solucionar esse mistério e salvar a cidade nesta nova história ambientada no universo de Stranger Things. ",
+          "tipo": "serie"
+        }
+        
       ]
     },
     {
