@@ -9,46 +9,7 @@
       "sinopse": "[COLOR yellow]Animação, Família, Fantasia, Terror, Aventura[/COLOR]\nUma jovem e talentosa escritora do México do século XIX viaja para o seu subconsciente e se depara com personagens de suas próprias histórias assustadoras.",
       "legenda": "",
       "tipo": "filme"
-    },  
- {
-      "nome": "Cara de Um, Focinho de Outro (2026)",
-      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d87f4856eb70663c85c99a89781185bf7d6cc3d",
-      "imagem": "https://image.tmdb.org/t/p/original/ftPFJBGbldoWiiPrmesW96zBzdH.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/ib7qnSUbm2zACid6oSVgG1kt3ZG.png",
-      "sinopse": "[COLOR yellow]Aventura, Animação, Comédia, Família, Ficção científica[/COLOR]\nMabel é uma jovem amante da natureza que tenta impedir o prefeito Jerry de construir uma rodovia que destruirá suas florestas locais. Graças a um experimento secreto de troca de cérebros, Mabel consegue transferir sua mente para um castor robô e segue para um lago, onde refugiados da industrialização invasora desembarcaram. Lá, ela tenta convencer os animais, liderados pelo castor majestoso Rei George, a se juntarem a ela e impedirem a construção da rodovia.",
-      "legenda": "",
-      "tipo": "filme"
-    },   
-{
-  "nome": "Um Cabra Bom de Bola (2026)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdd93ccfd0d235fa290b5b4690b7d792bef362e2&",
-  "imagem": "https://image.tmdb.org/t/p/original/x0SRTrltSJi1iQiIAUpyvkxnr41.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/ucDMmWAYOiBhd6cZCDWVK9DIIQ4.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/5mTk37Pa6LCMgCwDp2wl4AE3eA9.png",
-  "sinopse": "[COLOR yellow]Animação, Aventura, Comédia[/COLOR]\nUm pequeno bode chamado Will ganha a chance de sua vida para se juntar aos profissionais e jogar roarball, um esporte de alta intensidade e contato total, dominado pelos animais mais velozes e ferozes do mundo.",
-  "legenda": "",
-  "tipo": "filme"
- },    
-{
-  "nome": "Charlie: O Cão Maravilha (2025)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a327bbb4533d6e49e7aab6019e1ebe424f6e1cbd&",
-  "imagem": "https://image.tmdb.org/t/p/original/vsFsD57Z3y2GWKY7JDLoZhwXHKt.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/x0D2AcsssMSfKv9AIKOZUdbsbof.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/msJ3XmsaP2Cwn9NgZmGI2ARCJhg.png",
-  "sinopse": "[COLOR yellow]Animação, Ação, Aventura[/COLOR]\nSasha, um garoto tímido de 9 anos, se junta ao cachorro de sua família, que é abduzido por alienígenas e retorna com superpoderes, para frustrar um plano do gato sinistro do vizinho de destruir a humanidade.",
-  "legenda": "",
-  "tipo": "filme"
- },    
-{
-  "nome": "Arco (2025)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff6e4ff829e67bf6743f43d2a1356b3513723e7f&",
-  "imagem": "https://image.tmdb.org/t/p/original/agkPfqKgwA8M3OSkrkTGk9zzm72.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/iILwdZdpzJDhVn1TRJzS4GEZtVc.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/qELm5LbLfbZUQuQO2RCeiWjZ7Jn.png",
-  "sinopse": "[COLOR yellow]Animação, Aventura, Fantasia[/COLOR]\nUm menino de 10 anos, de um futuro distante e pacífico, acidentalmente viaja de volta ao ano 2075 e descobre um mundo em perigo. À medida que Arco desenvolve uma amizade com uma jovem chamada Iris, eles se unem e, junto com seu robô cuidador Mikki, partem em uma jornada para conduzir Arco de volta para casa.",
-  "legenda": "",
-  "tipo": "filme"
- }
+    }  
+ 
   ]
 }
