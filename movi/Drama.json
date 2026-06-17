@@ -19,57 +19,7 @@
       "sinopse": "[COLOR yellow]Música, Drama[/COLOR]\nA história da vida de Michael Jackson além da música, traçando sua jornada desde a descoberta de seu talento extraordinário como líder dos Jackson Five até o artista visionário cuja ambição criativa impulsionou uma busca implacável para se tornar o maior artista do mundo.",
       "legenda": "",
       "tipo": "filme"
-    }, 
-{
-  "nome": "One Chicago Crossover (2025)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a0901cb17672796d7dcd0bccadf4a3d34cccd49&",
-  "imagem": "https://universalplus.com.br/files/news/28849773.jpg",
-  "fanart": "https://deadline.com/wp-content/uploads/2024/11/One-Chicago.jpg",
-  "clearlogo": "",
-  "sinopse": "[COLOR yellow]Drama[/COLOR]\nQuando uma explosão de gás abala um arranha-céu, os socorristas de Chicago saem para resgatar centenas de civis. No entanto, é a calamidade abaixo da superfície que leva nossos heróis a uma corrida para salvar 40 pessoas presas no subsolo, incluindo duas delas. ",
-  "legenda": "",
-  "tipo": "filme"
- },    
-{
-  "nome": "Uma Segunda Chance (2026)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ea7c0b5f34911188d992bee1e645cd8998abef6&",
-  "imagem": "https://image.tmdb.org/t/p/original/yC3byha23vhC2GMR139p4W42n36.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/sCse8Ng1BBOYkqyC8dJbqDJgEO4.png",
-  "sinopse": "[COLOR yellow]Drama, Romance[/COLOR]\nO best-seller de Colleen Hoover se torna um filme inspirador sobre maternidade, perdão e o poder do amor de superar até o pior erro. Desesperada para reconstruir a vida com a filha que nunca conheceu, Kenna se depara com uma compaixão inesperada num romance secreto com Ledger, dono de um bar. Conforme os perigos crescem para ambos, ela espera ter uma segunda chance em meio a uma dor insuportável. ",
-  "legenda": "",
-  "tipo": "filme"
- },    
-{
-  "nome": "180 (2026)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8eb19a012c489535eb7ea5e4db4b530924389e6b&",
-  "imagem": "https://image.tmdb.org/t/p/original/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/hZcAT9ncLLGnUEC6Pe6uYWdhtrE.png",
-  "sinopse": "[COLOR yellow]Drama, Suspense[/COLOR]\nDepois que um desentendimento no trânsito sai do controle, uma gangue de taxistas violentos e um pai em luto embarcam em uma briga implacável.",
-  "legenda": "",
-  "tipo": "filme"
- },    
-{
-  "nome": "Caminhos do Crime (2026)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:906e5edb84a9fcf3ace6a8ecdf2402bf27785791&",
-  "imagem": "https://image.tmdb.org/t/p/original/3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/sl2649wlcocfFU7HKxQgNUEBMnT.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/biJM58Ih5jxjKN9Wiwp4NHXohks.png",
-  "sinopse": "[COLOR yellow]Crime, Drama, Suspense[/COLOR]\nUm ladrão prestes a realizar seu último grande golpe cruza o caminho de uma corretora de seguros desiludida. Enquanto os dois se envolvem, um detetive implacável os persegue para impedir o assalto milionário que estão planejando. ",
-  "legenda": "",
-  "tipo": "filme"
- },    
-{
-  "nome": "18 Rosas (2026)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2190126c6628bfe7553e3f39122fbc37f1d8485d&",
-  "imagem": "https://image.tmdb.org/t/p/original/1TApAJqCQekKeoRV1Nza2damyfz.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/21YKck5bSRcvRIXlVg6ZaV0k0sj.jpg",
-  "clearlogo": "",
-  "sinopse": "[COLOR yellow]Drama, Romance[/COLOR]\nNeste romance de amadurecimento, o aluno novo entra em conflito com a garota mais popular da escola. Mas ele logo percebe que vai precisar dela para várias coisas.",
-  "legenda": "",
-  "tipo": "filme"
- }
+    } 
 
   ]
 }
