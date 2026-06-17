@@ -9,47 +9,7 @@
       "sinopse": "[COLOR yellow]Comédia[/COLOR]\nRoberta está cansada de cuidar da casa e dos filhos sozinha, e decide tirar férias, enquanto deixa o marido cuidando dos filhos. O resultado é que a casa fica de pernas para o ar, já que Fred tenta conciliar as demandas familiares e as responsabilidades no trabalho. Entre risadas e confusões, o filme mostra como a família pode superar desafios quando estão juntos.",
       "legenda": "",
       "tipo": "filme"
-    },   
- {
-  "nome": "Alerta Apocalipse (2026)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:011c4859efcb735bd5b535b23e7ac08b41c766f2&",
-  "imagem": "https://image.tmdb.org/t/p/original/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/xZss9D0jknRteWrlXwK2JkgdTD3.png",
-  "sinopse": "[COLOR yellow]Comédia, Ficção científica, Suspense[/COLOR]\nQuando um fungo altamente perigoso escapa de um laboratório secreto, Robert Quinn, um ex-agente de bioterrorismo que só queria curtir a aposentadoria em paz, é chamado de volta à ação. Ao lado de Travis e Naomi, dois jovens funcionários que definitivamente não ganham o suficiente para isso, ele precisa enfrentar uma ameaça invisível e fora de controle. Em uma corrida contra o tempo, o trio descobre que salvar o mundo dá muito mais trabalho do que parece.",
-  "legenda": "",
-  "tipo": "filme"
- },   
-  {
-  "nome": "Comer, Rezar, Ladrar (2026)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44768c05315519e8fdd7a4f117b13451c0e7f96d&",
-  "imagem": "https://image.tmdb.org/t/p/original/zzjhOgtbXePGcKuacjeDmy5t4RH.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/7weSO3kEzMpMgdmte4AasS0tbeV.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/xqM9p5t7qop0Fx60zOYcv0Yw7SX.png",
-  "sinopse": "[COLOR yellow]Comédia[/COLOR]\nNesta comédia tumultuosa, cinco donos de cães excêntricos procuram ajuda para lidar com os seus amigos de quatro patas. A sua última esperança: um curso intensivo com o carismático e lendário treinador de cães Nodon nas montanhas tirolesas. ",
-  "legenda": "",
-  "tipo": "filme"
- },  
-  {
-  "nome": "Consequência (2026)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61e55c732089b9441861af17724a11dcf2b2f223&",
-  "imagem": "https://image.tmdb.org/t/p/original/dTQZwcItQNEeSjpk3BYKYg27v9t.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/2YfnhVGu8bNFoQBpKqnPfTn8ys0.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/7THokFo8SbOzRHazxokig4YRMgs.png",
-  "sinopse": "[COLOR yellow]Comédia, Drama|[/COLOR]\nReef Hawk, o queridinho de Hollywood desde os seis anos, não está bem. Ao descobrir um plano de extorsão ligado a um vídeo misterioso, Reef decide embarcar em uma jornada de redenção para se retratar, confrontar seus demônios e evitar o cancelamento.",
-  "legenda": "",
-  "tipo": "filme"
- },  
-{
-  "nome": "(Des)controle (2026)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:323a60bdeeb025089c869a3d1441aaf66d582c46&",
-  "imagem": "https://image.tmdb.org/t/p/original/scl6uVD0YZc46WZHgXbEcaH2zYw.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/4SD350fhaJ6esv665jU2b2kFHN5.jpg",
-  "clearlogo": "",
-  "sinopse": "[COLOR yellow]Comédia, Drama|[/COLOR]\nKátia Klein é uma escritora bem-sucedida que enfrenta uma crise criativa às vésperas da entrega do seu novo livro, ao mesmo tempo em que descobre a falência do seu casamento e administra o acúmulo das demandas dos filhos e dos pais. Sobrecarregada e em busca de alívio, ela passa de uma simples taça de vinho ao total descontrole, sendo gradualmente engolida pelos excessos do vício.",
-  "legenda": "",
-  "tipo": "filme"
- }
-
+    }   
+ 
   ]
 }
